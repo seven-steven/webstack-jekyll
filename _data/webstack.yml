@@ -15,6 +15,10 @@
           logo: /assets/images/logos/open.163.com.ico
           url: https://open.163.com/
           description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析,网易视频公开课频道搭建起强有力的网络视频教学平台
+        - title: 下厨房
+          logo: /assets/images/logos/xiachufang.com.ico
+          url: https://www.xiachufang.com/
+          description: 实用菜谱做法与饮食知识
 
     - name: 科普视频
       links: 
