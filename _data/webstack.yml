@@ -1,14 +1,48 @@
 - name: 学习网站
   icon: linecons-star
-  links: 
-    - title: 极客时间
-      logo: /assets/images/logos/geektime.jpg
-      url: https://time.geekbang.org/
-      description: 轻松学习，高效学习
-    - title: 慕课网
-      url: https://www.imooc.com/
-      logo: /assets/images/logos/imooc.png
-      description: 程序员的梦工厂      
+  sub: 
+    - name: 学习资源
+      links: 
+        - title: 极客时间
+          logo: /assets/images/logos/geektime.jpg
+          url: https://time.geekbang.org/
+          description: 轻松学习，高效学习
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: /assets/images/logos/imooc.png
+          description: 程序员的梦工厂
+        - title: 网易公开课
+          logo: /assets/images/logos/open.163.com.ico
+          url: https://open.163.com/
+          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析,网易视频公开课频道搭建起强有力的网络视频教学平台
+
+    - name: 科普视频
+      links: 
+        - title: Crash Cource 中文字幕组
+          logo: /assets/images/logos/crashcourse.club.png
+          url: https://crashcourse.club/category/
+          description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
+        - title: 李永乐老师
+          logo: /assets/images/logos/bilibili.ico
+          url: https://space.bilibili.com/9458053
+          description: 与我们的生活密切相关的各种科普知识，超赞！
+        - title: 译学馆
+          logo: /assets/images/logos/yxgapp.com.png
+          url: https://www.yxgapp.com/
+          description: 特别有意思、涨知识的英语学习平台
+        - title: 3Blue1Brown
+          logo: /assets/images/logos/bilibili.ico
+          url: https://space.bilibili.com/88461692
+          description: 深入浅出、直观明了地分享数学之美
+        - title: 回形针
+          logo: /assets/images/logos/ipaperclip.net.png
+          url: https://space.bilibili.com/258150656/
+          description: 你的当代生活说明书
+        # - title: 
+        #   logo: /assets/images/logos/
+        #   url: 
+        #   description: 
+
 
 - name: 效率工具
   icon: linecons-star
@@ -17,6 +51,14 @@
       logo: /assets/images/logos/dida365.png
       url: https://dida365.com/
       description: 达成更多，用心生活
+    - title: 幕布
+      logo: /assets/images/logos/mubu.com.ico
+      url: https://mubu.com/
+      description: 极简大纲笔记 | 一键生成思维导图
+    - title: ProcessOn
+      logo: /assets/images/logos/processon.com.ico
+      url: https://www.processon.com/
+      description: 免费在线作图、实时协作
     - title: Markdown Nice 
       logo: /assets/images/logos/mdnice.ico
       url: https://mdnice.com/
