@@ -21,7 +21,7 @@
 title: 小柒的网络收藏夹
 keywords: 小柒的网络收藏夹
 description: 小柒的网络收藏夹
-# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# baseurl: "/favorites" # the subpath of your site, e.g. /blog
 # url: "http://blog.diqigan.cn/" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: 903481591@qq.com
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: https://github.com/Seven-Steven/webstack-jekyll
+  repo: Seven-Steven/webstack-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
