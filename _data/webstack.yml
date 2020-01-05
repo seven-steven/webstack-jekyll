@@ -1,3 +1,122 @@
+- name: 学习网站
+  icon: linecons-star
+  links: 
+    - title: 极客时间
+      logo: /assets/images/logos/geektime.jpg
+      url: https://time.geekbang.org/
+      description: 轻松学习，高效学习
+    - title: 慕课网
+      url: https://www.imooc.com/
+      logo: /assets/images/logos/imooc.png
+      description: 程序员的梦工厂      
+
+- name: 效率工具
+  icon: linecons-star
+  links: 
+    - title: 滴答清单
+      logo: /assets/images/logos/dida365.png
+      url: https://dida365.com/
+      description: 达成更多，用心生活
+    - title: Markdown Nice 
+      logo: /assets/images/logos/mdnice.ico
+      url: https://mdnice.com/
+      description: Markdown 文件转微信排版的工具
+    - title: Firefox Send
+      logo: /assets/images/logos/firefoxsend.png
+      url: https://send.firefox.com/
+      description: 简单、私密的文件分享服务
+    - title: cloudconvert
+      logo: /assets/images/logos/cloudconvert.png
+      url: https://cloudconvert.com/
+      description: convert anything to anything
+    - title: LightPDF
+      logo: /assets/images/logos/lightpdf.png
+      url: https://lightpdf.com/zh/
+      description: 在线的 PDF 编辑器及转换器
+
+
+- name: 个人博客
+  icon: linecons-star
+  links: 
+    - title: Seven's blog
+      logo: /assets/images/logos/seven-steven.png
+      url: http://blog.diqigan.cn 
+      description: 小柒的个人博客
+    - title: Viggo
+      logo: /assets/images/logos/viggoz.ico
+      url: http://viggoz.com/
+      description: 一位喜欢摄影、编程、骑行的 UI 设计师
+    - title: 阮一峰的网络日志
+      logo: /assets/images/logos/ruanyifeng.ico
+      url: http://www.ruanyifeng.com/blog/
+      description: 作者会分享很多网络见闻，是开拓视野的好去处
+    - title: 池建强的随想录
+      logo: /assets/images/logos/mactalk.png
+      url: http://macshuo.com/
+      description: 极客时间创始人池建强，经常会分享很多独到的见解
+
+- name: 图片素材
+  icon: linecons-star
+  links: 
+    - title: StockSnap.io
+      logo: /assets/images/logos/stocksnap.png
+      url: https://stocksnap.io/
+      description: Beautiful free stock photos
+    - title: Unsplash
+      logo: /assets/images/logos/unsplash.jpg
+      url: https://unsplash.com/
+      description: The internet’s source of freely usable images. Powered by creators everywhere
+    - title: Pixabay
+      logo: /assets/images/logos/pixabay.png
+      url: https://pixabay.com/
+      description: Stunning free images & royalty free stock
+    - title: streetwill
+      logo: /assets/images/logos/streetwill.png
+      url: http://streetwill.co/
+      description: 免费高清可商用，风景人像小清新，CC0 授权
+    - title: manypixels
+      logo: /assets/images/logos/manypixels.png
+      url: https://gallery.manypixels.co/
+      description: 一个收集无版权插图的网站，提供 SVG / PNG 格式下载，并且允许更改颜色
+    - title: visualhunt
+      url: https://visualhunt.com/
+      logo: /assets/images/logos/visualhunt.png
+      description: 100% Free High Quality Photos           
+    - title: 创客贴
+      logo: /assets/images/logos/chuangkit.ico
+      url: 极简的平面设计工具
+      description: https://www.chuangkit.com/
+    # - title: 
+    #   logo: /assets/images/logos/
+    #   url: 
+    #   description: 
+
+
+- name: 图片工具
+  icon: linecons-star
+  links: 
+    - title: remove.bg 
+      logo: /assets/images/logos/removebg.png
+      url: https://www.remove.bg/zh
+      description: 图片背景消除工具      
+
+- name: 视频素材
+  icon: linecons-star
+  links: 
+    - title: pexels
+      logo: /assets/images/logos/plexels.ico
+      url: https://www.pexels.com/videos/
+      description: 免费下载，但是要注意素材的版权
+    - title: Mixkit
+      logo: /assets/images/logos/mixkit.png
+      url: https://mixkit.co/free-stock-video/
+      description: 所有内容免费可商用
+    - title: Vidsplay
+      logo: /assets/images/logos/vidsplay.png
+      url: https://www.vidsplay.com/
+      description: 使用时须注明视频来源及链接
+
+
 - name: 常用推荐
   icon: linecons-star
   links: 
