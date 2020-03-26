@@ -38,14 +38,21 @@
           logo: /assets/images/logos/bilibili.ico
           url: https://space.bilibili.com/88461692
           description: 深入浅出、直观明了地分享数学之美
-        - title: 回形针
-          logo: /assets/images/logos/ipaperclip.net.png
-          url: https://space.bilibili.com/258150656/
-          description: 你的当代生活说明书
+        # - title: 回形针
+        #   logo: /assets/images/logos/ipaperclip.net.png
+        #   url: https://space.bilibili.com/258150656/
+        #   description: 你的当代生活说明书
         # - title: 
         #   logo: /assets/images/logos/
         #   url: 
         #   description: 
+        #   
+    - name: 技术博客
+      links:
+        - title: 程序猿DD
+          logo: /assets/images/logos/didispace.jpg
+          url: http://blog.didispace.com/
+          description: Java，SpringBoot，Spring Cloud 干货分享
 
 
 - name: 效率工具
