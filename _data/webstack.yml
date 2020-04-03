@@ -1,7 +1,7 @@
-- name: 学习网站
+- name: 学习资源
   icon: linecons-star
   sub: 
-    - name: 学习资源
+    - name: 精品网课
       links: 
         - title: 极客时间
           logo: /assets/images/logos/geektime.jpg
@@ -47,8 +47,24 @@
         #   url: 
         #   description: 
         #   
-    - name: 技术博客
+    - name: 个人博客
       links:
+        - title: Seven's blog
+          logo: /assets/images/logos/seven-steven.png
+          url: http://blog.diqigan.cn 
+          description: 小柒的个人博客
+        - title: Viggo
+          logo: /assets/images/logos/viggoz.ico
+          url: http://viggoz.com/
+          description: 一位喜欢摄影、编程、骑行的 UI 设计师
+        - title: 阮一峰的网络日志
+          logo: /assets/images/logos/ruanyifeng.ico
+          url: http://www.ruanyifeng.com/blog/
+          description: 作者会分享很多网络见闻，是开拓视野的好去处
+        - title: 池建强的随想录
+          logo: /assets/images/logos/mactalk.png
+          url: http://macshuo.com/
+          description: 极客时间创始人池建强，经常会分享很多独到的见解
         - title: 程序猿DD
           logo: /assets/images/logos/didispace.jpg
           url: http://blog.didispace.com/
@@ -87,26 +103,6 @@
       url: https://lightpdf.com/zh/
       description: 在线的 PDF 编辑器及转换器
 
-
-- name: 个人博客
-  icon: linecons-star
-  links: 
-    - title: Seven's blog
-      logo: /assets/images/logos/seven-steven.png
-      url: http://blog.diqigan.cn 
-      description: 小柒的个人博客
-    - title: Viggo
-      logo: /assets/images/logos/viggoz.ico
-      url: http://viggoz.com/
-      description: 一位喜欢摄影、编程、骑行的 UI 设计师
-    - title: 阮一峰的网络日志
-      logo: /assets/images/logos/ruanyifeng.ico
-      url: http://www.ruanyifeng.com/blog/
-      description: 作者会分享很多网络见闻，是开拓视野的好去处
-    - title: 池建强的随想录
-      logo: /assets/images/logos/mactalk.png
-      url: http://macshuo.com/
-      description: 极客时间创始人池建强，经常会分享很多独到的见解
 
 - name: 图片素材
   icon: linecons-star
