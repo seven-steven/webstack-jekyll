@@ -22,7 +22,11 @@ title: 小柒的网络收藏夹
 keywords: 小柒的网络收藏夹
 description: 小柒的网络收藏夹
 # baseurl: "/favorites" # the subpath of your site, e.g. /blog
-# url: "http://blog.diqigan.cn/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "bookmark.diqigan.cn/" # the base hostname & protocol for your site, e.g. http://example.com
+
+static:
+  path:
+    logo: /assets/images/logos/
 
 email: 903481591@qq.com
 
