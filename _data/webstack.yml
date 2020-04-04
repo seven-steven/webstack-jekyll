@@ -16,7 +16,7 @@
           url: https://open.163.com/
           description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析,网易视频公开课频道搭建起强有力的网络视频教学平台
         - title: 下厨房
-          logo: /assets/images/logos/xiachufang.com.ico
+          logo: /assets/images/logos/xiachufang.com.png
           url: https://www.xiachufang.com/
           description: 实用菜谱做法与饮食知识
 
@@ -27,7 +27,7 @@
           url: https://crashcourse.club/category/
           description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
         - title: 李永乐老师
-          logo: /assets/images/logos/bilibili.ico
+          logo: /assets/images/logos/bilibili-liyongle.jpg
           url: https://space.bilibili.com/9458053
           description: 与我们的生活密切相关的各种科普知识，超赞！
         - title: 译学馆
@@ -35,22 +35,25 @@
           url: https://www.yxgapp.com/
           description: 特别有意思、涨知识的英语学习平台
         - title: 3Blue1Brown
-          logo: /assets/images/logos/bilibili.ico
+          logo: /assets/images/logos/3blue1brown.com.png
           url: https://space.bilibili.com/88461692
           description: 深入浅出、直观明了地分享数学之美
-        # - title: 回形针
-        #   logo: /assets/images/logos/ipaperclip.net.png
-        #   url: https://space.bilibili.com/258150656/
-        #   description: 你的当代生活说明书
-        # - title: 
-        #   logo: /assets/images/logos/
-        #   url: 
-        #   description: 
-        #   
+
+    - name: 博客聚合
+      links: 
+        - title: Feeds Pub 
+          logo: /assets/images/logos/feeds.pub.png
+          url: https://feeds.pub/
+          description: 一个 RSS 聚合器，可以订阅自己喜欢的网站
+        - title: BlogHub
+          logo: /assets/images/logos/bloghub.fun.png
+          url: https://bloghub.fun/
+          description: 个人博客聚合网站
+
     - name: 个人博客
       links:
         - title: Seven's blog
-          logo: /assets/images/logos/seven-steven.png
+          logo: /assets/images/logos/blog.diqigan.cn.png
           url: http://blog.diqigan.cn 
           description: 小柒的个人博客
         - title: Viggo
