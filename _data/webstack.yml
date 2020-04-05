@@ -60,6 +60,14 @@
       logo: firefoxsend.png
       url: https://send.firefox.com/
       description: 简单、私密的文件分享服务
+    - title: Typora
+      logo: typora.io.png
+      url: https://typora.io/
+      description: 所见即所得的 Markdown 编辑器
+    - title: Xmind Zen 
+      logo: xmind.cn.png
+      url: https://www.xmind.cn/
+      description: 一个全功能的思维导图和头脑风暴软件
     - title: cloudconvert
       logo: cloudconvert.png
       url: https://cloudconvert.com/
@@ -68,6 +76,10 @@
       logo: lightpdf.png
       url: https://lightpdf.com/zh/
       description: 在线的 PDF 编辑器及转换器
+    - title: Listary
+      logo: listary.com.png
+      url: https://www.listary.com/
+      description: Windows 下的效率搜索与快捷启动工具
 
 
 
