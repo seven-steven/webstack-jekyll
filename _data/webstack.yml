@@ -166,6 +166,10 @@
 
   - name: 图片工具
     links: 
+      - title: Squoosh
+        logo: squoosh.app.svg
+        url: https://squoosh.app/
+        description: 一款开源免费可调节的图片压缩工具
       - title: remove.bg 
         logo: removebg.png
         url: https://www.remove.bg/zh
