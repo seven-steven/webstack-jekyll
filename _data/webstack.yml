@@ -41,45 +41,77 @@
 
 
 
-- name: 效率工具
+- name: 效率办公
   icon: linecons-star
-  links: 
-    - title: 滴答清单
-      logo: dida365.png
-      url: https://dida365.com/
-      description: 达成更多，用心生活
-    - title: 幕布
-      logo: mubu.com.ico
-      url: https://mubu.com/
-      description: 极简大纲笔记 | 一键生成思维导图
-    - title: ProcessOn
-      logo: processon.com.ico
-      url: https://www.processon.com/
-      description: 免费在线作图、实时协作
-    - title: Firefox Send
-      logo: firefoxsend.png
-      url: https://send.firefox.com/
-      description: 简单、私密的文件分享服务
-    - title: Typora
-      logo: typora.io.png
-      url: https://typora.io/
-      description: 所见即所得的 Markdown 编辑器
-    - title: Xmind Zen 
-      logo: xmind.cn.png
-      url: https://www.xmind.cn/
-      description: 一个全功能的思维导图和头脑风暴软件
-    - title: cloudconvert
-      logo: cloudconvert.png
-      url: https://cloudconvert.com/
-      description: convert anything to anything
-    - title: LightPDF
-      logo: lightpdf.png
-      url: https://lightpdf.com/zh/
-      description: 在线的 PDF 编辑器及转换器
-    - title: Listary
-      logo: listary.com.png
-      url: https://www.listary.com/
-      description: Windows 下的效率搜索与快捷启动工具
+  sub: 
+    - name: 在线工具
+      links: 
+        - title: 滴答清单
+          logo: dida365.png
+          url: https://dida365.com/
+          description: 达成更多，用心生活
+        - title: 幕布
+          logo: mubu.com.ico
+          url: https://mubu.com/
+          description: 极简大纲笔记 | 一键生成思维导图
+        - title: ProcessOn
+          logo: processon.com.ico
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作
+        - title: Firefox Send
+          logo: firefoxsend.png
+          url: https://send.firefox.com/
+          description: 简单、私密的文件分享服务
+        - title: LightPDF
+          logo: lightpdf.png
+          url: https://lightpdf.com/zh/
+          description: 在线的 PDF 编辑器及转换器
+        - title: cloudconvert
+          logo: cloudconvert.png
+          url: https://cloudconvert.com/
+          description: convert anything to anything
+        - title: Convertio
+          logo: convertio.co.png
+          url: https://convertio.co/zh/
+          description: 将您的文件转换成任意格式
+
+    - name: 电脑软件
+      links:
+        - title: Typora
+          logo: typora.io.png
+          url: https://typora.io/
+          description: 所见即所得的 Markdown 编辑器
+        - title: Xmind Zen 
+          logo: xmind.cn.png
+          url: https://www.xmind.cn/
+          description: 一个全功能的思维导图和头脑风暴软件
+        - title: Listary
+          logo: listary.com.png
+          url: https://www.listary.com/
+          description: Windows 下的效率搜索与快捷启动工具
+        - title: everything
+          logo: voidtools.com.ico
+          url: https://www.voidtools.com/zh-cn/
+          description: Windows 下的高效文件搜索工具
+    
+    - name: 在线文档
+      links:
+        - title: 石墨文档
+          logo: shimo.im.ico
+          url: https://shimo.im/desktop
+          description: 多人实时协作的「云端 Office」
+        - title: 腾讯文档
+          logo: docs.qq.com.ico
+          url: https://docs.qq.com/
+          description: 一款可多人协作的在线文档
+        - title: 语雀
+          logo: yuque.com.png
+          url: https://www.yuque.com/register?invite_token=357df65e3061673e3b03a080fade2e493ba5cafce13251181c822e3b1e44daf9
+          description: 十万阿里人都在用的笔记与文档知识库
+        - title: 吾道
+          logo: woodo.cn.jpg
+          url: https://www.woodo.cn/
+          description: 专业演示文档制作工具，PPT模板，协同办公
 
 
 
@@ -173,7 +205,11 @@
       - title: remove.bg 
         logo: removebg.png
         url: https://www.remove.bg/zh
-        description: 图片背景消除工具              
+        description: 图片背景消除工具
+      - title: 在线 PS 工具
+        logo: ps.gaoding.com.ico
+        url: https://ps.gaoding.com/#/
+        description: 在线 PS 工具         
 
   - name: 视频素材
     links: 
@@ -189,6 +225,17 @@
         logo: vidsplay.png
         url: https://www.vidsplay.com/
         description: 使用时须注明视频来源及链接
+
+  - name: 视频工具
+    links: 
+      - title: 蜜蜂剪辑
+        logo: beecut.cn.png
+        url: https://beecut.cn/online-video-editor
+        description: 免费云剪辑平台，全站一键式操作
+      - title: 轻剪辑
+        logo: e.chuanying520.com.ico
+        url: https://e.chuanying520.com/
+        description: 无需软件下载 1分钟轻松制作精彩视频
 
 
 # - name: 常用推荐
