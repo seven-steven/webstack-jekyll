@@ -52,20 +52,20 @@
           description: 达成更多，用心生活
         - title: 幕布
           logo: mubu.com.ico
-          url: https://mubu.com/
+          url: https://mubu.com/inv/4650548
           description: 极简大纲笔记 | 一键生成思维导图
         - title: ProcessOn
           logo: processon.com.ico
-          url: https://www.processon.com/
+          url: https://www.processon.com/i/55b83deee4b0e58e8454b67a
           description: 免费在线作图、实时协作
         - title: Firefox Send
           logo: firefoxsend.png
           url: https://send.firefox.com/
           description: 简单、私密的文件分享服务
-        - title: LightPDF
-          logo: lightpdf.png
-          url: https://lightpdf.com/zh/
-          description: 在线的 PDF 编辑器及转换器
+        - title: iLovePDF
+          logo: ilovepdf.com.png
+          url: https://www.ilovepdf.com/zh-cn
+          description: 完全免费、易于使用、丰富的PDF处理工具
         - title: cloudconvert
           logo: cloudconvert.png
           url: https://cloudconvert.com/
@@ -108,10 +108,46 @@
           logo: yuque.com.png
           url: https://www.yuque.com/register?invite_token=357df65e3061673e3b03a080fade2e493ba5cafce13251181c822e3b1e44daf9
           description: 十万阿里人都在用的笔记与文档知识库
+        - title: 花火
+          url: http://activity.hanabi.cn/activity?code=L58FTS
+          logo: hanabi.data-viz.cn.ico
+          description: 免费的在线图表制作工具，可以制作动态排名条形统计图
+        - title: 图表秀
+          url: https://www.tubiaoxiu.com
+          logo: tubiaoxiu.com.png
+          description: 在线图表制作网站
+        - title: 文图
+          url: https://wentu.io/
+          logo: wentu.io.png
+          description: 在线图表制作工具
         - title: 吾道
           logo: woodo.cn.jpg
           url: https://www.woodo.cn/
           description: 专业演示文档制作工具，PPT模板，协同办公
+        - title: PPT BOSS
+          logo: pptboss.com.ico
+          url: https://www.pptboss.com/?inviter=yo039hz2
+          description: PPT 免费在线制作工具
+
+
+    - name: PPT 模板
+      links: 
+        - title: 稻壳儿
+          logo: docer.com.ico
+          url: https://www.docer.com/
+          description: WPS 稻壳儿官网
+        - title: 演界网
+          logo: yanj.cn.ico
+          url: http://www.yanj.cn/
+          description: 收费但高质量的 PPT模板，PPT图表，PPT作品，PPT动画网站
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: ypppt.com.ico
+          description: 免费PPT模板下载
+        - title: HiPPTer
+          url: http://www.hippter.com/
+          logo: hippter.com.ico
+          description: PPT资源导航
 
 
 
@@ -165,6 +201,21 @@
 - name: 设计素材
   icon: linecons-star
   sub: 
+  - name: 设计导航
+    links: 
+      - title: 码力全开
+        logo: design.maliquankai.com.ico
+        url: https://design.maliquankai.com/
+        description: 产品/设计师/独立开发者的资源库
+      - title: 搜图导航
+        url: https://www.91sotu.com/
+        logo: 91soutu.com.ico
+        description: 强大且智能的设计师导航
+      - title: 兰客导航
+        url: http://lackk.com/nav/
+        logo: lackk.com.ico
+        description: 收录创意及美的网站
+
   - name: 图片素材
     links: 
       - title: Unsplash
@@ -190,11 +241,23 @@
       - title: visualhunt
         url: https://visualhunt.com/
         logo: visualhunt.png
-        description: 100% Free High Quality Photos           
+        description: 100% Free High Quality Photos     
       - title: 创客贴
         logo: chuangkit.ico
         url: https://www.chuangkit.com/
         description: 极简的平面设计工具
+      - title: Canva
+        logo: cavan.cn.png
+        url: https://www.canva.cn/
+        description: 创建精彩设计
+      - title: QRCode Monkey
+        url: https://www.qrcode-monkey.com/
+        logo: qrcode-monkey.com.png
+        description: 免费的二维码生成器
+      - title: 第九工场
+        logo: 9thws.com.ico
+        url: https://www.9thws.com/
+        description: 艺术二维码生成工具，部分收费
 
   - name: 图片工具
     links: 
@@ -236,6 +299,26 @@
         logo: e.chuanying520.com.ico
         url: https://e.chuanying520.com/
         description: 无需软件下载 1分钟轻松制作精彩视频
+
+      - title: Edit Your Audio
+        url: https://www.edityouraudio.com/
+        logo: edityouraudio.com.png
+        description: 为音乐创作者提供的免费在线音频工具
+
+  - name: 字体素材
+    links: 
+      - title: 字制区
+        url: https://www.fontqu.com/
+        logo: fontqu.com.ico
+        description: 字体设计师交流分享，字体灵感，免费商用字体下载
+
+  - name: 字体工具
+    links: 
+      - title: 求字体网
+        logo: qiuziti.com.ico
+        url: http://www.qiuziti.com/
+        description: 字体下载、识别与搜索
+
 
 
 # - name: 常用推荐
