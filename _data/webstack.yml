@@ -66,6 +66,10 @@
           logo: lightpdf.png
           url: https://lightpdf.com/zh/
           description: 在线的 PDF 编辑器及转换器
+        - title: PDFCandy
+          logo: pdfcandy.com.ico
+          url: https://pdfcandy.com/cn/
+          description: 免费在线的 PDF 编辑器
         - title: cloudconvert
           logo: cloudconvert.png
           url: https://cloudconvert.com/
