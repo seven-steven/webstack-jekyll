@@ -211,6 +211,10 @@
         logo: design.maliquankai.com.ico
         url: https://design.maliquankai.com/
         description: 产品/设计师/独立开发者的资源库
+      - title: WebStack
+        logo: webstack.cc.png
+        url: http://webstack.cc/
+        description: 设计师网址导航
       - title: 搜图导航
         url: https://www.91sotu.com/
         logo: 91soutu.com.ico
