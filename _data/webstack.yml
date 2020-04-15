@@ -62,6 +62,10 @@
           logo: firefoxsend.png
           url: https://send.firefox.com/
           description: 简单、私密的文件分享服务
+        - title: 小码短连接
+          url: https://xiaomark.com/
+          logo: xiaomark.com.png
+          description: 短链接生成器，拥有统计功能
         - title: PDFCandy
           logo: pdfcandy.com.ico
           url: https://pdfcandy.com/cn/
@@ -97,6 +101,10 @@
           logo: voidtools.com.ico
           url: https://www.voidtools.com/zh-cn/
           description: Windows 下的高效文件搜索工具
+        - title: Captura
+          logo: mathewsachin.github.io.ico
+          url: https://mathewsachin.github.io/Captura/
+          description: 录制屏幕、声音、光标和按键
     
     - name: 在线文档
       links:
@@ -116,6 +124,10 @@
           url: http://activity.hanabi.cn/activity?code=L58FTS
           logo: hanabi.data-viz.cn.ico
           description: 免费的在线图表制作工具，可以制作动态排名条形统计图
+        - title: Dagoo
+          url: http://www.dagoo.work:8000/
+          logo: dagoo.work.png
+          description: 一站式数据可视化分析平台
         - title: 图表秀
           url: https://www.tubiaoxiu.com
           logo: tubiaoxiu.com.png
@@ -249,7 +261,15 @@
       - title: visualhunt
         url: https://visualhunt.com/
         logo: visualhunt.png
-        description: 100% Free High Quality Photos     
+        description: 100% Free High Quality Photos
+      - title: PxHere
+        url: https://pxhere.com/
+        logo: pxhere.com.png
+        description: 免费高清商业素材
+      - title: Illustrations | unDraw
+        url: https://undraw.co/illustrations
+        logo: undraw.co.png
+        description: 免费可商用的矢量素材网站
       - title: 创客贴
         logo: chuangkit.ico
         url: https://www.chuangkit.com/
@@ -273,14 +293,18 @@
         logo: squoosh.app.svg
         url: https://squoosh.app/
         description: 一款开源免费可调节的图片压缩工具
-      - title: remove.bg 
+      - title: docsmall
+        url: https://docsmall.com/
+        logo: docsmall.com.png
+        description: 在线图片压缩工具
+      - title: remove.bg
         logo: removebg.png
         url: https://www.remove.bg/zh
         description: 图片背景消除工具
       - title: 在线 PS 工具
         logo: ps.gaoding.com.ico
         url: https://ps.gaoding.com/#/
-        description: 在线 PS 工具         
+        description: 在线 PS 工具
 
   - name: 视频素材
     links: 
@@ -308,6 +332,11 @@
         url: https://e.chuanying520.com/
         description: 无需软件下载 1分钟轻松制作精彩视频
 
+      - title: Fugue
+        url: https://icons8.cn/music
+        logo: icons8.cn.png
+        description: 免费的音乐素材网站
+
       - title: Edit Your Audio
         url: https://www.edityouraudio.com/
         logo: edityouraudio.com.png
@@ -319,6 +348,14 @@
         url: https://www.fontqu.com/
         logo: fontqu.com.ico
         description: 字体设计师交流分享，字体灵感，免费商用字体下载
+      - title: 字体仓库
+        url: https://www.ziticangku.com/
+        logo: ziticangku.com.ico
+        description: 免费下载无版权可商用字体
+      - title: 字魂网
+        url: https://izihun.com/
+        logo: izihun.com.ico
+        description: 正版字体网站，需要购买授权
 
   - name: 字体工具
     links: 
