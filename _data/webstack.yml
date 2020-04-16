@@ -382,13 +382,36 @@
         description: 字体下载、识别与搜索
 
 
-- name: 实用工具
+- name: 杂七杂八
   icon: linecons-attach
-  links:
-    - title: 地图搜租房
-      logo: woyaozufang.live.png
-      url: https://woyaozufang.live/#/
-      description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
+  sub:
+    - name: 电子书
+      links: 
+        - title: 熊猫搜书
+          url: https://ebook.huzerui.com/#/
+          logo: ebook.huzerui.com.ico
+          description: 集成了多个搜书平台，可以当成导航网站来用
+        - title: LoreFree
+          url: https://ebook2.lorefree.com/
+          logo: ebook2.lorefree.com.ico
+          description: 去中心化免费电子书共享社区
+        - title: 计算机书籍控
+          url: http://bestcbooks.com/
+          logo: bestcbooks.com.ico
+          description: 计算机书籍下载站点
+        - title: ePUBee
+          url: http://cn.epubee.com/books/
+          logo: cn.epubee.com.ico
+          description: 自称是最大的电子书库
+        - title: 鸠摩搜索
+          url: https://www.jiumodiary.com/
+          logo: jiumodiary.com.png
+          description: 文档搜索引擎
+
+        - title: 地图搜租房
+          logo: woyaozufang.live.png
+          url: https://woyaozufang.live/#/
+          description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
 
 # - name: 常用推荐
 #   icon: linecons-star
