@@ -339,10 +339,10 @@
         logo: beecut.cn.png
         url: https://beecut.cn/online-video-editor
         description: 免费云剪辑平台，全站一键式操作
-      - title: 轻剪辑
-        logo: e.chuanying520.com.ico
-        url: https://e.chuanying520.com/
-        description: 无需软件下载 1分钟轻松制作精彩视频
+      # - title: 轻剪辑
+      #   logo: e.chuanying520.com.ico
+      #   url: https://e.chuanying520.com/
+      #   description: 收费, 无需软件下载 1分钟轻松制作精彩视频
 
       - title: Edit Your Audio
         url: https://www.edityouraudio.com/
