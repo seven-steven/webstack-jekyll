@@ -103,10 +103,22 @@
           logo: voidtools.com.ico
           url: https://www.voidtools.com/zh-cn/
           description: Windows 下的高效文件搜索工具
+        - title: Snipaste
+          url: https://zh.snipaste.com/
+          logo: snipaste.com.svg
+          description: 超级好用的截图 + 贴图工具
+        - title: Geek Uninstaller
+          url: https://geekuninstaller.com/download
+          logo: geekuninstaller.com.ico
+          description: Windows 下的软件卸载小工具
         - title: Captura
           logo: mathewsachin.github.io.ico
           url: https://mathewsachin.github.io/Captura/
           description: 录制屏幕、声音、光标和按键
+        - title: 火绒
+          url: https://www.huorong.cn/
+          logo: huorong.cn.png
+          description: 如果一定要安装杀软，那就选择火绒吧
     
 
     - name: 在线文档
@@ -369,6 +381,14 @@
         url: http://www.qiuziti.com/
         description: 字体下载、识别与搜索
 
+
+- name: 实用工具
+  icon: linecons-attach
+  links:
+    - title: 地图搜租房
+      logo: woyaozufang.live.png
+      url: https://woyaozufang.live/#/
+      description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
 
 # - name: 常用推荐
 #   icon: linecons-star
