@@ -91,6 +91,22 @@
           url: https://www.google.com/intl/zh-CN/chrome/
           logo: chrome.png
           description: 最好用的浏览器，没有之一
+        - title: Typora
+          logo: typora.io.png
+          url: https://typora.io/
+          description: 所见即所得的 Markdown 编辑器
+        - title: Xmind Zen 
+          logo: xmind.cn.png
+          url: https://www.xmind.cn/
+          description: 一个全功能的思维导图和头脑风暴软件
+        - title: VLC
+          url: http://www.videolan.org/
+          logo: videolan.org.png
+          description: 一款自由、开源的跨平台多媒体播放器
+        - title: Sublime Text
+          url: https://www.sublimetext.com/
+          logo: sublimetext.com.png
+          description: 能够大幅度提高效率的文本编辑工具
         - title: Listary
           logo: listary.com.png
           url: https://www.listary.com/
@@ -103,14 +119,10 @@
           url: https://zh.snipaste.com/
           logo: snipaste.com.svg
           description: 超级好用的截图 + 贴图工具
-        - title: Typora
-          logo: typora.io.png
-          url: https://typora.io/
-          description: 所见即所得的 Markdown 编辑器
-        - title: Xmind Zen 
-          logo: xmind.cn.png
-          url: https://www.xmind.cn/
-          description: 一个全功能的思维导图和头脑风暴软件
+        - title: Awesome Windows
+          url: https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
+          logo: awesome-windows.png
+          description: Windows 精品软件清单
         - title: Geek Uninstaller
           url: https://geekuninstaller.com/download
           logo: geekuninstaller.com.ico
@@ -123,11 +135,7 @@
           url: https://www.huorong.cn/
           logo: huorong.cn.png
           description: 如果一定要安装杀软，那就选择火绒吧
-        - title: VLC
-          url: http://www.videolan.org/
-          logo: videolan.org.png
-          description: 一款自由、开源的跨平台多媒体播放器
-    
+
 
     - name: 在线文档
       links:
@@ -219,22 +227,26 @@
           logo: blog.diqigan.cn.png
           url: http://blog.diqigan.cn 
           description: 小柒的个人博客
-        - title: Viggo
-          logo: viggoz.ico
-          url: http://viggoz.com/
-          description: 一位喜欢摄影、编程、骑行的 UI 设计师
         - title: 阮一峰的网络日志
           logo: ruanyifeng.com.jpg
           url: http://www.ruanyifeng.com/blog/
           description: 作者会分享很多网络见闻，是开拓视野的好去处
+        - title: 酷壳
+          url: https://coolshell.cn/
+          logo: coolshell.cn.ico
+          description: 享受编程和技术所带来的快乐
+        - title: Viggo
+          logo: viggoz.ico
+          url: http://viggoz.com/
+          description: 一位喜欢摄影、编程、骑行的 UI 设计师
         # - title: 池建强的随想录
         #   logo: mactalk.png
         #   url: http://macshuo.com/
         #   description: 极客时间创始人池建强，经常会分享很多独到的见解
-        - title: 程序猿DD
-          logo: didispace.jpg
-          url: http://blog.didispace.com/
-          description: Java，SpringBoot，Spring Cloud 干货分享
+        # - title: 程序猿DD
+        #   logo: didispace.jpg
+        #   url: http://blog.didispace.com/
+        #   description: Java，SpringBoot，Spring Cloud 干货分享
 
 
 
@@ -418,6 +430,74 @@
         #   url: https://www.jiumodiary.com/
         #   logo: jiumodiary.com.png
         #   description: 文档搜索引擎
+
+    - name: Chrome 插件
+      links: 
+        - title: Ghelper
+          url: http://googlehelper.net/
+          logo: googlehelper.net.png
+          description: 佛曰：不可说
+        - title: Proxy SwitchOmega
+          url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+          logo: chrome-extension-proxy-switch-omega.png
+          description: 道曰：不可说
+        - title: Tampermonkey BETA
+          url: https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
+          logo: chrome-extension-tampermonkey-beta.png
+          description: 传说中的油猴插件，给你的浏览器添加各种超能力
+        - title: Dark reader
+          url: https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+          logo: chrome-extension-dark-reader.png
+          description: 为任何网站提供黑色主题
+        - title: Infinity 新标签页 (Pro)
+          url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
+          logo: chrome-extension-infinity-new-tab-pro.png
+          description: 美化你的新标签页
+        - title: 滴答清单
+          url: https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod
+          logo: dida365.png
+          description: 滴答清单的 Chrome 扩展
+        - title: 番茄土豆
+          url: https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf
+          logo: chrome-extension-pomotodo.png
+          description: 番茄工作法插件
+        - title: Adblock Plus
+          url: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+          logo: chrome-extension-adblock-plus.png
+          description: 免费的广告拦截器
+        - title: The Great Suspender
+          url: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg
+          logo: chrome-extension-the-great-suspender.png
+          description: 冻结暂时用不到的标签页，以便释放系统资源
+        - title: OneTab
+          url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+          logo: chrome-extension-one-tab.png
+          description: 节省高达95％的内存，并减轻标签页混乱现象
+        - title: Vimium
+          url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+          logo: chrome-extension-vimium.png
+          description: 在 Chrome 中使用 Vim 插件
+        - title: 达达划词翻译
+          url: https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl
+          logo: chrome-extension-dadda-translate.png
+          description: 划词翻译
+        - title: Video Speed Controller
+          url: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
+          logo: chrome-extension-video-speed-controller.png
+          description: 控制 HTML5 视频播放速度
+        - title: Web Scraper
+          url: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+          logo: chrome-extension-web-scraper.png
+          description: 一个网页爬虫扩展
+        - title: 简悦
+          url: https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll
+          logo: chrome-extension-simpread.png
+          description: 沉浸式阅读插件
+        - title: Greasy Fork 
+          url: https://greasyfork.org/zh-CN/scripts
+          logo: greasyfork.org.png
+          description: 油猴脚本资源列表
+
 
     - name: 其他
       links:
