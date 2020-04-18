@@ -1,3 +1,4 @@
+
 - name: 学习资源
   icon: linecons-lightbulb
   sub: 
@@ -5,7 +6,7 @@
       links: 
         - title: 极客时间
           logo: geektime.jpg
-          url: https://time.geekbang.org/
+          url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
           description: 轻松学习，高效学习
         - title: 慕课网
           url: https://www.imooc.com/
@@ -14,7 +15,7 @@
         - title: 网易公开课
           logo: open.163.com.ico
           url: https://open.163.com/
-          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析,网易视频公开课频道搭建起强有力的网络视频教学平台
+          description: 国内外名校公开课
         - title: 下厨房
           logo: xiachufang.com.png
           url: https://www.xiachufang.com/
@@ -23,7 +24,7 @@
 
     - name: 科普视频
       links: 
-        - title: Crash Cource 中文字幕组
+        - title: Crash Course 中文字幕组
           logo: crashcourse.club.png
           url: https://crashcourse.club/category/
           description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
