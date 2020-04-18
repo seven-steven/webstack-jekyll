@@ -431,7 +431,7 @@
         #   logo: jiumodiary.com.png
         #   description: 文档搜索引擎
 
-    - name: Chrome 插件
+    - name: Chrome插件
       links: 
         - title: Ghelper
           url: http://googlehelper.net/
