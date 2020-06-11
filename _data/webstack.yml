@@ -390,6 +390,26 @@
       url: https://woyaozufang.live/#/
       description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
 
+
+- name: 开发资源
+  icon: linecons-pencil
+  sub: 
+  - name: 辅助工具
+    links: 
+      - title: carbon 
+        logo: carbon.now.sh.png
+        url: https://carbon.now.sh/
+        description: 代码图片美化工具
+      - title: JSON 格式化
+        logo: json.cn.ico
+        url: https://www.json.cn/
+        description: JSON 格式化工具
+      - title: Nginx Beautifier
+        logo: nginxbeautifier.com.png
+        url: https://nginxbeautifier.com/
+        description: nginx 配置文件格式化工具
+
+
 # - name: 常用推荐
 #   icon: linecons-star
 #   links: 
