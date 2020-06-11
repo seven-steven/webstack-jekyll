@@ -406,6 +406,25 @@
         description: 字体下载、识别与搜索
 
 
+- name: 开发资源
+  icon: linecons-pencil
+  sub: 
+  - name: 辅助工具
+    links: 
+      - title: carbon 
+        logo: carbon.now.sh.png
+        url: https://carbon.now.sh/
+        description: 代码图片美化工具
+      - title: JSON 格式化
+        logo: json.cn.ico
+        url: https://www.json.cn/
+        description: JSON 格式化工具
+      - title: Nginx Beautifier
+        logo: nginxbeautifier.com.png
+        url: https://nginxbeautifier.com/
+        description: nginx 配置文件格式化工具
+
+
 - name: 杂七杂八
   icon: linecons-attach
   sub:
@@ -515,25 +534,6 @@
           logo: wepe.com.cn.svg
           description: 很好用的 Win PE 装机维护工具
 
-
-
-- name: 开发资源
-  icon: linecons-pencil
-  sub: 
-  - name: 辅助工具
-    links: 
-      - title: carbon 
-        logo: carbon.now.sh.png
-        url: https://carbon.now.sh/
-        description: 代码图片美化工具
-      - title: JSON 格式化
-        logo: json.cn.ico
-        url: https://www.json.cn/
-        description: JSON 格式化工具
-      - title: Nginx Beautifier
-        logo: nginxbeautifier.com.png
-        url: https://nginxbeautifier.com/
-        description: nginx 配置文件格式化工具
 
 
 # - name: 常用推荐
