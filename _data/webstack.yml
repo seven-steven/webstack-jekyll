@@ -1,3 +1,4 @@
+
 - name: 学习资源
   icon: linecons-lightbulb
   sub: 
@@ -5,7 +6,7 @@
       links: 
         - title: 极客时间
           logo: geektime.jpg
-          url: https://time.geekbang.org/
+          url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
           description: 轻松学习，高效学习
         - title: 慕课网
           url: https://www.imooc.com/
@@ -14,7 +15,7 @@
         - title: 网易公开课
           logo: open.163.com.ico
           url: https://open.163.com/
-          description: 网易视频公开课频道推出国内外名校公开课,涉及广泛的学科,名校老师认真讲解深度剖析,网易视频公开课频道搭建起强有力的网络视频教学平台
+          description: 国内外名校公开课
         - title: 下厨房
           logo: xiachufang.com.png
           url: https://www.xiachufang.com/
@@ -23,7 +24,7 @@
 
     - name: 科普视频
       links: 
-        - title: Crash Cource 中文字幕组
+        - title: Crash Course 中文字幕组
           logo: crashcourse.club.png
           url: https://crashcourse.club/category/
           description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
@@ -87,6 +88,10 @@
 
     - name: 电脑软件
       links:
+        - title: Chrome
+          url: https://www.google.com/intl/zh-CN/chrome/
+          logo: chrome.png
+          description: 最好用的浏览器，没有之一
         - title: Typora
           logo: typora.io.png
           url: https://typora.io/
@@ -95,6 +100,14 @@
           logo: xmind.cn.png
           url: https://www.xmind.cn/
           description: 一个全功能的思维导图和头脑风暴软件
+        - title: VLC
+          url: http://www.videolan.org/
+          logo: videolan.org.png
+          description: 一款自由、开源的跨平台多媒体播放器
+        - title: Sublime Text
+          url: https://www.sublimetext.com/
+          logo: sublimetext.com.png
+          description: 能够大幅度提高效率的文本编辑工具
         - title: Listary
           logo: listary.com.png
           url: https://www.listary.com/
@@ -107,6 +120,10 @@
           url: https://zh.snipaste.com/
           logo: snipaste.com.svg
           description: 超级好用的截图 + 贴图工具
+        - title: Awesome Windows
+          url: https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
+          logo: awesome-windows.png
+          description: Windows 精品软件清单
         - title: Geek Uninstaller
           url: https://geekuninstaller.com/download
           logo: geekuninstaller.com.ico
@@ -119,7 +136,7 @@
           url: https://www.huorong.cn/
           logo: huorong.cn.png
           description: 如果一定要安装杀软，那就选择火绒吧
-    
+
 
     - name: 在线文档
       links:
@@ -173,7 +190,7 @@
           description: 收费但高质量的PPT模板，PPT图表，PPT作品，PPT动画网站
         - title: 优品PPT
           url: http://www.ypppt.com/
-          logo: ypppt.com.ico
+          logo: ypppt.com.png
           description: 免费PPT模板下载
         - title: HiPPTer
           url: http://www.hippter.com/
@@ -211,22 +228,26 @@
           logo: blog.diqigan.cn.png
           url: http://blog.diqigan.cn 
           description: 小柒的个人博客
+        - title: 阮一峰的网络日志
+          logo: ruanyifeng.com.jpg
+          url: http://www.ruanyifeng.com/blog/
+          description: 作者会分享很多网络见闻，是开拓视野的好去处
+        - title: 酷壳
+          url: https://coolshell.cn/
+          logo: coolshell.cn.ico
+          description: 享受编程和技术所带来的快乐
         - title: Viggo
           logo: viggoz.ico
           url: http://viggoz.com/
           description: 一位喜欢摄影、编程、骑行的 UI 设计师
-        - title: 阮一峰的网络日志
-          logo: ruanyifeng.ico
-          url: http://www.ruanyifeng.com/blog/
-          description: 作者会分享很多网络见闻，是开拓视野的好去处
-        - title: 池建强的随想录
-          logo: mactalk.png
-          url: http://macshuo.com/
-          description: 极客时间创始人池建强，经常会分享很多独到的见解
-        - title: 程序猿DD
-          logo: didispace.jpg
-          url: http://blog.didispace.com/
-          description: Java，SpringBoot，Spring Cloud 干货分享
+        # - title: 池建强的随想录
+        #   logo: mactalk.png
+        #   url: http://macshuo.com/
+        #   description: 极客时间创始人池建强，经常会分享很多独到的见解
+        # - title: 程序猿DD
+        #   logo: didispace.jpg
+        #   url: http://blog.didispace.com/
+        #   description: Java，SpringBoot，Spring Cloud 干货分享
 
 
 
@@ -351,11 +372,14 @@
         logo: beecut.cn.png
         url: https://beecut.cn/online-video-editor
         description: 免费云剪辑平台，全站一键式操作
-      # - title: 轻剪辑
-      #   logo: e.chuanying520.com.ico
-      #   url: https://e.chuanying520.com/
-      #   description: 收费, 无需软件下载 1分钟轻松制作精彩视频
-
+      - title: 网易见外
+        url: https://jianwai.youdao.com/
+        logo: jianwai.youdao.com.ico
+        description: 拥有视频翻译、视频转写、语音翻译、语音转写功能
+      - title: ArcTime
+        url: https://arctime.org/
+        logo: arctime.org.ico
+        description: 免费跨平台字幕软件
       - title: Edit Your Audio
         url: https://www.edityouraudio.com/
         logo: edityouraudio.com.png
@@ -382,13 +406,115 @@
         description: 字体下载、识别与搜索
 
 
-- name: 实用工具
+- name: 杂七杂八
   icon: linecons-attach
-  links:
-    - title: 地图搜租房
-      logo: woyaozufang.live.png
-      url: https://woyaozufang.live/#/
-      description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
+  sub:
+    - name: 电子书
+      links: 
+        - title: 熊猫搜书
+          url: https://ebook.huzerui.com/#/
+          logo: ebook.huzerui.com.ico
+          description: 集成了多个搜书平台，可以当成导航网站来用
+        - title: LoreFree
+          url: https://ebook2.lorefree.com/
+          logo: ebook2.lorefree.com.ico
+          description: 去中心化免费电子书共享社区
+        - title: 计算机书籍控
+          url: http://bestcbooks.com/
+          logo: bestcbooks.com.ico
+          description: 计算机书籍下载站点
+        - title: ePUBee
+          url: http://cn.epubee.com/books/
+          logo: cn.epubee.com.ico
+          description: 自称是最大的电子书库
+        # - title: 鸠摩搜索
+        #   url: https://www.jiumodiary.com/
+        #   logo: jiumodiary.com.png
+        #   description: 文档搜索引擎
+
+    - name: Chrome插件
+      links: 
+        - title: Ghelper
+          url: http://googlehelper.net/
+          logo: googlehelper.net.png
+          description: 佛曰：不可说
+        - title: Proxy SwitchOmega
+          url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+          logo: chrome-extension-proxy-switch-omega.png
+          description: 道曰：不可说
+        - title: Tampermonkey BETA
+          url: https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
+          logo: chrome-extension-tampermonkey-beta.png
+          description: 传说中的油猴插件，给你的浏览器添加各种超能力
+        - title: Dark reader
+          url: https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+          logo: chrome-extension-dark-reader.png
+          description: 为任何网站提供黑色主题
+        - title: Infinity 新标签页 (Pro)
+          url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
+          logo: chrome-extension-infinity-new-tab-pro.png
+          description: 美化你的新标签页
+        - title: 滴答清单
+          url: https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod
+          logo: dida365.png
+          description: 滴答清单的 Chrome 扩展
+        - title: 番茄土豆
+          url: https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf
+          logo: chrome-extension-pomotodo.png
+          description: 番茄工作法插件
+        - title: Adblock Plus
+          url: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+          logo: chrome-extension-adblock-plus.png
+          description: 免费的广告拦截器
+        - title: The Great Suspender
+          url: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg
+          logo: chrome-extension-the-great-suspender.png
+          description: 冻结暂时用不到的标签页，以便释放系统资源
+        - title: OneTab
+          url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+          logo: chrome-extension-one-tab.png
+          description: 节省高达95％的内存，并减轻标签页混乱现象
+        - title: Vimium
+          url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+          logo: chrome-extension-vimium.png
+          description: 在 Chrome 中使用 Vim 插件
+        - title: 达达划词翻译
+          url: https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl
+          logo: chrome-extension-dadda-translate.png
+          description: 划词翻译
+        - title: Video Speed Controller
+          url: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
+          logo: chrome-extension-video-speed-controller.png
+          description: 控制 HTML5 视频播放速度
+        - title: Web Scraper
+          url: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+          logo: chrome-extension-web-scraper.png
+          description: 一个网页爬虫扩展
+        - title: 简悦
+          url: https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll
+          logo: chrome-extension-simpread.png
+          description: 沉浸式阅读插件
+        - title: Greasy Fork 
+          url: https://greasyfork.org/zh-CN/scripts
+          logo: greasyfork.org.png
+          description: 油猴脚本资源列表
+
+
+    - name: 其他
+      links:
+        - title: 地图搜租房
+          logo: woyaozufang.live.png
+          url: https://woyaozufang.live/#/
+          description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
+        - title: itellyou
+          url: http://msdn.itellyou.cn/
+          logo: msdn.itellyou.cn.ico
+          description: 纯净 Windows 镜像下载
+        - title: 微PE
+          url: http://www.wepe.com.cn/
+          logo: wepe.com.cn.svg
+          description: 很好用的 Win PE 装机维护工具
+
 
 
 - name: 开发资源
