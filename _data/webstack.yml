@@ -409,7 +409,7 @@
 - name: 开发资源
   icon: linecons-pencil
   sub: 
-  - name: 辅助工具
+  - name: 在线工具
     links: 
       - title: carbon 
         logo: carbon.now.sh.png
@@ -423,6 +423,12 @@
         logo: nginxbeautifier.com.png
         url: https://nginxbeautifier.com/
         description: nginx 配置文件格式化工具
+  - name: 软件资源
+    links: 
+      - title: FinalShell
+        logo: finalshell.png
+        url: https://www.hostbuf.com/
+        description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
 
 
 - name: 杂七杂八
