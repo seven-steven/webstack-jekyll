@@ -60,10 +60,14 @@
           logo: processon.com.ico
           url: https://www.processon.com/i/55b83deee4b0e58e8454b67a
           description: 免费在线作图、实时协作
-        - title: Firefox Send
-          logo: firefoxsend.png
-          url: https://send.firefox.com/
-          description: 简单、私密的文件分享服务
+        # - title: Firefox Send
+        #   logo: firefoxsend.png
+        #   url: https://send.firefox.com/
+        #   description: 简单、私密的文件分享服务
+        - title: 皮皮直连
+          url: https://www.ppzhilian.com/
+          logo: ppzhilian.com.png
+          description: 安全便捷的电脑/手机互连，点对点文件传送、云剪贴板、屏幕共享、可视化交流工具
         - title: 小码短连接
           url: https://xiaomark.com/
           logo: xiaomark.com.png
@@ -415,6 +419,10 @@
         logo: carbon.now.sh.png
         url: https://carbon.now.sh/
         description: 代码图片美化工具
+      - title: codeimg.io
+        logo: codeimg.io.png
+        url: https://codeimg.io/
+        description: 代码图片美化工具，支持多种样式
       - title: JSON 格式化
         logo: json.cn.ico
         url: https://www.json.cn/
@@ -423,12 +431,12 @@
         logo: nginxbeautifier.com.png
         url: https://nginxbeautifier.com/
         description: nginx 配置文件格式化工具
-  - name: 软件资源
-    links: 
-      - title: FinalShell
-        logo: finalshell.png
-        url: https://www.hostbuf.com/
-        description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
+  # - name: 软件资源
+  #   links: 
+  #     - title: FinalShell
+  #       logo: finalshell.png
+  #       url: https://www.hostbuf.com/
+  #       description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
 
 
 - name: 杂七杂八
