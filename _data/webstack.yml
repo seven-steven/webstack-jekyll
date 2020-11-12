@@ -431,6 +431,14 @@
         logo: nginxbeautifier.com.png
         url: https://nginxbeautifier.com/
         description: nginx 配置文件格式化工具
+      - title: AnyProxy
+        logo: anyproxy.io.png
+        url: https://github.com/alibaba/anyproxy
+        description: AnyProxy是一个基于NodeJS的，可供插件配置的HTTP/HTTPS代理服务器。
+      - title: httpbin.org
+        url: httpbin.org
+        logo: httpbin.org.ico
+        description: A simple HTTP Request & Response Service.
   # - name: 软件资源
   #   links: 
   #     - title: FinalShell
