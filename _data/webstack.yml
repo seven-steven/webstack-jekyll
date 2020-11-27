@@ -431,6 +431,10 @@
         logo: nginxbeautifier.com.png
         url: https://nginxbeautifier.com/
         description: nginx 配置文件格式化工具
+      - title: SSL Configuration Generator
+        logo: ssl-config.mozilla.org.svg
+        url: https://ssl-config.mozilla.org/
+        description: SSL 配置生成工具
       - title: AnyProxy
         logo: anyproxy.io.png
         url: https://github.com/alibaba/anyproxy
