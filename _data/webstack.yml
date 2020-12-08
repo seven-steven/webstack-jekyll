@@ -68,6 +68,10 @@
           url: https://www.ppzhilian.com/
           logo: ppzhilian.com.png
           description: 安全便捷的电脑/手机互连，点对点文件传送、云剪贴板、屏幕共享、可视化交流工具
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          logo: cowtransfer.com.png
+          description: 不限速文件传输
         - title: 小码短连接
           url: https://xiaomark.com/
           logo: xiaomark.com.png
@@ -80,10 +84,10 @@
         #   logo: ilovepdf.com.png
         #   url: https://www.ilovepdf.com/zh-cn
         #   description: 完全免费、易于使用、丰富的PDF处理工具
-        - title: cloudconvert
-          logo: cloudconvert.png
-          url: https://cloudconvert.com/
-          description: convert anything to anything
+        # - title: cloudconvert
+        #   logo: cloudconvert.png
+        #   url: https://cloudconvert.com/
+        #   description: convert anything to anything
         - title: Convertio
           logo: convertio.co.png
           url: https://convertio.co/zh/
