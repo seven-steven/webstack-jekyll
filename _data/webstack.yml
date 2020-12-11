@@ -144,6 +144,15 @@
           url: https://www.huorong.cn/
           logo: huorong.cn.png
           description: 如果一定要安装杀软，那就选择火绒吧
+        - title: 幕享
+          logo: letsview.com.svg
+          url: https://letsview.com/zh/
+          description: 免费的无线投屏工具
+        - title: uTools
+          url: https://u.tools/
+          logo: u.tools.ico
+          description: 程序员的生产力工具集
+
 
 
     - name: 在线文档
@@ -180,6 +189,10 @@
           logo: polebrief.com.png
           url: https://www.polebrief.com/
           description: 极致、简约、专业、优质的简历制作平台
+        - title: XODO
+          logo: xodo.com.png
+          url: https://www.xodo.com/
+          description: 在线的 PDF 阅读、编辑工具
 
 
     - name: PPT 模板
@@ -200,6 +213,10 @@
           url: http://www.hippter.com/
           logo: hippter.com.ico
           description: PPT资源导航
+        - title: 叮当设计
+          url: https://www.dingdangsheji.com/
+          logo: dingdangsheji.com.png
+          description: 完全免费的优秀素材下载网站
         - title: 演界网
           logo: yanj.cn.svg
           url: http://www.yanj.cn/
@@ -412,10 +429,14 @@
         url: https://www.ziticangku.com/
         logo: ziticangku.com.ico
         description: 免费下载无版权可商用字体
-      - title: 字魂网
-        url: https://izihun.com/
-        logo: izihun.com.ico
-        description: 正版字体网站，需要购买授权
+      - title: 100font
+        url: https://www.100font.com/
+        logo: 100font.com.ico
+        description: 一个专门收集“免费商用”字体的网站
+      # - title: 字魂网
+      #   url: https://izihun.com/
+      #   logo: izihun.com.ico
+      #   description: 正版字体网站，需要购买授权
       - title: 求字体网
         logo: qiuziti.com.ico
         url: http://www.qiuziti.com/
