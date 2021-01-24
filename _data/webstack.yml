@@ -481,24 +481,24 @@
   #       logo: finalshell.png
   #       url: https://www.hostbuf.com/
   #       description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
-    - name: 编程知识
-      links: 
-        - title: REFACTORING GURU
-          logo: refactoringguru.cn.png
-          url: https://refactoringguru.cn/design-patterns
-          description: 设计模式教程
-        - title: Docker 从入门到实践
-          url: https://yeasy.gitbook.io/docker_practice/
-          description: Docker 教程
-          logo: yeasy.gitbook.io.svg
-        - title: 阮一峰的 SSH 教程
-          url: https://wangdoc.com/ssh/
-          description: SSH 的基本概念和用法
-          logo: ssh.wangdoc.com.svg
-        - title: 阮一峰的 Bash 教程
-          url: https://wangdoc.com/bash/
-          description: Bash 的基本用法和脚本编程
-          logo: bash.wangdoc.com.png
+  - name: 编程知识
+    links: 
+      - title: REFACTORING GURU
+        logo: refactoringguru.cn.png
+        url: https://refactoringguru.cn/design-patterns
+        description: 设计模式教程
+      - title: Docker 从入门到实践
+        url: https://yeasy.gitbook.io/docker_practice/
+        description: Docker 教程
+        logo: yeasy.gitbook.io.svg
+      - title: 阮一峰的 SSH 教程
+        url: https://wangdoc.com/ssh/
+        description: SSH 的基本概念和用法
+        logo: ssh.wangdoc.com.svg
+      - title: 阮一峰的 Bash 教程
+        url: https://wangdoc.com/bash/
+        description: Bash 的基本用法和脚本编程
+        logo: bash.wangdoc.com.png
 
 
 
