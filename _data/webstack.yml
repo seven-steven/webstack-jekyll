@@ -443,7 +443,7 @@
 
 
 - name: 开发资源
-  icon: linecons-pencil
+  icon: linecons-desktop
   sub: 
   - name: 辅助工具
     links: 
@@ -503,7 +503,7 @@
 
 
 - name: 娱乐休闲
-  icon: icon-videocam
+  icon: linecons-videocam
   links: 
     - title: 在线之家
       url: https://www.zxzj.me/
