@@ -488,7 +488,7 @@
         url: https://refactoringguru.cn/design-patterns
         description: 设计模式教程
       - title: Docker 从入门到实践
-        url: https://yeasy.gitbook.io/docker_practice/
+        url: https://doc.yonyoucloud.com/doc/docker_practice/index.html
         description: Docker 教程
         logo: yeasy.gitbook.io.svg
       - title: 阮一峰的 SSH 教程
