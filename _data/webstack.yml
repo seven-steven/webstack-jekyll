@@ -247,7 +247,7 @@
           description: 个人博客聚合网站
         - title: Markdown Nice 
           logo: mdnice.ico
-          url: https://mdnice.com/
+          url: https://editor.mdnice.com/
           description: Markdown 文件转微信排版的工具
         - title: OpenWrite
           logo: openwrite.cn.png
