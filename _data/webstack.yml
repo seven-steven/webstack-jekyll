@@ -151,6 +151,10 @@
           url: https://u.tools/
           logo: u.tools.ico
           description: 程序员的生产力工具集
+        - title: PowerToys
+          url: https://github.com/microsoft/PowerToys
+          logo: powertoys.microsoft.png
+          description: Windows 下的自由分屏软件
 
 
 
