@@ -479,7 +479,12 @@
         url: httpbin.org
         logo: httpbin.org.ico
         description: A simple HTTP Request & Response Service.
-  # - name: 软件资源
+  - name: 软件资源
+    links:
+      - title: Another Redis Desktop Manager
+        logo: another-redis-desktop-manager.png
+        url: https://github.com/qishibo/AnotherRedisDesktopManager
+        description: 一款全平台通用的 Redis 连接工具
   #   links: 
   #     - title: FinalShell
   #       logo: finalshell.png
