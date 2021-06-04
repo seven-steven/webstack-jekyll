@@ -475,10 +475,10 @@
         logo: json.cn.ico
         url: https://www.json.cn/
         description: JSON 格式化工具
-      - title: Nginx Beautifier
-        logo: nginxbeautifier.com.png
-        url: https://nginxbeautifier.com/
-        description: nginx 配置文件格式化工具
+      # - title: Nginx Beautifier
+      #   logo: nginxbeautifier.com.png
+      #   url: https://nginxbeautifier.com/
+      #   description: nginx 配置文件格式化工具
       - title: SSL Configuration Generator
         logo: ssl-config.mozilla.org.svg
         url: https://ssl-config.mozilla.org/
