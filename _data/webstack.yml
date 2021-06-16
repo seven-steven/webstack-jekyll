@@ -276,10 +276,14 @@
           url: https://coolshell.cn/
           logo: coolshell.cn.ico
           description: 享受编程和技术所带来的快乐
-        - title: Viggo
-          logo: viggoz.ico
-          url: http://viggoz.com/
-          description: 一位喜欢摄影、编程、骑行的 UI 设计师
+        - title: 构建我的被动收入
+          url: https://www.bmpi.dev/
+          logo: www.bmpi.dev.png
+          desription: 一位践行终身学习的全栈开发者
+        # - title: Viggo
+        #   logo: viggoz.ico
+        #   url: http://viggoz.com/
+        #   description: 一位喜欢摄影、编程、骑行的 UI 设计师
         # - title: 池建强的随想录
         #   logo: mactalk.png
         #   url: http://macshuo.com/
