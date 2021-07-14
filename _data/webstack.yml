@@ -538,6 +538,10 @@
         url: https://github.com/fatedier/frp
         logo: github.com.svg
         description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。
+      - title: kkFileView
+        url: https://github.com/kekingcn/kkFileView
+        logo: kkfileview.keking.cn.ico
+        description: 主流办公文档的在线预览解决方案
 
 
 - name: 娱乐休闲
