@@ -542,7 +542,7 @@
         url: https://github.com/kekingcn/kkFileView
         logo: kkfileview.keking.cn.ico
         description: 主流办公文档的在线预览解决方案
-      - titile: vuepress
+      - title: vuepress
         url: https://github.com/vuejs/vuepress
         logo: vuepress.vuejs.org.png
         description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
