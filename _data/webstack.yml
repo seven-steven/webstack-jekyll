@@ -537,11 +537,23 @@
       - title: fatedier/frp
         url: https://github.com/fatedier/frp
         logo: github.com.svg
-        description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。
+        description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
       - title: kkFileView
         url: https://github.com/kekingcn/kkFileView
         logo: kkfileview.keking.cn.ico
         description: 主流办公文档的在线预览解决方案
+      - titile: vuepress
+        url: https://github.com/vuejs/vuepress
+        logo: vuepress.vuejs.org.png
+        description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
+      - title: hexo
+        url: https://hexo.io/
+        logo: hexo.io.png
+        description: 快速、简洁且高效的纯静态博客框架
+      - title: MyBatis-Plus
+        url: https://github.com/baomidou/mybatis-plus
+        logo: baomidou.com.png
+        description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
 
 
 - name: 娱乐休闲
