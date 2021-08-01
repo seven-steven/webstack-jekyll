@@ -242,9 +242,9 @@
           logo: bloghub.fun.png
           url: https://bloghub.fun/
           description: 个人博客聚合网站
-        - title: Markdown Nice 
-          logo: mdnice.ico
-          url: https://editor.mdnice.com/
+        - title: Markdown 在线编辑器
+          logo: markdown.com.cn-editor.svg
+          url: https://markdown.com.cn/editor/
           description: Markdown 文件转微信排版的工具
         - title: OpenWrite
           logo: openwrite.cn.png
