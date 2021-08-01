@@ -502,6 +502,10 @@
   #       description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
   - name: 编程知识
     links: 
+      - title: Intellij IDEA 最佳实践
+        logo: idea.diqigan.cn.svg
+        url: https://idea.diqigan.cn
+        description: 详细讲解了 Intellij IDEA 的设置、能力、插件等最佳实践
       - title: REFACTORING GURU
         logo: refactoringguru.cn.png
         url: https://refactoringguru.cn/design-patterns
