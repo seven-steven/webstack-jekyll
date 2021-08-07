@@ -91,6 +91,10 @@
           logo: convertio.co.png
           url: https://convertio.co/zh/
           description: 将您的文件转换成任意格式
+        - title: DeepL
+          logo: deepl.com.svg
+          url: https://www.deepl.com/zh/translator
+          description: 很好用的翻译工具
 
 
     - name: 电脑软件
@@ -532,6 +536,10 @@
         url: https://github.com/kekingcn/kkFileView
         logo: kkfileview.keking.cn.ico
         description: 主流办公文档的在线预览解决方案
+      - title: Roverr/rtsp-stream
+        logo: github.com.svg
+        url: https://github.com/Roverr/rtsp-stream
+        description: 一款 rtsp 转 hls 的视频流服务
       - title: vuepress
         url: https://github.com/vuejs/vuepress
         logo: vuepress.vuejs.org.png
