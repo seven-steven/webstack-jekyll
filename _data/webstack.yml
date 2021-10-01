@@ -660,13 +660,17 @@
           url: https://woyaozufang.live/#/
           description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
         - title: itellyou
-          url: http://msdn.itellyou.cn/
+          url: https://next.itellyou.cn/Original/Index
           logo: msdn.itellyou.cn.ico
           description: 纯净 Windows 镜像下载
         - title: 微PE
           url: http://www.wepe.com.cn/
           logo: wepe.com.cn.svg
           description: 很好用的 Win PE 装机维护工具
+        - title: Ventoy
+          url: https://github.com/ventoy/Ventoy
+          logo: ventoy.net.png
+          description: 可同时兼容多种操作系统的启动盘制作工具
         - title: 泥石流海报
           logo: graph.readhub.cn.png
           url: https://graph.readhub.cn/
@@ -675,6 +679,10 @@
           url: https://www.eggvod.cn/music/
           description: 免费下载各大音乐网站的歌曲
           logo: eggvod.cn.png
+        - title: 全国移动电话卡“一证通查”
+          url: https://getsimnum.caict.ac.cn/#/
+          logo: getsimnum.caict.ac.cn.ico
+          description: 查询自己名下有多少张电话卡
 
 # - name: 常用推荐
 #   icon: linecons-star
