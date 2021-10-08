@@ -568,18 +568,18 @@
   sub:
     - name: 电子书
       links: 
-        - title: 熊猫搜书
-          url: https://ebook.huzerui.com/#/
-          logo: ebook.huzerui.com.ico
-          description: 集成了多个搜书平台，可以当成导航网站来用
+        - title: z-library
+          url: https://z-lib.org/
+          logo: z-lib.org.png
+          description: 世界上最大的数字图书馆
+        # - title: 熊猫搜书
+        #   url: https://ebook.huzerui.com/#/
+        #   logo: ebook.huzerui.com.ico
+        #   description: 集成了多个搜书平台，可以当成导航网站来用
         - title: LoreFree
           url: https://ebook2.lorefree.com/
           logo: ebook2.lorefree.com.ico
           description: 去中心化免费电子书共享社区
-        - title: 计算机书籍控
-          url: http://bestcbooks.com/
-          logo: bestcbooks.com.ico
-          description: 计算机书籍下载站点
         - title: 鸠摩搜索
           url: https://www.jiumodiary.com/
           logo: jiumodiary.com.png
