@@ -434,10 +434,6 @@
         url: https://www.100font.com/
         logo: 100font.com.ico
         description: 一个专门收集“免费商用”字体的网站
-      # - title: 字魂网
-      #   url: https://izihun.com/
-      #   logo: izihun.com.ico
-      #   description: 正版字体网站，需要购买授权
       - title: 求字体网
         logo: qiuziti.com.ico
         url: http://www.qiuziti.com/
@@ -469,10 +465,6 @@
         logo: json.cn.ico
         url: https://www.json.cn/
         description: JSON 格式化工具
-      # - title: Nginx Beautifier
-      #   logo: nginxbeautifier.com.png
-      #   url: https://nginxbeautifier.com/
-      #   description: nginx 配置文件格式化工具
       - title: SSL Configuration Generator
         logo: ssl-config.mozilla.org.svg
         url: https://ssl-config.mozilla.org/
@@ -499,11 +491,6 @@
         logo: another-redis-desktop-manager.png
         url: https://github.com/qishibo/AnotherRedisDesktopManager
         description: 一款全平台通用的 Redis 连接工具
-  #   links: 
-  #     - title: FinalShell
-  #       logo: finalshell.png
-  #       url: https://www.hostbuf.com/
-  #       description: 一款巧妙集成了文件传输的免费高颜值 SSH 工具。
   - name: 编程知识
     links: 
       - title: Intellij IDEA 最佳实践
@@ -556,6 +543,10 @@
         url: https://github.com/baomidou/mybatis-plus
         logo: baomidou.com.png
         description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
+      - title: Tailwind CSS
+        url: https://tailwindcss.com/
+        logo: tailwindcss.com.png
+        description: 一个功能类优先的  CSS 框架
 
 
 - name: 娱乐休闲
@@ -687,6 +678,10 @@
           url: https://getsimnum.caict.ac.cn/#/
           logo: getsimnum.caict.ac.cn.ico
           description: 查询自己名下有多少张电话卡
+        - title: 主机测评
+          url: https://www.zhujiceping.com/
+          logo: zhujiceping.com.png
+          description: VPS，服务器，主机测评
 
 # - name: 常用推荐
 #   icon: linecons-star
