@@ -79,6 +79,18 @@
           logo: ilovepdf.com.png
           url: https://www.ilovepdf.com/zh-cn
           description: 完全免费、易于使用、丰富的PDF处理工具
+        - title: Excalidraw
+          url: https://excalidraw.com/
+          logo: excalidraw.com.png
+          description: 白板绘图工具
+        - title: PlantUML
+          url: https://plantuml.com/zh/
+          logo: plantuml.com.svg
+          description: 一款文本绘图工具
+        - title: draw.io
+           url: draw.io
+           logo: draw.io.png
+           description: 非常好用的轻量级绘图工具 
         # - title: cloudconvert
         #   logo: cloudconvert.png
         #   url: https://cloudconvert.com/
