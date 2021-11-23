@@ -457,6 +457,10 @@
   sub: 
   - name: 辅助工具
     links: 
+      - title: ding-tunnel
+        url: https://github.com/mzlogin/ding-tunnel
+        logo: github.com.svg
+        description: 钉钉提供的内网穿透工具
       - title: ngrok
         url: https://ngrok.com/
         logo: ngrok.com.png
@@ -559,6 +563,10 @@
         url: https://tailwindcss.com/
         logo: tailwindcss.com.png
         description: 一个功能类优先的  CSS 框架
+      - title: screw
+        url: https://github.com/pingfangushi/screw
+        logo: github.com.svg
+        description: 简洁好用的数据库表结构文档生成工具
 
 
 - name: 娱乐休闲
