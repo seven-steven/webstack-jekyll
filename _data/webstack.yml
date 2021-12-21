@@ -426,10 +426,10 @@
         url: https://arctime.org/
         logo: arctime.org.ico
         description: 免费跨平台字幕软件
-      - title: Edit Your Audio
-        url: https://www.edityouraudio.com/
-        logo: edityouraudio.com.png
-        description: 为音乐创作者提供的免费在线音频工具
+      - title: Audio Trimmer
+        url: https://audiotrimmer.com/cn/
+        logo: audiotrimmer.com.png
+        description: 在线剪辑音频文件
 
 
   - name: 字体素材
