@@ -571,10 +571,18 @@
         url: https://github.com/dutchcoders/transfer.sh
         logo: github.com.svg
         description: 命令行文件上传神器
+      - title: KasmVNC
+        url: https://github.com/kasmtech/KasmVNC
+        logo: github.com.svg
+        description: Linux Web Remote Desktop
       - title: kasmweb/centos-7-desktop
         url: https://hub.docker.com/r/kasmweb/centos-7-desktop
         logo: github.com.svg
         description: 一个可以使用浏览器访问的 CentOS 7 Docker 镜像
+      - title: budtmo/docker-android
+        url: https://github.com/budtmo/docker-android
+        logo: github.com.svg
+        description: 在 Docker 中运行 android
 
 
 - name: 娱乐休闲
