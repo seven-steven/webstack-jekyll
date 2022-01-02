@@ -529,6 +529,10 @@
         url: https://wangdoc.com/bash/
         description: Bash 的基本用法和脚本编程
         logo: bash.wangdoc.com.png
+      - title: Ansible 中文权威指南
+        url: https://ansible-tran.readthedocs.io/en/latest/
+        description: Ansible 中文权威指南
+        logo: ansible.com.png
   - name: 开源项目
     links:
       - title: fatedier/frp
@@ -583,6 +587,10 @@
         url: https://github.com/budtmo/docker-android
         logo: github.com.svg
         description: 在 Docker 中运行 android
+      - title: ansible/ansible
+        url: https://github.com/ansible/ansible
+        description: 自动化部署神器
+        logo: github.com.svg
 
 
 - name: 娱乐休闲
