@@ -507,6 +507,10 @@
         logo: another-redis-desktop-manager.png
         url: https://github.com/qishibo/AnotherRedisDesktopManager
         description: 一款全平台通用的 Redis 连接工具
+      - title: Termux
+        logo: termux.svg
+        url: https://github.com/termux/termux-app
+        description: 安卓系统上的命令行终端神器
   - name: 编程知识
     links: 
       - title: Intellij IDEA 最佳实践
@@ -591,16 +595,6 @@
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
-
-
-- name: 娱乐休闲
-  icon: linecons-videocam
-  links: 
-    - title: 在线之家
-      url: https://www.zxzj.me/
-      logo: www.zxzj.me.svg
-      description: 一个速度与清晰度都不错的美剧网站 
-
 
 - name: 杂七杂八
   icon: linecons-attach
