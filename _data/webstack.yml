@@ -672,7 +672,7 @@
           url: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
           logo: chrome-extension-video-speed-controller.png
           description: 控制 HTML5 视频播放速度
-        - title: Global Speed: 视频速度控制
+        - title: Global Speed 视频速度控制
           url: https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff
           logo: chrome-extension-global-speed.jpg
           description: 全局视频速度控制
