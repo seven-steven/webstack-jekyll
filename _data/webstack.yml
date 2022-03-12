@@ -595,6 +595,14 @@
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
+      - title: Ant Design Pro
+        url: https://pro.ant.design/zh-CN/
+        logo: pro.ant.design.svg
+        description: 开箱即用的中台前端/设计解决方案
+      - title: vue-element-admin
+        url: https://panjiachen.github.io/vue-element-admin-site/zh/guide/
+        logo: vue.svg
+        description: 基于 vue 和 element-ui 实现的后台前端解决方案
 
 - name: 杂七杂八
   icon: linecons-attach
