@@ -497,6 +497,10 @@
         url: https://httpbin.org/
         logo: httpbin.org.ico
         description: A simple HTTP Request & Response Service.
+      - title: iconfont-阿里巴巴矢量图标库
+        url: https://www.iconfont.cn/
+        logo: iconfont.cn.svg
+        description: 阿里巴巴矢量图标库
   - name: 软件资源
     links:
       - title: Apifox
@@ -537,6 +541,11 @@
         url: https://ansible-tran.readthedocs.io/en/latest/
         description: Ansible 中文权威指南
         logo: ansible.com.png
+      - title: Web 开发者指南 | MDN
+        url: https://developer.mozilla.org/zh-CN/docs/Web/Guide
+        logo: developer.mozilla.org.svg
+        description: 权威且准确的 Web 开发者指南
+
   - name: 开源项目
     links:
       - title: fatedier/frp
