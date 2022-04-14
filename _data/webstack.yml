@@ -99,15 +99,6 @@
           url: https://excalidraw.com/
           logo: excalidraw.com.png
           description: 白板绘图工具
-        - title: PlantUML
-          url: https://plantuml.com/zh/
-          logo: plantuml.com.svg
-          description: 一款文本绘图工具
-        - title: draw.io
-          url: https://app.diagrams.net/
-          logo: draw.io.png
-          description: 非常好用的轻量级绘图工具 
-
 
     - name: 电脑软件
       links:
@@ -465,10 +456,14 @@
         url: https://ngrok.com/
         logo: ngrok.com.png
         description: 一款非常好用的内网穿透工具
+      - title: PlantUML
+        url: https://plantuml.com/zh/
+        logo: plantuml.com.svg
+        description: 一款文本绘图工具
       - title: draw.io
-        url: https://www.diagrams.net/
-        logo: diagrams.net.ico
-        description: 一款开源免费的轻量级绘图工具
+        url: https://app.diagrams.net/
+        logo: draw.io.png
+        description: 非常好用的轻量级绘图工具
       - title: carbon 
         logo: carbon.now.sh.png
         url: https://carbon.now.sh/
@@ -497,10 +492,6 @@
         url: https://httpbin.org/
         logo: httpbin.org.ico
         description: A simple HTTP Request & Response Service.
-      - title: iconfont-阿里巴巴矢量图标库
-        url: https://www.iconfont.cn/
-        logo: iconfont.cn.svg
-        description: 阿里巴巴矢量图标库
   - name: 软件资源
     links:
       - title: Apifox
@@ -541,11 +532,6 @@
         url: https://ansible-tran.readthedocs.io/en/latest/
         description: Ansible 中文权威指南
         logo: ansible.com.png
-      - title: Web 开发者指南 | MDN
-        url: https://developer.mozilla.org/zh-CN/docs/Web/Guide
-        logo: developer.mozilla.org.svg
-        description: 权威且准确的 Web 开发者指南
-
   - name: 开源项目
     links:
       - title: fatedier/frp
@@ -604,14 +590,6 @@
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
-      - title: Ant Design Pro
-        url: https://pro.ant.design/zh-CN/
-        logo: pro.ant.design.svg
-        description: 开箱即用的中台前端/设计解决方案
-      - title: vue-element-admin
-        url: https://panjiachen.github.io/vue-element-admin-site/zh/guide/
-        logo: vue.svg
-        description: 基于 vue 和 element-ui 实现的后台前端解决方案
 
 - name: 杂七杂八
   icon: linecons-attach
