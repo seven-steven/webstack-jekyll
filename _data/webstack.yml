@@ -510,7 +510,7 @@
         logo: httpbin.org.ico
         description: A simple HTTP Request & Response Service.
       - title: Apifox
-        logo: apifox.cn.svg 
+        logo: apifox.cn.png
         url: https://www.apifox.cn/
         description: 全平台的接口文档、调试、Mock、自动化测试工具
       - title: Another Redis Desktop Manager
