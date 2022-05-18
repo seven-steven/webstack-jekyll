@@ -339,7 +339,7 @@
         url: https://unsplash.com/
         description: The internet’s source of freely usable images. Powered by creators everywhere
       - title: StockSnap.io
-        logo: stocksnap.png
+        logo: stocksnap.io.png
         url: https://stocksnap.io/
         description: Beautiful free stock photos
       - title: Pixabay
@@ -509,8 +509,6 @@
         url: https://httpbin.org/
         logo: httpbin.org.ico
         description: A simple HTTP Request & Response Service.
-  - name: 软件资源
-    links:
       - title: Apifox
         logo: apifox.cn.svg 
         url: https://www.apifox.cn/
