@@ -549,10 +549,42 @@
         logo: ansible.com.png
   - name: 开源项目
     links:
+      - title: Ant Design
+        url: https://ant.design/
+        logo: ant.design.svg
+        description: 企业级产品设计体系，创造高效愉悦的工作体验
+      - title: Ant Design Pro
+        url: https://beta-pro.ant.design/
+        logo: ant.design.svg
+        description: 开箱即用的中台前端/设计解决方案
+      - title: vuepress
+        url: https://github.com/vuejs/vuepress
+        logo: vuepress.vuejs.org.png
+        description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
+      - title: hexo
+        url: https://hexo.io/
+        logo: hexo.io.png
+        description: 快速、简洁且高效的纯静态博客框架
+      - title: Tailwind CSS
+        url: https://tailwindcss.com/
+        logo: tailwindcss.com.png
+        description: 一个功能类优先的 CSS 框架
+      - title: MyBatis-Plus
+        url: https://github.com/baomidou/mybatis-plus
+        logo: baomidou.com.png
+        description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
+      - title: ansible/ansible
+        url: https://github.com/ansible/ansible
+        description: 自动化部署神器
+        logo: github.com.svg
       - title: fatedier/frp
         url: https://github.com/fatedier/frp
         logo: github.com.svg
         description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
+      - title: transfer.sh
+        url: https://github.com/dutchcoders/transfer.sh
+        logo: github.com.svg
+        description: 命令行文件上传神器
       - title: BaiduPCS-Go
         url: https://github.com/qjfoidnh/BaiduPCS-Go
         logo: github.com.svg
@@ -565,30 +597,10 @@
         logo: github.com.svg
         url: https://github.com/Roverr/rtsp-stream
         description: 一款 rtsp 转 hls 的视频流服务
-      - title: vuepress
-        url: https://github.com/vuejs/vuepress
-        logo: vuepress.vuejs.org.png
-        description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
-      - title: hexo
-        url: https://hexo.io/
-        logo: hexo.io.png
-        description: 快速、简洁且高效的纯静态博客框架
-      - title: MyBatis-Plus
-        url: https://github.com/baomidou/mybatis-plus
-        logo: baomidou.com.png
-        description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
-      - title: Tailwind CSS
-        url: https://tailwindcss.com/
-        logo: tailwindcss.com.png
-        description: 一个功能类优先的  CSS 框架
       - title: screw
         url: https://github.com/pingfangushi/screw
         logo: github.com.svg
         description: 简洁好用的数据库表结构文档生成工具
-      - title: transfer.sh
-        url: https://github.com/dutchcoders/transfer.sh
-        logo: github.com.svg
-        description: 命令行文件上传神器
       - title: KasmVNC
         url: https://github.com/kasmtech/KasmVNC
         logo: github.com.svg
@@ -601,10 +613,6 @@
         url: https://github.com/budtmo/docker-android
         logo: github.com.svg
         description: 在 Docker 中运行 android
-      - title: ansible/ansible
-        url: https://github.com/ansible/ansible
-        description: 自动化部署神器
-        logo: github.com.svg
 
 - name: 杂七杂八
   icon: linecons-attach
