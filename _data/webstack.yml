@@ -577,6 +577,10 @@
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
+      - title: MinIO
+        logo: min.io.svg
+        url: https://github.com/minio/minio
+        description: 一款开源的对象存储服务
       - title: fatedier/frp
         url: https://github.com/fatedier/frp
         logo: github.com.svg
