@@ -228,7 +228,6 @@
           url: https://www.xodo.com/
           description: 在线的 PDF 阅读、编辑工具
 
-
     - name: PPT 模板
       links: 
         - title: ρρt超级市场
@@ -466,7 +465,7 @@
 
 
 - name: 开发资源
-  icon: icon-github-alt
+  icon: linecons-params
   sub: 
   - name: 辅助工具
     links: 
@@ -632,7 +631,7 @@
         description: 在 Docker 中运行 android
 
 - name: 无忧生活
-  icon: icon-coffee
+  icon: linecons-tv
   sub:
     - name: 影音资源
       links:
@@ -651,6 +650,10 @@
 
     - name: 政务服务
       links:
+        - title: 电信用户申诉受理中心
+          url: https://yhssglxt.miit.gov.cn/web/userAppeal/
+          logo: yhssglxt.miit.gov.cn.ico
+          description: 电信申诉
         - title: 全国移动电话卡“一证通查”
           url: https://getsimnum.caict.ac.cn/#/
           logo: getsimnum.caict.ac.cn.ico
