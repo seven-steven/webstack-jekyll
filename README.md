@@ -1,6 +1,9 @@
 # [bookmark.diqigan.cn](https://bookmark.diqigan.cn/)
 
-> 这是一个纯静态的导航网站，样式取自 [viggo](http://viggoz.com/) 开发的 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)，内容由 [Seven](https://blog.diqigan.cn) 收集整理。
+> 这是一个纯静态的导航网站。
+> 样式取自 [viggo](http://viggoz.com/) 开发的 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)。
+> 菜单 icon 取自 [Font Awesome](https://www.bootcss.com/p/font-awesome/#)
+> 内容由 [Seven](https://blog.diqigan.cn) 收集整理。
 
 ## 环境配置
 

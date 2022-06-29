@@ -1,4 +1,3 @@
-
 - name: 学习资源
   icon: linecons-lightbulb
   sub: 
@@ -8,10 +7,6 @@
           logo: geektime.jpg
           url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
           description: 轻松学习，高效学习
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂
         - title: 网易公开课
           logo: open.163.com.ico
           url: https://open.163.com/
@@ -20,8 +15,18 @@
           logo: xiachufang.com.png
           url: https://www.xiachufang.com/
           description: 实用菜谱做法与饮食知识
-
-
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: imooc.png
+          description: 程序员的梦工厂
+        - title: English-level-up-tips
+          url: https://github.com/byoungd/English-level-up-tips
+          logo: github.com.svg
+          description: 可能是让你受益匪浅的英语进阶指南。
+        - title: 渐构
+          url: https://www.modevol.com/
+          logo: www.modevol.com.png
+          description: 用科技改变教育方式
     - name: 科普视频
       links: 
         - title: Crash Course 中文字幕组
@@ -48,8 +53,6 @@
           logo: bilibili-wujinshaonv.jpg
           url: https://space.bilibili.com/303517323
           description: 年轻人帅气出租屋改造干货基地
-
-
 - name: 效率办公
   icon: linecons-desktop
   sub: 
@@ -261,8 +264,6 @@
           url: https://www.pptboss.com/?inviter=yo039hz2
           description: PPT 免费在线制作工具
 
-
-
 - name: 网络博客
   icon: linecons-note
   sub: 
@@ -465,7 +466,7 @@
 
 
 - name: 开发资源
-  icon: linecons-desktop
+  icon: icon-github-alt
   sub: 
   - name: 辅助工具
     links: 
@@ -505,6 +506,10 @@
         logo: www.ssllabs.com.ico
         url: https://www.ssllabs.com/
         description: SSL 质量检测工具
+      - title: Nginx 配置
+        url: https://nginxconfig.io
+        logo: nginxconfig.io.png
+        description: 可视化生成 Nginx 配置
       - title: AnyProxy
         logo: anyproxy.io.png
         url: https://github.com/alibaba/anyproxy
@@ -577,6 +582,10 @@
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
+      - title: digitalocean/nginxconfig.io
+        url: https://github.com/digitalocean/nginxconfig.io
+        logo: github.com.svg
+        description: 可视化生成 Nginx 配置
       - title: MinIO
         logo: min.io.svg
         url: https://min.io/
@@ -585,6 +594,10 @@
         url: https://github.com/fatedier/frp
         logo: github.com.svg
         description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
+      - title: Cloudreve
+        url: https://github.com/cloudreve/Cloudreve
+        logo: github.com.svg
+        description: 支持多家云存储驱动的公有云文件系统
       - title: transfer.sh
         url: https://github.com/dutchcoders/transfer.sh
         logo: github.com.svg
@@ -617,6 +630,35 @@
         url: https://github.com/budtmo/docker-android
         logo: github.com.svg
         description: 在 Docker 中运行 android
+
+- name: 无忧生活
+  icon: icon-coffee
+  sub:
+    - name: 影音资源
+      links:
+        - title: 无名小站
+          url: https://www.btnull.org/
+          logo: btnull.org.ico
+          description: 满足你的影视需求
+        - title: 茶杯狐
+          url: https://cupfox.app/
+          description: 另一个刷剧网站
+          logo: cupfox.app.png
+        - title: 懒人全网音乐下载
+          url: https://www.eggvod.cn/music/
+          description: 免费下载各大音乐网站的歌曲
+          logo: eggvod.cn.png
+
+    - name: 政务服务
+      links:
+        - title: 全国移动电话卡“一证通查”
+          url: https://getsimnum.caict.ac.cn/#/
+          logo: getsimnum.caict.ac.cn.ico
+          description: 查询自己名下有多少张电话卡
+        - title: 合同示范文本库
+          description: 国家市场监督管理总局出具的各种合同范本
+          url: https://cont.12315.cn/
+          logo: cont.12315.cn.svg
 
 - name: 杂七杂八
   icon: linecons-attach
@@ -718,18 +760,6 @@
 
     - name: 其他
       links:
-        - title: 无名小站
-          url: https://www.btnull.org/
-          logo: btnull.org.ico
-          description: 满足你的影视需求
-        - title: 茶杯狐
-          url: https://cupfox.app/
-          description: 另一个刷剧网站
-          logo: cupfox.app.png
-        - title: 懒人全网音乐下载
-          url: https://www.eggvod.cn/music/
-          description: 免费下载各大音乐网站的歌曲
-          logo: eggvod.cn.png
         - title: 地图搜租房
           logo: woyaozufang.live.png
           url: https://woyaozufang.live/#/
@@ -750,10 +780,6 @@
 #          logo: graph.readhub.cn.png
 #          url: https://graph.readhub.cn/
 #          description: 泥石流海报
-        - title: 全国移动电话卡“一证通查”
-          url: https://getsimnum.caict.ac.cn/#/
-          logo: getsimnum.caict.ac.cn.ico
-          description: 查询自己名下有多少张电话卡
         - title: 主机测评
           url: https://www.zhujiceping.com/
           logo: zhujiceping.com.png
