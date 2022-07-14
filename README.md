@@ -9,7 +9,7 @@
 ### Docker 启动
 
    ```bash
-   sudo docker run -it \
+   docker run -it \
      --rm \
      -v=$PWD:/srv/jekyll \
      -p 4000:4000 \
