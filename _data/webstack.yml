@@ -122,7 +122,7 @@
           url: https://www.xmind.cn/
           description: 一个全功能的思维导图和头脑风暴软件
         - title: VLC
-          url: http://www.videolan.org/
+          url: https://www.videolan.org/
           logo: videolan.org.png
           description: 一款自由、开源的跨平台多媒体播放器
         - title: Sublime Text
@@ -208,7 +208,7 @@
           url: https://www.yuque.com/register?invite_token=357df65e3061673e3b03a080fade2e493ba5cafce13251181c822e3b1e44daf9
           description: 十万阿里人都在用的笔记与文档知识库
         - title: 花火
-          url: http://activity.hanabi.cn/activity?code=L58FTS
+          url: https://activity.hanabi.cn/activity?code=L58FTS
           logo: hanabi.data-viz.cn.ico
           description: 免费的在线图表制作工具，可以制作动态排名条形统计图
         - title: 图表秀
@@ -232,28 +232,20 @@
       links: 
         - title: ρρt超级市场
           logo: ppt.sotary.com.ico
-          url: http://ppt.sotary.com/
+          url: https://ppt.sotary.com/
           description: 免费、优质、高效、安全的 PPT 模板下载网站
         - title: 稻壳儿
           logo: docer.com.svg
           url: https://www.docer.com/
           description: WPS 稻壳儿官网
         - title: 优品PPT
-          url: http://www.ypppt.com/
+          url: https://www.ypppt.com/
           logo: ypppt.com.png
           description: 免费PPT模板下载
-        - title: HiPPTer
-          url: http://www.hippter.com/
-          logo: hippter.com.ico
-          description: PPT资源导航
         - title: 叮当设计
           url: https://www.dingdangsheji.com/
           logo: dingdangsheji.com.png
           description: 完全免费的优秀素材下载网站
-        - title: 演界网
-          logo: yanj.cn.svg
-          url: http://www.yanj.cn/
-          description: 收费但高质量的PPT模板，PPT图表，PPT作品，PPT动画网站
         - title: 吾道
           logo: woodo.cn.jpg
           url: https://www.woodo.cn/
@@ -290,11 +282,11 @@
       links:
         - title: Seven's blog
           logo: blog.diqigan.cn.png
-          url: http://blog.diqigan.cn 
+          url: https://blog.diqigan.cn
           description: 小柒的个人博客
         - title: 阮一峰的网络日志
           logo: ruanyifeng.com.jpg
-          url: http://www.ruanyifeng.com/blog/
+          url: https://www.ruanyifeng.com/blog/
           description: 作者会分享很多网络见闻，是开拓视野的好去处
         - title: 酷壳
           url: https://coolshell.cn/
@@ -304,14 +296,6 @@
           url: https://www.bmpi.dev/
           logo: www.bmpi.dev.png
           description: 一位践行终身学习的全栈开发者
-        # - title: Viggo
-        #   logo: viggoz.ico
-        #   url: http://viggoz.com/
-        #   description: 一位喜欢摄影、编程、骑行的 UI 设计师
-        # - title: 池建强的随想录
-        #   logo: mactalk.png
-        #   url: http://macshuo.com/
-        #   description: 极客时间创始人池建强，经常会分享很多独到的见解
 
 - name: 设计素材
   icon: linecons-pencil
@@ -324,17 +308,12 @@
         description: 产品/设计师/独立开发者的资源库
       - title: WebStack
         logo: webstack.cc.png
-        url: http://webstack.cc/
+        url: https://webstack.cc/
         description: 设计师网址导航
       - title: 搜图导航
         url: https://www.91sotu.com/
         logo: 91soutu.com.ico
         description: 强大且智能的设计师导航
-      - title: 兰客导航
-        url: http://lackk.com/nav/
-        logo: lackk.com.ico
-        description: 收录创意及美的网站
-
 
   - name: 图片素材
     links: 
@@ -350,10 +329,6 @@
         logo: pixabay.png
         url: https://pixabay.com/
         description: Stunning free images & royalty free stock
-      - title: streetwill
-        logo: streetwill.png
-        url: http://streetwill.co/
-        description: 免费高清可商用，风景人像小清新，CC0 授权
       - title: manypixels
         logo: manypixels.png
         url: https://gallery.manypixels.co/
@@ -460,7 +435,7 @@
         description: 一个专门收集“免费商用”字体的网站
       - title: 求字体网
         logo: qiuziti.com.ico
-        url: http://www.qiuziti.com/
+        url: https://www.qiuziti.com/
         description: 字体下载、识别与搜索
 
 
@@ -780,7 +755,7 @@
           logo: msdn.itellyou.cn.ico
           description: 纯净 Windows 镜像下载
         - title: 微PE
-          url: http://www.wepe.com.cn/
+          url: https://www.wepe.com.cn/
           logo: wepe.com.cn.svg
           description: 很好用的 Win PE 装机维护工具
         - title: Ventoy
