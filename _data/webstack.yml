@@ -696,8 +696,8 @@
     - name: Chrome插件
       links: 
         - title: Ghelper
-          url: http://googlehelper.net/
-          logo: googlehelper.net.png
+          url: https://ghelper.net/
+          logo: ghelper.net.png
           description: 佛曰：不可说
         - title: Proxy SwitchOmega
           url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
