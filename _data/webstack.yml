@@ -774,3 +774,7 @@
           url: https://www.myyucai.com/
           logo: wordpress.svg
           description: 鱼菜共生（渔农综合种养）开源资料库
+        - title: 程序员做饭指南
+          url: https://cook.aiurs.co/
+          logo: cook.aiurs.co.svg
+          description: 精准量化每一个细节的程序员做饭指南
