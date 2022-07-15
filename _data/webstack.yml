@@ -530,6 +530,10 @@
         url: https://ansible-tran.readthedocs.io/en/latest/
         description: Ansible 中文权威指南
         logo: ansible.com.png
+      - title: 1on1-questions
+        url: https://github.com/VGraupera/1on1-questions
+        logo: github.com.svg
+        description: 1:1 沟通问题列表
   - name: 开源项目
     links:
       - title: Ant Design
@@ -762,11 +766,11 @@
           url: https://github.com/ventoy/Ventoy
           logo: ventoy.net.png
           description: 可同时兼容多种操作系统的启动盘制作工具
-#        - title: 泥石流海报
-#          logo: graph.readhub.cn.png
-#          url: https://graph.readhub.cn/
-#          description: 泥石流海报
         - title: 主机测评
           url: https://www.zhujiceping.com/
           logo: zhujiceping.com.png
           description: VPS，服务器，主机测评
+        - title: 开源鱼菜共生网
+          url: https://www.myyucai.com/
+          logo: wordpress.svg
+          description: 鱼菜共生（渔农综合种养）开源资料库
