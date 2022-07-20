@@ -504,6 +504,10 @@
         logo: another-redis-desktop-manager.png
         url: https://github.com/qishibo/AnotherRedisDesktopManager
         description: 一款全平台通用的 Redis 连接工具
+      - title: 在线身份证号码生成器
+        url: https://www.suijidaquan.com/shenfenzheng
+        description: 在线身份证号码生成器，测试数据生成
+        logo: www.suijidaquan.com.jpeg
   - name: 编程知识
     links: 
       - title: Intellij IDEA 最佳实践
