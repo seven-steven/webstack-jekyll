@@ -365,14 +365,18 @@
         logo: squoosh.app.svg
         url: https://squoosh.app/
         description: 一款开源免费可调节的图片压缩工具
-      - title: docsmall
-        url: https://docsmall.com/
-        logo: docsmall.com.png
-        description: 在线图片压缩工具
+#      - title: docsmall
+#        url: https://docsmall.com/
+#        logo: docsmall.com.png
+#        description: 在线图片压缩工具
       - title: remove.bg
         logo: removebg.png
         url: https://www.remove.bg/zh
         description: 图片背景消除工具
+      - title: Magic Eraser
+        url: https://www.magiceraser.io/
+        logo: magiceraser.io.svg
+        description: 瞬间删除图像中不需要的部分
       - title: 在线 PS 工具
         logo: ps.gaoding.com.ico
         url: https://ps.gaoding.com/#/
