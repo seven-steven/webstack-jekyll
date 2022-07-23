@@ -612,6 +612,10 @@
         url: https://github.com/budtmo/docker-android
         logo: github.com.svg
         description: 在 Docker 中运行 android
+      - title: awesome-selfhosted/awesome-selfhosted
+        url: https://github.com/awesome-selfhosted/awesome-selfhosted
+        logo: github.com.svg
+        description: 可以自行免费部署的软件和 web 应用清单
 
 - name: 无忧生活
   icon: linecons-tv
