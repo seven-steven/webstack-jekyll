@@ -365,10 +365,10 @@
         logo: squoosh.app.svg
         url: https://squoosh.app/
         description: 一款开源免费可调节的图片压缩工具
-#      - title: docsmall
-#        url: https://docsmall.com/
-#        logo: docsmall.com.png
-#        description: 在线图片压缩工具
+      - title: docsmall
+        url: https://docsmall.com/
+        logo: docsmall.com.png
+        description: 在线图片压缩工具
       - title: remove.bg
         logo: removebg.png
         url: https://www.remove.bg/zh
@@ -638,6 +638,10 @@
           url: http://www.yinghuacd.com
           logo: www.yinghuacd.com.ico
           description: 专注动漫的门户网站
+        - title: Anime Scene Search Engine
+          url: https://trace.moe/
+          description: 根据动漫图片查找动漫
+          logo: trace.moe.png
         - title: 懒人全网音乐下载
           url: https://www.eggvod.cn/music/
           description: 免费下载各大音乐网站的歌曲
