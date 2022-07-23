@@ -770,14 +770,18 @@
           url: https://next.itellyou.cn/Original/Index
           logo: msdn.itellyou.cn.ico
           description: 纯净 Windows 镜像下载
-        - title: 微PE
-          url: https://www.wepe.com.cn/
-          logo: wepe.com.cn.svg
-          description: 很好用的 Win PE 装机维护工具
         - title: Ventoy
           url: https://github.com/ventoy/Ventoy
           logo: ventoy.net.png
           description: 可同时兼容多种操作系统的启动盘制作工具
+        - title: Rufus
+          url: https://rufus.ie/
+          description: 轻松创建 USB 启动盘，开源软件
+          logo: rufus.ie.png
+        - title: 微PE
+          url: https://www.wepe.com.cn/
+          logo: wepe.com.cn.svg
+          description: 很好用的 Win PE 装机维护工具
         - title: 主机测评
           url: https://www.zhujiceping.com/
           logo: zhujiceping.com.png
