@@ -557,7 +557,7 @@
       - title: unofficial-bash-strict-mode
         description: 如何更好地编写脚本文件
         url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
-        logo: ssh.svg
+        logo: bash.png
       - title: 阮一峰的 SSH 教程
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
