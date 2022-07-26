@@ -316,7 +316,11 @@
         description: 强大且智能的设计师导航
 
   - name: 图片素材
-    links: 
+    links:
+      - title: iconfont
+        url: https://www.iconfont.cn/
+        description: 阿里巴巴矢量图标库
+        logo: iconfont.cn.svg
       - title: Unsplash
         logo: unsplash.jpg
         url: https://unsplash.com/
@@ -536,24 +540,24 @@
         logo: github.com.svg
       - title: Linux工具快速教程
         url: https://linuxtools-rst.readthedocs.io/zh_CN/latest/
-        logo: github.com.svg
         description: Linux工具的最常用用法
+        logo: github.com.svg
       - title: jlevy/the-art-of-command-line
         url: https://github.com/jlevy/the-art-of-command-line
-        logo: github.com.svg
         description: 常见名命令行工具的使用方法
+        logo: github.com.svg
       - title: alebcay/awesome-shell
         url: https://github.com/alebcay/awesome-shell
         description: 好用的命令行工具列表
         logo: github.com.svg
       - title: unixorn/awesome-zsh-plugins
         url: https://github.com/unixorn/awesome-zsh-plugins
-        logo: github.com.svg
         description: 好用的 zsh 插件推荐
+        logo: github.com.svg
       - title: unofficial-bash-strict-mode
+        description: 如何更好地编写脚本文件
         url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
         logo: ssh.svg
-        description: 如何更好地编写脚本文件
       - title: 阮一峰的 SSH 教程
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
