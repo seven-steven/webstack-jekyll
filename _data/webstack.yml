@@ -574,6 +574,10 @@
         url: https://github.com/VGraupera/1on1-questions
         logo: github.com.svg
         description: 1:1 沟通问题列表
+      - title: UbuntuManual
+        url: https://wiki.ubuntu.org.cn/UbuntuManual
+        description: Ubuntu 参考手册
+        logo: ubuntu.svg
   - name: 开源项目
     links:
       - title: Ant Design
