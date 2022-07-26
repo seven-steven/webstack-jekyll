@@ -530,6 +530,10 @@
         url: https://doc.yonyoucloud.com/doc/docker_practice/index.html
         description: Docker 教程
         logo: yeasy.gitbook.io.svg
+      - title: EbookFoundation/free-programming-books
+        url: https://github.com/EbookFoundation/free-programming-books/
+        description: 分类列举了大量编程书籍和网络资源
+        logo: github.com.svg
       - title: 阮一峰的 SSH 教程
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
