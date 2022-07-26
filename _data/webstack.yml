@@ -558,10 +558,14 @@
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
         logo: ssh.svg
-      - title: 阮一峰的 Bash 教程
-        url: https://wangdoc.com/bash/
-        description: Bash 的基本用法和脚本编程
-        logo: bash.wangdoc.com.png
+      - title: The Linux Command Line
+        url: http://billie66.github.io/TLCL/book/
+        description: Linux 命令行系列教程
+        logo: bash.png
+#      - title: 阮一峰的 Bash 教程
+#        url: https://wangdoc.com/bash/
+#        description: Bash 的基本用法和脚本编程
+#        logo: bash.png
       - title: Ansible 中文权威指南
         url: https://ansible-tran.readthedocs.io/en/latest/
         description: Ansible 中文权威指南
