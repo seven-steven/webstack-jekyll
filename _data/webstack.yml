@@ -542,6 +542,14 @@
         logo: github.com.svg
         description: 常见名命令行工具的使用方法
         url: https://github.com/jlevy/the-art-of-command-line
+      - title: alebcay/awesome-shell
+        description: 好用的命令行工具列表
+        url: https://github.com/alebcay/awesome-shell
+        logo: github.com.svg
+      - title: unixorn/awesome-zsh-plugins
+        url: https://github.com/unixorn/awesome-zsh-plugins
+        logo: github.com.svg
+        description: 好用的 zsh 插件推荐
       - title: 阮一峰的 SSH 教程
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
