@@ -534,6 +534,14 @@
         url: https://github.com/EbookFoundation/free-programming-books/
         description: 分类列举了大量编程书籍和网络资源
         logo: github.com.svg
+      - title: Linux工具快速教程
+        url: https://linuxtools-rst.readthedocs.io/zh_CN/latest/
+        logo: github.com.svg
+        description: Linux工具的最常用用法
+      - title: jlevy/the-art-of-command-line
+        logo: github.com.svg
+        description: 常见名命令行工具的使用方法
+        url: https://github.com/jlevy/the-art-of-command-line
       - title: 阮一峰的 SSH 教程
         url: https://wangdoc.com/ssh/
         description: SSH 的基本概念和用法
