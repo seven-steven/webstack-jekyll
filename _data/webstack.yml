@@ -106,6 +106,10 @@
           url: https://excalidraw.com/
           logo: excalidraw.com.png
           description: 白板绘图工具
+        - title: 白描
+          url: https://web.baimiaoapp.com/
+          description: OCR 识别工具，支持图片转表格
+          logo: web.baimiaoapp.com.png
 
     - name: 电脑软件
       links:
