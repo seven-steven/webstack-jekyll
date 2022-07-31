@@ -720,6 +720,11 @@
           url: https://rutracker.org/
           description: 盗版游戏、电影、软件下载
           logo: rutracker.org.svg
+        - title: byrutor
+          url: https://s1.byrutor.com/
+          # url: https://byrut.org/
+          description: 俄区游戏三剑客之一，各种游戏、软件下载
+          logo: byrutor.org.png
         - title: Switch520
           url: https://switch520.com/
           description: switch 游戏，金手指，3A大作免费下载
