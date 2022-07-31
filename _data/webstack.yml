@@ -668,6 +668,10 @@
         url: https://github.com/awesome-selfhosted/awesome-selfhosted
         logo: github.com.svg
         description: 可以自行免费部署的软件和 web 应用清单
+      - title: TrueNAS
+        url: https://www.truenas.com/
+        description: 开源免费 NAS 系统
+        logo: truenas.com.png
 
 - name: 无忧生活
   icon: linecons-tv
@@ -734,6 +738,7 @@
           url: https://switch520.com/
           description: switch 游戏，金手指，3A大作免费下载
           logo: switch520.com.png
+
     - name: 政务服务
       links:
         - title: 电信用户申诉受理中心
