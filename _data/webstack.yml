@@ -669,6 +669,14 @@
           description: 国家市场监督管理总局出具的各种合同范本
           url: https://cont.12315.cn/
           logo: cont.12315.cn.svg
+        - title: 中国裁判文书网
+          url: https://wenshu.court.gov.cn/
+          description: 查一个人是否有过案底
+          logo: wenshu.court.gov.cn.png
+        - title: 中国执行信息公开网
+          url: http://zxgk.court.gov.cn/
+          description: 查询一个人是否失信
+          logo: zxgk.court.gov.cn.png
 
 - name: 杂七杂八
   icon: linecons-attach
@@ -719,7 +727,7 @@
           logo: dida365.png
           description: 滴答清单的 Chrome 扩展
         - title: 番茄土豆
-          url: https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf
+          url: https://chrome.google.com/webstore/detail/pomotodo/eiejppffpppelndcmldkpjleiojibopg
           logo: chrome-extension-pomotodo.png
           description: 番茄工作法插件
         - title: Adblock Plus
