@@ -722,9 +722,14 @@
           logo: rutracker.org.svg
         - title: byrutor
           url: https://s1.byrutor.com/
+          # url: https://byrutor.org/
           # url: https://byrut.org/
-          description: 俄区游戏三剑客之一，各种游戏、软件下载
+          description: 各种游戏、软件下载
           logo: byrutor.org.png
+        - title: CrazyGames
+          url: https://www.crazygames.com/
+          description: 免费在线游戏
+          logo: crazygames.com.jpeg
         - title: Switch520
           url: https://switch520.com/
           description: switch 游戏，金手指，3A大作免费下载
