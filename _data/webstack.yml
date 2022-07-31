@@ -453,7 +453,7 @@
 
 - name: 开发资源
   icon: linecons-params
-  sub: 
+  sub:
   - name: 辅助工具
     links:
       - title: PlantUML
@@ -695,6 +695,25 @@
           description: 免费下载各大音乐网站的歌曲
           logo: eggvod.cn.png
 
+    - name: 电子书
+      links:
+        - title: z-library
+          url: https://z-lib.org/
+          logo: z-lib.org.png
+          description: 世界上最大的数字图书馆
+        - title: LoreFree
+          url: https://ebook2.lorefree.com/
+          logo: ebook2.lorefree.com.ico
+          description: 去中心化免费电子书共享社区
+        - title: 熊猫搜书
+          url: https://ebook.huzerui.com/#/
+          logo: ebook.huzerui.com.ico
+          description: 集成了多个搜书平台，可以当成导航网站来用
+        - title: 鸠摩搜索
+          url: https://www.jiumodiary.com/
+          logo: jiumodiary.com.png
+          description: 文档搜索引擎
+
     - name: 政务服务
       links:
         - title: 电信用户申诉受理中心
@@ -721,25 +740,6 @@
 - name: 杂七杂八
   icon: linecons-attach
   sub:
-    - name: 电子书
-      links: 
-        - title: z-library
-          url: https://z-lib.org/
-          logo: z-lib.org.png
-          description: 世界上最大的数字图书馆
-        # - title: 熊猫搜书
-        #   url: https://ebook.huzerui.com/#/
-        #   logo: ebook.huzerui.com.ico
-        #   description: 集成了多个搜书平台，可以当成导航网站来用
-        - title: LoreFree
-          url: https://ebook2.lorefree.com/
-          logo: ebook2.lorefree.com.ico
-          description: 去中心化免费电子书共享社区
-        - title: 鸠摩搜索
-          url: https://www.jiumodiary.com/
-          logo: jiumodiary.com.png
-          description: 文档搜索引擎
-
     - name: Chrome插件
       links: 
         - title: Ghelper
@@ -814,7 +814,6 @@
           url: https://greasyfork.org/zh-CN/scripts
           logo: greasyfork.org.png
           description: 油猴脚本资源列表
-
 
     - name: 其他
       links:
