@@ -714,6 +714,12 @@
           logo: jiumodiary.com.png
           description: 文档搜索引擎
 
+    - name: 游戏资源
+      links:
+        - title: Switch520
+          url: https://switch520.com/
+          description: switch 游戏，金手指，3A大作免费下载
+          logo: switch520.com.png
     - name: 政务服务
       links:
         - title: 电信用户申诉受理中心
