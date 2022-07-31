@@ -716,6 +716,10 @@
 
     - name: 游戏资源
       links:
+        - title: RuTracker.org
+          url: https://rutracker.org/
+          description: 盗版游戏、电影、软件下载
+          logo: rutracker.org.svg
         - title: Switch520
           url: https://switch520.com/
           description: switch 游戏，金手指，3A大作免费下载
