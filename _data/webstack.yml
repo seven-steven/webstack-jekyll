@@ -2,7 +2,11 @@
   icon: linecons-lightbulb
   sub: 
     - name: 精品网课
-      links: 
+      links:
+        - title: LeetCode
+          url: https://leetcode.com/problemset/all/
+          description: 算法学习 No.1
+          logo: leetcode.com.png
         - title: 极客时间
           logo: geektime.jpg
           url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
@@ -526,10 +530,6 @@
         description: 一款非常好用的内网穿透工具
   - name: 编程知识
     links:
-      - title: LeetCode
-        url: https://leetcode.com/problemset/all/
-        description: 算法学习 No.1
-        logo: leetcode.com.png
       - title: Intellij IDEA 最佳实践
         logo: idea.diqigan.cn.svg
         url: https://idea.diqigan.cn
