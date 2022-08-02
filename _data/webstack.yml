@@ -93,7 +93,7 @@
         # - title: ALL TO ALL
         #   logo: alltoall.net.jpg
         #   url: https://www.alltoall.net/
-        #   description: 免费的在线格式转换工具，文件大小限制 10M
+        #   description: 免费的在线格式转换工具，文件大小限制 20M
         - title: Convertio
           logo: convertio.co.png
           url: https://convertio.co/zh/
@@ -526,6 +526,10 @@
         description: 一款非常好用的内网穿透工具
   - name: 编程知识
     links:
+      - title: LeetCode
+        url: https://leetcode.com/problemset/all/
+        description: 算法学习 No.1
+        logo: leetcode.com.png
       - title: Intellij IDEA 最佳实践
         logo: idea.diqigan.cn.svg
         url: https://idea.diqigan.cn
