@@ -612,10 +612,16 @@
         url: https://tailwindcss.com/
         logo: tailwindcss.com.png
         description: 一个功能类优先的 CSS 框架
+
       - title: Taro
         url: https://taro.jd.com/
         description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
         logo: taro.jd.com.png
+      - title: justjavac/awesome-wechat-weapp
+        url: https://github.com/justjavac/awesome-wechat-weapp
+        description: 微信小程序开发资源汇总
+        logo: github.com.svg
+
       - title: hexo
         url: https://hexo.io/
         logo: hexo.io.png
