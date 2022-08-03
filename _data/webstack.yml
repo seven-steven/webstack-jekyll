@@ -546,6 +546,14 @@
         url: https://github.com/EbookFoundation/free-programming-books/
         description: 分类列举了大量编程书籍和网络资源
         logo: github.com.svg
+      - title: 1on1-questions
+        url: https://github.com/VGraupera/1on1-questions
+        logo: github.com.svg
+        description: 1:1 沟通问题列表
+      - title: Patterns.dev
+        url: https://www.patterns.dev/
+        description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
+        logo: patterns.dev.png
       - title: Linux工具快速教程
         url: https://linuxtools-rst.readthedocs.io/zh_CN/latest/
         description: Linux工具的最常用用法
@@ -582,10 +590,6 @@
         url: https://ansible-tran.readthedocs.io/en/latest/
         description: Ansible 中文权威指南
         logo: ansible.com.png
-      - title: 1on1-questions
-        url: https://github.com/VGraupera/1on1-questions
-        logo: github.com.svg
-        description: 1:1 沟通问题列表
       - title: UbuntuManual
         url: https://wiki.ubuntu.org.cn/UbuntuManual
         description: Ubuntu 参考手册
