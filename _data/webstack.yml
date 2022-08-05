@@ -3,10 +3,6 @@
   sub: 
     - name: 精品网课
       links:
-        - title: LeetCode
-          url: https://leetcode.com/problemset/all/
-          description: 算法学习 No.1
-          logo: leetcode.com.png
         - title: 极客时间
           logo: geektime.jpg
           url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
@@ -463,6 +459,26 @@
 - name: 开发资源
   icon: linecons-params
   sub:
+
+  - name: 编程通识
+    links:
+      - title: LeetCode
+        url: https://leetcode.com/problemset/all/
+        description: 算法学习 No.1
+        logo: leetcode.com.png
+      - title: REFACTORING GURU
+        url: https://refactoringguru.cn/design-patterns
+        description: 设计模式教程
+        logo: refactoringguru.cn.png
+      - title: 1on1-questions
+        url: https://github.com/VGraupera/1on1-questions
+        logo: github.com.svg
+        description: 1:1 沟通问题列表
+      - title: EbookFoundation/free-programming-books
+        url: https://github.com/EbookFoundation/free-programming-books/
+        description: 分类列举了大量编程书籍和网络资源
+        logo: github.com.svg
+
   - name: 辅助工具
     links:
       - title: PlantUML
@@ -497,10 +513,6 @@
         logo: another-redis-desktop-manager.png
         url: https://github.com/qishibo/AnotherRedisDesktopManager
         description: 一款全平台通用的 Redis 连接工具
-      - title: ding-tunnel
-        url: https://github.com/mzlogin/ding-tunnel
-        logo: github.com.svg
-        description: 钉钉提供的内网穿透工具
       - title: JSON 格式化
         logo: json.cn.ico
         url: https://www.json.cn/
@@ -509,14 +521,6 @@
         logo: jsonhero.io.svg
         url: https://jsonhero.io/
         description: 一款开源的 JSON 资源管理器
-      - title: SSL Configuration Generator
-        logo: ssl-config.mozilla.org.svg
-        url: https://ssl-config.mozilla.org/
-        description: SSL 配置生成工具
-      - title: SSL Labs
-        logo: www.ssllabs.com.ico
-        url: https://www.ssllabs.com/
-        description: SSL 质量检测工具
       - title: Nginx 配置
         url: https://nginxconfig.io
         logo: nginxconfig.io.png
@@ -533,32 +537,102 @@
         url: https://ngrok.com/
         logo: ngrok.com.png
         description: 一款非常好用的内网穿透工具
-  - name: 编程知识
+      - title: ding-tunnel
+        url: https://github.com/mzlogin/ding-tunnel
+        logo: github.com.svg
+        description: 钉钉提供的内网穿透工具
+      - title: BaiduPCS-Go
+        url: https://github.com/qjfoidnh/BaiduPCS-Go
+        logo: github.com.svg
+        description: 仿 Linux shell 文件处理命令的百度网盘命令行客户端
+
+  - name: 解决方案
+    links:
+      - title: awesome-selfhosted/awesome-selfhosted
+        url: https://github.com/awesome-selfhosted/awesome-selfhosted
+        logo: github.com.svg
+        description: 可以自行免费部署的软件和 web 应用清单
+      - title: MinIO
+        logo: min.io.svg
+        url: https://min.io/
+        description: 一款开源的对象存储服务
+      - title: Cloudreve
+        url: https://github.com/cloudreve/Cloudreve
+        logo: github.com.svg
+        description: 支持多家云存储驱动的公有云文件系统
+      - title: kkFileView
+        url: https://github.com/kekingcn/kkFileView
+        logo: kkfileview.keking.cn.ico
+        description: 主流办公文档的在线预览解决方案
+      - title: Roverr/rtsp-stream
+        logo: github.com.svg
+        url: https://github.com/Roverr/rtsp-stream
+        description: 一款 rtsp 转 hls 的视频流服务
+      - title: TrueNAS
+        url: https://www.truenas.com/
+        description: 开源免费 NAS 系统
+        logo: truenas.com.png
+
+  - name: 前端开发
+    links:
+      - title: Patterns.dev
+        url: https://www.patterns.dev/
+        description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
+        logo: patterns.dev.png
+      - title: Ant Design
+        url: https://ant.design/
+        logo: ant.design.svg
+        description: 企业级产品设计体系，创造高效愉悦的工作体验
+      - title: Ant Design Pro
+        url: https://beta-pro.ant.design/
+        logo: ant.design.svg
+        description: 开箱即用的中台前端/设计解决方案
+      - title: Tailwind CSS
+        url: https://tailwindcss.com/
+        logo: tailwindcss.com.png
+        description: 一个功能类优先的 CSS 框架
+      - title: Taro
+        url: https://taro.jd.com/
+        description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
+        logo: taro.jd.com.png
+
+      - title: justjavac/awesome-wechat-weapp
+        url: https://github.com/justjavac/awesome-wechat-weapp
+        description: 微信小程序开发资源汇总
+        logo: github.com.svg
+
+      - title: vuepress
+        url: https://github.com/vuejs/vuepress
+        logo: vuepress.vuejs.org.png
+        description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
+      - title: hexo
+        url: https://hexo.io/
+        logo: hexo.io.png
+        description: 快速、简洁且高效的纯静态博客框架
+  - name: 后端开发
     links:
       - title: Intellij IDEA 最佳实践
         logo: idea.diqigan.cn.svg
         url: https://idea.diqigan.cn
         description: 详细讲解了 Intellij IDEA 的设置、能力、插件等最佳实践
-      - title: REFACTORING GURU
-        logo: refactoringguru.cn.png
-        url: https://refactoringguru.cn/design-patterns
-        description: 设计模式教程
+      - title: MyBatis-Plus
+        url: https://github.com/baomidou/mybatis-plus
+        logo: baomidou.com.png
+        description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
+      - title: screw
+        url: https://github.com/pingfangushi/screw
+        logo: github.com.svg
+        description: 简洁好用的数据库表结构文档生成工具
+  - name: 服务运维
+    links:
       - title: Docker 从入门到实践
         url: https://doc.yonyoucloud.com/doc/docker_practice/index.html
         description: Docker 教程
         logo: yeasy.gitbook.io.svg
-      - title: EbookFoundation/free-programming-books
-        url: https://github.com/EbookFoundation/free-programming-books/
-        description: 分类列举了大量编程书籍和网络资源
-        logo: github.com.svg
-      - title: 1on1-questions
-        url: https://github.com/VGraupera/1on1-questions
-        logo: github.com.svg
-        description: 1:1 沟通问题列表
-      - title: Patterns.dev
-        url: https://www.patterns.dev/
-        description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
-        logo: patterns.dev.png
+      - title: Ansible 中文权威指南
+        url: https://ansible-tran.readthedocs.io/en/latest/
+        description: Ansible 中文权威指南
+        logo: ansible.com.png
       - title: Linux工具快速教程
         url: https://linuxtools-rst.readthedocs.io/zh_CN/latest/
         description: Linux工具的最常用用法
@@ -587,94 +661,22 @@
         url: http://billie66.github.io/TLCL/book/
         description: Linux 命令行系列教程
         logo: bash.png
-#      - title: 阮一峰的 Bash 教程
-#        url: https://wangdoc.com/bash/
-#        description: Bash 的基本用法和脚本编程
-#        logo: bash.png
-      - title: Ansible 中文权威指南
-        url: https://ansible-tran.readthedocs.io/en/latest/
-        description: Ansible 中文权威指南
-        logo: ansible.com.png
+        #      - title: 阮一峰的 Bash 教程
+        #        url: https://wangdoc.com/bash/
+        #        description: Bash 的基本用法和脚本编程
+        #        logo: bash.png
       - title: UbuntuManual
         url: https://wiki.ubuntu.org.cn/UbuntuManual
         description: Ubuntu 参考手册
         logo: ubuntu.svg
-  - name: 开源项目
-    links:
-      - title: Ant Design
-        url: https://ant.design/
-        logo: ant.design.svg
-        description: 企业级产品设计体系，创造高效愉悦的工作体验
-      - title: Ant Design Pro
-        url: https://beta-pro.ant.design/
-        logo: ant.design.svg
-        description: 开箱即用的中台前端/设计解决方案
-      - title: vuepress
-        url: https://github.com/vuejs/vuepress
-        logo: vuepress.vuejs.org.png
-        description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
-      - title: Tailwind CSS
-        url: https://tailwindcss.com/
-        logo: tailwindcss.com.png
-        description: 一个功能类优先的 CSS 框架
-
-      - title: Taro
-        url: https://taro.jd.com/
-        description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
-        logo: taro.jd.com.png
-      - title: justjavac/awesome-wechat-weapp
-        url: https://github.com/justjavac/awesome-wechat-weapp
-        description: 微信小程序开发资源汇总
-        logo: github.com.svg
-
-      - title: hexo
-        url: https://hexo.io/
-        logo: hexo.io.png
-        description: 快速、简洁且高效的纯静态博客框架
-      - title: MyBatis-Plus
-        url: https://github.com/baomidou/mybatis-plus
-        logo: baomidou.com.png
-        description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
       - title: ansible/ansible
         url: https://github.com/ansible/ansible
         description: 自动化部署神器
         logo: github.com.svg
-      - title: digitalocean/nginxconfig.io
-        url: https://github.com/digitalocean/nginxconfig.io
-        logo: github.com.svg
-        description: 可视化生成 Nginx 配置
-      - title: MinIO
-        logo: min.io.svg
-        url: https://min.io/
-        description: 一款开源的对象存储服务
-      - title: fatedier/frp
-        url: https://github.com/fatedier/frp
-        logo: github.com.svg
-        description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
-      - title: Cloudreve
-        url: https://github.com/cloudreve/Cloudreve
-        logo: github.com.svg
-        description: 支持多家云存储驱动的公有云文件系统
       - title: transfer.sh
         url: https://github.com/dutchcoders/transfer.sh
         logo: github.com.svg
         description: 命令行文件上传神器
-      - title: BaiduPCS-Go
-        url: https://github.com/qjfoidnh/BaiduPCS-Go
-        logo: github.com.svg
-        description: 仿 Linux shell 文件处理命令的百度网盘命令行客户端
-      - title: kkFileView
-        url: https://github.com/kekingcn/kkFileView
-        logo: kkfileview.keking.cn.ico
-        description: 主流办公文档的在线预览解决方案
-      - title: Roverr/rtsp-stream
-        logo: github.com.svg
-        url: https://github.com/Roverr/rtsp-stream
-        description: 一款 rtsp 转 hls 的视频流服务
-      - title: screw
-        url: https://github.com/pingfangushi/screw
-        logo: github.com.svg
-        description: 简洁好用的数据库表结构文档生成工具
       - title: KasmVNC
         url: https://github.com/kasmtech/KasmVNC
         logo: github.com.svg
@@ -687,14 +689,19 @@
         url: https://github.com/budtmo/docker-android
         logo: github.com.svg
         description: 在 Docker 中运行 android
-      - title: awesome-selfhosted/awesome-selfhosted
-        url: https://github.com/awesome-selfhosted/awesome-selfhosted
+      - title: fatedier/frp
+        url: https://github.com/fatedier/frp
         logo: github.com.svg
-        description: 可以自行免费部署的软件和 web 应用清单
-      - title: TrueNAS
-        url: https://www.truenas.com/
-        description: 开源免费 NAS 系统
-        logo: truenas.com.png
+        description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
+      - title: SSL Configuration Generator
+        logo: ssl-config.mozilla.org.svg
+        url: https://ssl-config.mozilla.org/
+        description: SSL 配置生成工具
+      - title: SSL Labs
+        logo: www.ssllabs.com.ico
+        url: https://www.ssllabs.com/
+        description: SSL 质量检测工具
+
 
 - name: 无忧生活
   icon: linecons-tv
@@ -709,10 +716,6 @@
           url: https://cupfox.app/
           description: 另一个刷剧网站
           logo: cupfox.app.png
-        - title: 樱花动漫
-          url: http://www.yinghuacd.com
-          logo: www.yinghuacd.com.ico
-          description: 专注动漫的门户网站
         - title: Anime Scene Search Engine
           url: https://trace.moe/
           description: 根据动漫图片查找动漫
