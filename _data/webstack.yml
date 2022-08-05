@@ -623,6 +623,10 @@
         url: https://nacos.io/
         description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。
         logo: nacos.io.png
+      - title: Swagger
+        url: https://swagger.io/
+        description: 接口文档生成工具
+        logo: swagger.io.svg
       - title: xxl-job
         url: https://github.com/xuxueli/xxl-job
         description: 分布式任务调度平台
