@@ -177,6 +177,11 @@
           url: https://github.com/microsoft/PowerToys
           logo: powertoys.microsoft.png
           description: Windows 下的自由分屏软件
+        - title: Synergy
+          url: https://symless.com/synergy
+          # url: https://github.com/DEAKSoftware/Synergy-Binaries/releases
+          description: 纯软件的跨电脑键鼠共享方案，代码开源，免费版本需要自己编译
+          logo: synergy.svg
 
     - name: 安卓软件
       links:
