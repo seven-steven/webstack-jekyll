@@ -619,6 +619,14 @@
         url: https://github.com/baomidou/mybatis-plus
         logo: baomidou.com.png
         description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
+      - title: nacos
+        url: https://nacos.io/
+        description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。
+        logo: nacos.io.png
+      - title: xxl-job
+        url: https://github.com/xuxueli/xxl-job
+        description: 分布式任务调度平台
+        logo: xuxueli.com.png
       - title: screw
         url: https://github.com/pingfangushi/screw
         logo: github.com.svg
