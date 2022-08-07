@@ -779,7 +779,7 @@
 - name: 无忧生活
   icon: linecons-tv
   sub:
-    - name: 政务服务
+    - name: 便民服务
       links:
         - title: 12306
           url: https://www.12306.cn/
@@ -809,6 +809,10 @@
           url: http://zxgk.court.gov.cn/
           description: 查询一个人是否失信
           logo: zxgk.court.gov.cn.png
+        - title: 快递 100
+          url: https://www.kuaidi100.com/
+          description: 快递查询
+          logo: kuaidi100.com.gif
 
     - name: 影音资源
       links:
