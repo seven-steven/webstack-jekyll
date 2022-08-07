@@ -737,7 +737,7 @@
       - title: The Linux Command Line
         url: http://billie66.github.io/TLCL/book/
         description: Linux 命令行系列教程
-        logo: bash.png
+        logo: billie66.github.io.png
         #      - title: 阮一峰的 Bash 教程
         #        url: https://wangdoc.com/bash/
         #        description: Bash 的基本用法和脚本编程
@@ -781,6 +781,10 @@
   sub:
     - name: 政务服务
       links:
+        - title: 12306
+          url: https://www.12306.cn/
+          description: 中国铁路 12306，买火车票认准这个网站
+          logo: 12306.cn.ico
         - title: 电信用户申诉受理中心
           url: https://yhssglxt.miit.gov.cn/web/userAppeal/
           logo: yhssglxt.miit.gov.cn.ico
