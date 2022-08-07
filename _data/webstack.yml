@@ -894,18 +894,22 @@
     - name: 个人博客
       links:
         - title: Seven's blog
-          logo: blog.diqigan.cn.png
           url: https://blog.diqigan.cn
           description: 小柒的个人博客
+          logo: blog.diqigan.cn.png
         - title: 阮一峰的网络日志
-          logo: ruanyifeng.com.jpg
           url: https://www.ruanyifeng.com/blog/
           description: 作者会分享很多网络见闻，是开拓视野的好去处
+          logo: ruanyifeng.com.jpg
         - title: 酷壳
           url: https://coolshell.cn/
-          logo: coolshell.cn.ico
           description: 享受编程和技术所带来的快乐
+          logo: coolshell.cn.ico
         - title: 构建我的被动收入
           url: https://www.bmpi.dev/
-          logo: www.bmpi.dev.png
           description: 一位践行终身学习的全栈开发者
+          logo: www.bmpi.dev.png
+        - title: 朱双印个人日志
+          url: https://www.zsythink.net/
+          description: linux 运维笔记，深入浅出，简单易懂
+          logo: zsythink.net.jpg
