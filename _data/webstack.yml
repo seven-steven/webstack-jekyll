@@ -809,6 +809,10 @@
           url: http://zxgk.court.gov.cn/
           description: 查询一个人是否失信
           logo: zxgk.court.gov.cn.png
+        - title: 国家药品监督管理局
+          url: https://www.nmpa.gov.cn/
+          description: 药品查询
+          logo: nmpa.gov.cn
         - title: 快递 100
           url: https://www.kuaidi100.com/
           description: 快递查询
