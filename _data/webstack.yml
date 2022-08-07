@@ -787,12 +787,16 @@
           logo: 12306.cn.ico
         - title: 电信用户申诉受理中心
           url: https://yhssglxt.miit.gov.cn/web/userAppeal/
-          logo: yhssglxt.miit.gov.cn.ico
           description: 电信申诉
+          logo: yhssglxt.miit.gov.cn.ico
         - title: 全国移动电话卡“一证通查”
           url: https://getsimnum.caict.ac.cn/#/
-          logo: getsimnum.caict.ac.cn.ico
           description: 查询自己名下有多少张电话卡
+          logo: getsimnum.caict.ac.cn.ico
+        - title: 邮政业服务申诉平台
+          url: https://sswz.spb.gov.cn/
+          description: 快递问题申诉
+          logo: sswz.spb.gov.cn.ico
         - title: 合同示范文本库
           description: 国家市场监督管理总局出具的各种合同范本
           url: https://cont.12315.cn/
