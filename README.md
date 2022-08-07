@@ -49,3 +49,8 @@
    ```bash
    gem install jekyll
    ```
+
+
+## 致谢
+
+- 感谢 [JetBrains](https://www.jetbrains.com/community/opensource/) 提供开发工具支持。
