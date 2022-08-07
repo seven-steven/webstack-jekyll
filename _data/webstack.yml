@@ -440,7 +440,11 @@
         url: https://www.magiceraser.io/
         logo: magiceraser.io.svg
         description: 瞬间删除图像中不需要的部分
-      - title: 在线 PS 工具
+      - title: PIXLR
+        url: https://pixlr.com/
+        description: 在线 PS 工具，无需登录
+        logo: pixlr.com.png
+      - title: 稿定
         logo: ps.gaoding.com.ico
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
@@ -813,10 +817,10 @@
           url: https://www.nmpa.gov.cn/
           description: 药品查询
           logo: nmpa.gov.cn.png
-        - title: 快递 100
-          url: https://www.kuaidi100.com/
-          description: 快递查询
-          logo: kuaidi100.com.gif
+#        - title: 快递 100
+#          url: https://www.kuaidi100.com/
+#          description: 快递查询
+#          logo: kuaidi100.com.gif
 
     - name: 影音资源
       links:
