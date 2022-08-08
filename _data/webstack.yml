@@ -636,6 +636,10 @@
 
   - name: 前端开发
     links:
+      - title: MDN Web Docs
+        url: https://developer.mozilla.org/
+        description: 标准且详细的前端技术文档
+        logo: developer.mozilla.org.png
       - title: Patterns.dev
         url: https://www.patterns.dev/
         description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
