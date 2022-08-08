@@ -640,18 +640,22 @@
         url: https://www.patterns.dev/
         description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
         logo: patterns.dev.png
-      - title: Ant Design
-        url: https://ant.design/
-        logo: ant.design.svg
-        description: 企业级产品设计体系，创造高效愉悦的工作体验
-      - title: Ant Design Pro
-        url: https://beta-pro.ant.design/
-        logo: ant.design.svg
-        description: 开箱即用的中台前端/设计解决方案
       - title: Tailwind CSS
         url: https://tailwindcss.com/
-        logo: tailwindcss.com.png
         description: 一个功能类优先的 CSS 框架
+        logo: tailwindcss.com.png
+      - title: Bootstrap
+        url: https://getbootstrap.com/
+        description: 强大、可扩展、功能丰富的前端工具箱
+        logo: getbootstrap.com.svg
+      - title: Ant Design
+        url: https://ant.design/
+        description: 企业级产品设计体系，创造高效愉悦的工作体验
+        logo: ant.design.svg
+      - title: Ant Design Pro
+        url: https://beta-pro.ant.design/
+        description: 开箱即用的中台前端/设计解决方案
+        logo: ant.design.svg
       - title: Taro
         url: https://taro.jd.com/
         description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
@@ -664,18 +668,18 @@
 
       - title: vuepress
         url: https://github.com/vuejs/vuepress
-        logo: vuepress.vuejs.org.png
         description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
+        logo: vuepress.vuejs.org.png
       - title: hexo
         url: https://hexo.io/
-        logo: hexo.io.png
         description: 快速、简洁且高效的纯静态博客框架
+        logo: hexo.io.png
   - name: 后端开发
     links:
       - title: Intellij IDEA 最佳实践
-        logo: idea.diqigan.cn.svg
         url: https://idea.diqigan.cn
         description: 详细讲解了 Intellij IDEA 的设置、能力、插件等最佳实践
+        logo: idea.diqigan.cn.svg
       - title: nacos
         url: https://nacos.io/
         description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
@@ -690,16 +694,16 @@
         logo: xuxueli.com.png
       - title: MyBatis-Plus
         url: https://github.com/baomidou/mybatis-plus
-        logo: baomidou.com.png
         description: Mybatis 的增强工具，只做增强不做改变，简化开发，提高效率
+        logo: baomidou.com.png
       - title: Hutool
         url: https://hutool.cn/
         description: 一个小而全的Java工具类库
         logo: hutool.cn.ico
       - title: screw
         url: https://github.com/pingfangushi/screw
-        logo: github.com.svg
         description: 简洁好用的数据库表结构文档生成工具
+        logo: github.com.svg
   - name: 服务运维
     links:
       - title: Docker 从入门到实践
