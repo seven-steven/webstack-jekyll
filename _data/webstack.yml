@@ -668,6 +668,10 @@
         url: https://www.bootcss.com/
         description: Bootstrap 中文网，网站也收集了非常多的中文文档
         logo: bootcss.com.png
+      - title: React
+        url: https://reactjs.org/
+        description: 用于构建用户界面的 JavaScript 库
+        logo: reactjs.org.svg
       - title: Ant Design
         url: https://ant.design/
         description: 企业级产品设计体系，创造高效愉悦的工作体验
