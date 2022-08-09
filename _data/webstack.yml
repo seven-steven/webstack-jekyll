@@ -386,45 +386,49 @@
         description: 阿里巴巴矢量图标库
         logo: iconfont.cn.svg
       - title: Unsplash
-        logo: unsplash.jpg
         url: https://unsplash.com/
         description: The internet’s source of freely usable images. Powered by creators everywhere
+        logo: unsplash.jpg
       - title: StockSnap.io
-        logo: stocksnap.io.png
         url: https://stocksnap.io/
         description: Beautiful free stock photos
+        logo: stocksnap.io.png
       - title: Pixabay
-        logo: pixabay.png
         url: https://pixabay.com/
         description: Stunning free images & royalty free stock
+        logo: pixabay.png
       - title: manypixels
-        logo: manypixels.png
         url: https://gallery.manypixels.co/
         description: 一个收集无版权插图的网站，提供 SVG / PNG 格式下载，并且允许更改颜色
+        logo: manypixels.png
       - title: visualhunt
         url: https://visualhunt.com/
-        logo: visualhunt.png
         description: 100% Free High Quality Photos
+        logo: visualhunt.png
       - title: PxHere
         url: https://pxhere.com/
-        logo: pxhere.com.png
         description: 免费高清商业素材
+        logo: pxhere.com.png
       - title: Illustrations | unDraw
         url: https://undraw.co/illustrations
-        logo: undraw.co.png
         description: 免费可商用的矢量素材网站
+        logo: undraw.co.png
       - title: 创客贴
-        logo: chuangkit.ico
         url: https://www.chuangkit.com/
         description: 极简的平面设计工具
+        logo: chuangkit.ico
       - title: Canva
-        logo: cavan.cn.png
         url: https://www.canva.cn/
-        description: 创建精彩设计
+        description: 在线设计协作平台
+        logo: cavan.cn.png
+      - title: DesignEvo
+        url: https://www.designevo.com/
+        description: 在线 LOGO 设计
+        logo: designevo.com.ico
       - title: QRCode Monkey
         url: https://www.qrcode-monkey.com/
-        logo: qrcode-monkey.com.png
         description: 免费的二维码生成器
+        logo: qrcode-monkey.com.png
 
 
   - name: 图片工具
