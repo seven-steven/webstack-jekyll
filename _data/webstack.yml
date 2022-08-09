@@ -2,53 +2,58 @@
   icon: linecons-lightbulb
   links:
     - title: 网易公开课
-      logo: open.163.com.ico
       url: https://open.163.com/
       description: 国内外名校公开课
+      logo: open.163.com.ico
     - title: 渐构
       url: https://www.modevol.com/
-      logo: www.modevol.com.png
       description: 用科技改变教育方式
+      logo: www.modevol.com.png
     - title: Crash Course 中文字幕组
-      logo: crashcourse.club.png
       url: https://crashcourse.club/category/
       description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
+      logo: crashcourse.club.png
     - title: 李永乐老师
-      logo: bilibili-liyongle.jpg
       url: https://space.bilibili.com/9458053
       description: 与我们的生活密切相关的各种科普知识，超赞！
+      logo: bilibili-liyongle.jpg
     - title: 下厨房
-      logo: xiachufang.com.png
       url: https://www.xiachufang.com/
       description: 实用菜谱做法与饮食知识
+      logo: xiachufang.com.png
     - title: 译学馆
-      logo: yxgapp.com.png
       url: https://www.yxgapp.com/
       description: 特别有意思、涨知识的英语学习平台
+      logo: yxgapp.com.png
     - title: English-level-up-tips
       url: https://github.com/byoungd/English-level-up-tips
-      logo: github.com.svg
       description: 可能是让你受益匪浅的英语进阶指南。
+      logo: github.com.svg
     - title: YJango
-      logo: bilibili-yjango.webp
       url: https://space.bilibili.com/344849038
       description: 如何科学地学习知识
+      logo: bilibili-yjango.webp
     - title: 3Blue1Brown
-      logo: 3blue1brown.com.png
       url: https://space.bilibili.com/88461692
       description: 深入浅出、直观明了地分享数学之美
+      logo: 3blue1brown.com.png
     - title: 五金少女
-      logo: bilibili-wujinshaonv.jpg
       url: https://space.bilibili.com/303517323
       description: 年轻人帅气出租屋改造干货基地
+      logo: bilibili-wujinshaonv.jpg
+    - title: Markdown 入门指南
+      url: https://www.markdown.xyz/
+      # url: https://www.markdownguide.org/
+      description: 学习快速、轻松地书写
+      logo: markdownguide.org.svg
     - title: 开源鱼菜共生网
       url: https://www.myyucai.com/
-      logo: wordpress.svg
       description: 鱼菜共生（渔农综合种养）开源资料库
+      logo: wordpress.svg
     - title: 程序员做饭指南
       url: https://cook.aiurs.co/
-      logo: cook.aiurs.co.svg
       description: 精准量化每一个细节的程序员做饭指南
+      logo: cook.aiurs.co.svg
 
 - name: 效率办公
   icon: linecons-desktop
