@@ -434,30 +434,33 @@
   - name: 图片工具
     links:
       - title: Squoosh
-        logo: squoosh.app.svg
         url: https://squoosh.app/
         description: 一款开源免费可调节的图片压缩工具
+        logo: squoosh.app.svg
       - title: docsmall
         url: https://docsmall.com/
-        logo: docsmall.com.png
         description: 在线图片压缩工具
+        logo: docsmall.com.png
       - title: remove.bg
-        logo: removebg.png
         url: https://www.remove.bg/zh
         description: 图片背景消除工具
+        logo: removebg.png
       - title: Magic Eraser
         url: https://www.magiceraser.io/
-        logo: magiceraser.io.svg
         description: 瞬间删除图像中不需要的部分
+        logo: magiceraser.io.svg
       - title: PIXLR
         url: https://pixlr.com/
         description: 在线 PS 工具，无需登录
         logo: pixlr.com.png
       - title: 稿定
-        logo: ps.gaoding.com.ico
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
-
+        logo: ps.gaoding.com.ico
+      - title: UU 在线工具
+        url: https://uutool.cn/id-photo/
+        description: 证件照处理
+        logo: uutool.cn.ico
 
   - name: 视频素材
     links:
