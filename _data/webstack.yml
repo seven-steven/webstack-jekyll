@@ -619,7 +619,7 @@
         description: 仿 Linux shell 文件处理命令的百度网盘命令行客户端
         logo: github.com.svg
 
-  - name: 解决方案
+  - name: 开源项目
     links:
       - title: awesome-selfhosted/awesome-selfhosted
         url: https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -629,14 +629,22 @@
         logo: min.io.svg
         url: https://min.io/
         description: 一款开源的对象存储服务
-      - title: Cloudreve
-        url: https://github.com/cloudreve/Cloudreve
-        logo: github.com.svg
-        description: 支持多家云存储驱动的公有云文件系统
       - title: TrueNAS
         url: https://www.truenas.com/
         description: 开源免费 NAS 系统
         logo: truenas.com.png
+      - title: NewFuture/DDNS
+        url: https://github.com/NewFuture/DDNS
+        description: 自动更新域名解析到本机 IP
+        logo: github.com.svg
+      - title: jeessy2/ddns-go
+        url: https://github.com/jeessy2/ddns-go
+        description: 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务
+        logo: github.com.svg
+      - title: Cloudreve
+        url: https://github.com/cloudreve/Cloudreve
+        logo: github.com.svg
+        description: 支持多家云存储驱动的公有云文件系统
       - title: Alist
         url: https://alist-doc.nn.ci/
         description: 一款支持多种存储的目录文件列表程序，简言之，网盘聚合
