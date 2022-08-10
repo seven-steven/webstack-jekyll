@@ -633,6 +633,14 @@
         url: https://github.com/cloudreve/Cloudreve
         logo: github.com.svg
         description: 支持多家云存储驱动的公有云文件系统
+      - title: TrueNAS
+        url: https://www.truenas.com/
+        description: 开源免费 NAS 系统
+        logo: truenas.com.png
+      - title: Alist
+        url: https://alist-doc.nn.ci/
+        description: 一款支持多种存储的目录文件列表程序，简言之，网盘聚合
+        logo: alist-doc.nn.ci.svg
       - title: kkFileView
         url: https://github.com/kekingcn/kkFileView
         logo: kkfileview.keking.cn.ico
@@ -641,10 +649,6 @@
         logo: github.com.svg
         url: https://github.com/Roverr/rtsp-stream
         description: 一款 rtsp 转 hls 的视频流服务
-      - title: TrueNAS
-        url: https://www.truenas.com/
-        description: 开源免费 NAS 系统
-        logo: truenas.com.png
 
   - name: 前端开发
     links:
