@@ -712,6 +712,10 @@
         url: https://maven.apache.org/
         description: Java 依赖管理
         logo: maven.apache.org.ico
+      - title: Maven Repository
+        url: https://mvnrepository.com/
+        description: Maven 中央仓库
+        logo: mavenrepository.com.ico
       - title: nacos
         url: https://nacos.io/
         description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
