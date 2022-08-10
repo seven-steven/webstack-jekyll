@@ -716,6 +716,10 @@
         url: https://mvnrepository.com/
         description: Maven 中央仓库
         logo: mavenrepository.com.ico
+      - title: Gradle Build Tool
+        url: https://gradle.org/
+        description: 更加灵活的 Java 依赖管理工具
+        logo: gradle.org.svg
       - title: nacos
         url: https://nacos.io/
         description: 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
