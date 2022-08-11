@@ -362,6 +362,10 @@
   sub:
   - name: 设计导航
     links:
+      - title: Dribbble
+        url: https://dribbble.com/
+        description: 世界顶级的设计师和创意作品
+        logo: dribbble.com.png
       - title: 码力全开
         logo: design.maliquankai.com.ico
         url: https://design.maliquankai.com/
