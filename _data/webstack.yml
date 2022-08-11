@@ -366,18 +366,22 @@
         url: https://dribbble.com/
         description: 世界顶级的设计师和创意作品
         logo: dribbble.com.png
+#      - title: Design Tips
+#        url: https://twitter.com/i/events/994601867987619840
+#        description: 关于设计的一些小技巧
+#        logo:
       - title: 码力全开
-        logo: design.maliquankai.com.ico
         url: https://design.maliquankai.com/
         description: 产品/设计师/独立开发者的资源库
+        logo: design.maliquankai.com.ico
       - title: WebStack
-        logo: webstack.cc.png
         url: https://webstack.cc/
         description: 设计师网址导航
+        logo: webstack.cc.png
       - title: 搜图导航
         url: https://www.91sotu.com/
-        logo: 91soutu.com.ico
         description: 强大且智能的设计师导航
+        logo: 91soutu.com.ico
       - title: 优波设计
         url: https://www.ubuuk.com/
         description: 设计师必备网址导航
