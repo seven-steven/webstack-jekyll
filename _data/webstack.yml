@@ -500,6 +500,10 @@
         url: https://audiotrimmer.com/cn/
         description: 在线剪辑音频文件
         logo: audiotrimmer.com.png
+      - title: 在线视频解析
+        url: https://www.parsevideo.com/
+        description: 输入视频网址，轻松下载在线视频
+        logo: parsevideo.com.svg
 
 
   - name: 字体素材
