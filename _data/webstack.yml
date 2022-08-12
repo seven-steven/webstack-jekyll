@@ -872,6 +872,10 @@
         url: https://caniuse.com/
         description: 查询浏览器对 Web API 的兼容性
         logo: caniuse.com.png
+      - title: unminify
+        url: https://unminify.com/
+        description: 针对 html, css, js 的解包、反混淆、格式化工具
+        logo: unminify.com.png
 
   - name: 后端开发
     links:
