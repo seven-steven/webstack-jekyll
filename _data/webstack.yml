@@ -171,6 +171,10 @@
           url: https://www.ypppt.com/
           description: 免费PPT模板下载
           logo: ypppt.com.png
+        - title: OfficePlus
+          url: https://www.officeplus.cn/templates/?cat=PPT
+          description: 微软官方 Office 模板服务平台
+          logo: officeplus.cn.svg
         - title: 叮当设计
           url: https://www.dingdangsheji.com/
           description: 完全免费的优秀素材下载网站
@@ -458,6 +462,10 @@
         url: https://www.designevo.com/
         description: 在线 LOGO 设计
         logo: designevo.com.ico
+      - title: 易词云
+        url: https://www.yciyun.com/
+        description: 词云生成器
+        logo: yciyun.com.ico
       - title: QRCode Monkey
         url: https://www.qrcode-monkey.com/
         description: 免费的二维码生成器
@@ -490,10 +498,6 @@
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
         logo: ps.gaoding.com.ico
-      - title: 易词云
-        url: https://www.yciyun.com/
-        description: 词云生成器
-        logo: yciyun.com.ico
       - title: UU 在线工具
         url: https://uutool.cn/id-photo/
         description: 证件照处理
