@@ -799,6 +799,10 @@
         url: https://hexo.io/
         description: 快速、简洁且高效的纯静态博客框架
         logo: hexo.io.png
+      - title: Neumorphism
+        url: https://neumorphism.io/
+        description: 简单轻松地实现 CSS 新拟态效果
+        logo: neumorphism.io.png
 
   - name: 后端开发
     links:
