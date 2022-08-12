@@ -420,6 +420,11 @@
         description: 设计师必备网址导航
         logo: ubuuk.com.ico
 
+      - title: paletton
+        url: https://paletton.com/
+        description: 智能配色工具
+        logo: paletton.com.png
+
   - name: 图片素材
     links:
       - title: iconfont
