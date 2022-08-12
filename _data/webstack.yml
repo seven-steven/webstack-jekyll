@@ -529,6 +529,10 @@
         url: https://www.parsevideo.com/
         description: 输入视频网址，轻松下载在线视频
         logo: parsevideo.com.svg
+      - title: you-get
+        url: https://github.com/soimort/you-get
+        description: 视频下载工具
+        logo: you-get.org.jpg
       - title: Kdenlive
         url: https://kdenlive.org/
         description: 开源的视频编辑器
