@@ -892,6 +892,10 @@
         url: https://unminify.com/
         description: 针对 html, css, js 的解包、反混淆、格式化工具
         logo: unminify.com.png
+      - title: Bundlephobia
+        url: https://bundlephobia.com/
+        description: 帮助分析添加一个 npm 包的成本
+        logo: bundlephobia.com.png
       - title: web code tools
         url: https://webcode.tools/
         description: 前端代码生成器
