@@ -13,10 +13,23 @@
       url: https://crashcourse.club/category/
       description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
       logo: crashcourse.club.png
+    - title: 数学乐
+      url: https://www.shuxuele.com/index.html
+      # url: https://www.mathsisfun.com/
+      description: 生动形象的数学知识
+      logo: mathsisfun.com.svg
     - title: 李永乐老师
       url: https://space.bilibili.com/9458053
       description: 与我们的生活密切相关的各种科普知识，超赞！
       logo: bilibili-liyongle.jpg
+    - title: 3Blue1Brown
+      url: https://space.bilibili.com/88461692
+      description: 深入浅出、直观明了地分享数学之美
+      logo: 3blue1brown.com.png
+    - title: English-level-up-tips
+      url: https://github.com/byoungd/English-level-up-tips
+      description: 可能是让你受益匪浅的英语进阶指南。
+      logo: github.com.svg
     - title: 下厨房
       url: https://www.xiachufang.com/
       description: 实用菜谱做法与饮食知识
@@ -25,18 +38,10 @@
       url: https://www.yxgapp.com/
       description: 特别有意思、涨知识的英语学习平台
       logo: yxgapp.com.png
-    - title: English-level-up-tips
-      url: https://github.com/byoungd/English-level-up-tips
-      description: 可能是让你受益匪浅的英语进阶指南。
-      logo: github.com.svg
     - title: YJango
       url: https://space.bilibili.com/344849038
       description: 如何科学地学习知识
       logo: bilibili-yjango.webp
-    - title: 3Blue1Brown
-      url: https://space.bilibili.com/88461692
-      description: 深入浅出、直观明了地分享数学之美
-      logo: 3blue1brown.com.png
     - title: 五金少女
       url: https://space.bilibili.com/303517323
       description: 年轻人帅气出租屋改造干货基地
