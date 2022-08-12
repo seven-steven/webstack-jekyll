@@ -1095,6 +1095,10 @@
           url: https://site.sciping.com/
           description: 学术导航
           logo: site.sciping.com.png
+        - title: Symbolab
+          url: https://zs.symbolab.com/
+          description: 分步求解的万能数学计算器
+          logo: zs.symbolab.com.svg
         - title: 图形计算器
           url: https://www.desmos.com/calculator
           description: 根据公式绘制函数图像
