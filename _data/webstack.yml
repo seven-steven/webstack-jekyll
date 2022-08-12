@@ -506,6 +506,10 @@
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
         logo: ps.gaoding.com.ico
+      - title: Petalica Paint
+        url: https://petalica-paint.pixiv.dev/index_zh.html
+        description: AI 线稿上色
+        logo: petalica-paint.pixiv.dev.png
       - title: PhotoMosh
         url: https://photomosh.com/
         description: 故障风艺术效果生成器
