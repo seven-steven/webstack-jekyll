@@ -728,6 +728,10 @@
         url: https://jsonhero.io/
         description: 一款开源的 JSON 资源管理器
         logo: jsonhero.io.svg
+      - title: RequestBin
+        url: https://requestbin.com/
+        description: 调试 HTTP 或 Webhook 请求
+        logo: requestbin.com.png
       - title: I18n Translation Search Engine
         url: https://i18ns.com/
         description: i18n 国际化翻译工具
