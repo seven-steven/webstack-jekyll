@@ -861,9 +861,14 @@
         logo: ant.design.svg
       - title: fingerprintjs
         url: https://github.com/fingerprintjs/fingerprintjs/
-#        url: https://fingerprint.com/
+        # url: https://fingerprint.com/
         description: 生成客户端唯一标识
         logo: fingerprint.com.ico
+      - title: rrweb-io/rrweb
+        url: https://github.com/rrweb-io/rrweb
+        # url: https://www.rrweb.io/
+        description: 记录和回放用户在前端的操作，可用于故障重现
+        logo: rrweb.io.png
       - title: Taro
         url: https://taro.jd.com/
         description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
