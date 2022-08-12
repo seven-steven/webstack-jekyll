@@ -479,6 +479,10 @@
         url: https://www.canva.cn/
         description: 在线设计协作平台
         logo: cavan.cn.png
+      - title: Mockup Photos
+        url: https://mockup.photos/
+        description: 样机模板
+        logo: mockup.photos.png
       - title: DesignEvo
         url: https://www.designevo.com/
         description: 在线 LOGO 设计
