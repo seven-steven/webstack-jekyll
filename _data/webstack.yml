@@ -647,6 +647,10 @@
         url: https://jsonhero.io/
         description: 一款开源的 JSON 资源管理器
         logo: jsonhero.io.svg
+      - title: I18n Translation Search Engine
+        url: https://i18ns.com/
+        description: i18n 国际化翻译工具
+        logo: i18ns.com.ico
       - title: Nginx 配置
         url: https://nginxconfig.io
         description: 可视化生成 Nginx 配置
