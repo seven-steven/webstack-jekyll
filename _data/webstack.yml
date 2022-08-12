@@ -622,10 +622,10 @@
         url: https://www.fontqu.com/
         description: 字体设计师交流分享，字体灵感，免费商用字体下载
         logo: fontqu.com.ico
-      - title: 字体仓库
-        url: https://www.ziticangku.com/
-        description: 免费下载无版权可商用字体
-        logo: ziticangku.com.ico
+#      - title: 字体仓库
+#        url: https://www.ziticangku.com/
+#        description: 免费下载无版权可商用字体
+#        logo: ziticangku.com.ico
       - title: 100font
         url: https://www.100font.com/
         description: 一个专门收集“免费商用”字体的网站
@@ -634,6 +634,10 @@
         url: https://www.qiuziti.com/
         description: 字体下载、识别与搜索
         logo: qiuziti.com.ico
+      - title: Font Converter
+        url: https://fontconverter.com/
+        description: 字体格式转换
+        logo: fontconverter.com.svg
 
 - name: 开发资源
   icon: linecons-params
