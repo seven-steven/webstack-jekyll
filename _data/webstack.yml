@@ -478,6 +478,10 @@
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
         logo: ps.gaoding.com.ico
+      - title: 易词云
+        url: https://www.yciyun.com/
+        description: 词云生成器
+        logo: yciyun.com.ico
       - title: UU 在线工具
         url: https://uutool.cn/id-photo/
         description: 证件照处理
