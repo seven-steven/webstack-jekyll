@@ -568,6 +568,10 @@
         url: https://refactoringguru.cn/design-patterns
         description: 设计模式教程
         logo: refactoringguru.cn.png
+      - title: Learn X in Y minutes
+        url: https://learnxinyminutes.com/
+        description: 在 Y 分钟内速成 X, 可以用来快速了解一门语言
+        logo: learnxinyminutes.com.ico
       - title: 极客时间
         url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
         description: 轻松学习，高效学习
