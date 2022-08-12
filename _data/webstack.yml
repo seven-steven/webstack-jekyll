@@ -250,6 +250,10 @@
           url: https://www.rainmeter.net/
           description: windows 桌面挂件
           logo: rainmeter.net.ico
+        - title: Quicker
+          url: http://getquicker.net/
+          description: Windows 指尖工具箱
+          logo: getquicker.net.ico
         - title: Synergy
           url: https://symless.com/synergy
           # url: https://github.com/DEAKSoftware/Synergy-Binaries/releases
