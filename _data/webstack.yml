@@ -990,6 +990,10 @@
         url: https://www.ssllabs.com/
         description: SSL 质量检测工具
         logo: www.ssllabs.com.ico
+      - title: Cloudcraft
+        url: https://www.cloudcraft.co/
+        description: 可以帮助你设计云，并制定云资源预算
+        logo: cloudcraft.co.svg
 
 
 - name: 无忧生活
