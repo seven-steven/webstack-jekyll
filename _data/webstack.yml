@@ -18,6 +18,10 @@
       # url: https://www.mathsisfun.com/
       description: 生动形象的数学知识
       logo: mathsisfun.com.svg
+    - title: Coursera
+      url: https://www.coursera.org/
+      description: 无限制学习世界一流大学和公司的课程、专业证书和学位
+      logo: coursera.org.png
     - title: 李永乐老师
       url: https://space.bilibili.com/9458053
       description: 与我们的生活密切相关的各种科普知识，超赞！
