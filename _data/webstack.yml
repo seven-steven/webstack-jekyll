@@ -502,6 +502,10 @@
         url: https://ps.gaoding.com/#/
         description: 在线 PS 工具
         logo: ps.gaoding.com.ico
+      - title: PhotoMosh
+        url: https://photomosh.com/
+        description: 故障风艺术效果生成器
+        logo: photomosh.com.ico
       - title: UU 在线工具
         url: https://uutool.cn/id-photo/
         description: 证件照处理
