@@ -234,6 +234,10 @@
           url: https://mathewsachin.github.io/Captura/
           description: 录制屏幕、声音、光标和按键
           logo: mathewsachin.github.io.ico
+        - title: Motrix
+          url: https://motrix.app/
+          description: 开源的高颜值下载工具
+          logo: motrix.app.png
         - title: 幕享
           url: https://letsview.com/zh/
           description: 免费的无线投屏工具
