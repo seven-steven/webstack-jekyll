@@ -775,7 +775,10 @@
         url: https://github.com/justjavac/awesome-wechat-weapp
         description: 微信小程序开发资源汇总
         logo: github.com.svg
-
+      - title: transloadit/uppy
+        url: https://github.com/transloadit/uppy
+        description: 文件上传组件
+        logo: uppy.io.svg
       - title: vuepress
         url: https://github.com/vuejs/vuepress
         description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
