@@ -861,6 +861,7 @@
         logo: ant.design.svg
       - title: fingerprintjs
         url: https://github.com/fingerprintjs/fingerprintjs/
+#        url: https://fingerprint.com/
         description: 生成客户端唯一标识
         logo: fingerprint.com.ico
       - title: Taro
