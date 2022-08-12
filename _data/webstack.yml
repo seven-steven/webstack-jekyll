@@ -1091,6 +1091,10 @@
           url: https://www.openstreetmap.org/
           description: 唯一真正不受限制，可以自由使用的全球地图服务
           logo: openstreetmap.org.svg
+        - title: 科塔学术
+          url: https://site.sciping.com/
+          description: 学术导航
+          logo: site.sciping.com.png
         - title: 图形计算器
           url: https://www.desmos.com/calculator
           description: 根据公式绘制函数图像
