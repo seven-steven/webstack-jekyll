@@ -1005,6 +1005,10 @@
           url: https://www.openstreetmap.org/
           description: 唯一真正不受限制，可以自由使用的全球地图服务
           logo: openstreetmap.org.svg
+        - title: 图形计算器
+          url: https://www.desmos.com/calculator
+          description: 根据公式绘制函数图像
+          logo: desmos.com.png
         - title: 地图搜租房
           url: https://woyaozufang.live/#/
           description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
