@@ -246,6 +246,10 @@
           url: https://github.com/microsoft/PowerToys
           description: Windows 下的自由分屏软件
           logo: powertoys.microsoft.png
+        - title: Rainmeter
+          url: https://www.rainmeter.net/
+          description: windows 桌面挂件
+          logo: rainmeter.net.ico
         - title: Synergy
           url: https://symless.com/synergy
           # url: https://github.com/DEAKSoftware/Synergy-Binaries/releases
