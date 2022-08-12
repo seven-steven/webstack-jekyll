@@ -246,6 +246,10 @@
           url: https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
           description: Windows 精品软件清单
           logo: awesome-windows.png
+        - title: Awesome Mac
+          url: https://github.com/jaywcjlove/awesome-mac
+          description: Mac 精品软件清单
+          logo: apple.svg
 
     - name: Chrome插件
       links:
