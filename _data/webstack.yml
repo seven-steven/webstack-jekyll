@@ -684,6 +684,10 @@
 
   - name: 辅助工具
     links:
+      - title: Replit
+        url: https://replit.com/
+        description: 支持几乎所有现代编程语言的在线 IDE
+        logo: replit.com.png
       - title: PlantUML
         url: https://plantuml.com/zh/
         description: 一款文本绘图工具
