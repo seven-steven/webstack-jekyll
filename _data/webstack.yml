@@ -999,6 +999,27 @@
           logo: jiumodiary.com.png
           description: 文档搜索引擎
 
+    - name: 游戏资源
+      links:
+        - title: RuTracker.org
+          url: https://rutracker.org/
+          description: 盗版游戏、电影、软件下载
+          logo: rutracker.org.svg
+        - title: byrutor
+          url: https://s1.byrutor.com/
+          # url: https://byrutor.org/
+          # url: https://byrut.org/
+          description: 各种游戏、软件下载
+          logo: byrutor.org.png
+        - title: CrazyGames
+          url: https://www.crazygames.com/
+          description: 免费在线游戏
+          logo: crazygames.com.jpeg
+        - title: Switch520
+          url: https://switch520.com/
+          description: switch 游戏，金手指，3A大作免费下载
+          logo: switch520.com.png
+
     - name: 杂七杂八
       links:
         - title: Ventoy
