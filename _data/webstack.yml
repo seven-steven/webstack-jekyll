@@ -55,6 +55,10 @@
       # url: https://www.markdownguide.org/
       description: 学习快速、轻松地书写
       logo: markdownguide.org.svg
+    - title: oeasy 教程
+      url: http://oeasy.org/
+      description: 给想学没钱学的老百姓做的教程
+      logo: oeasy.org.png
     - title: 开源鱼菜共生网
       url: https://www.myyucai.com/
       description: 鱼菜共生（渔农综合种养）开源资料库
