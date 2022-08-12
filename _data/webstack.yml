@@ -391,6 +391,10 @@
   sub:
   - name: 设计导航
     links:
+      - title: 兰客
+        url: https://b.lackk.com/
+        description: 非常非常非常优秀的导航网站
+        logo: b.lackk.com.ico
       - title: Dribbble
         url: https://dribbble.com/
         description: 世界顶级的设计师和创意作品
