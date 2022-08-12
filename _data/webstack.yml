@@ -978,6 +978,10 @@
           url: https://next.itellyou.cn/Original/Index
           description: 纯净 Windows 镜像下载
           logo: msdn.itellyou.cn.ico
+        - title: OpenStreenMap
+          url: https://www.openstreetmap.org/
+          description: 唯一真正不受限制，可以自由使用的全球地图服务
+          logo: openstreetmap.org.svg
         - title: 地图搜租房
           url: https://woyaozufang.live/#/
           description: 满大街找租房心力交瘁？试试换个方式直接在地图上搜租房
