@@ -529,6 +529,10 @@
         url: https://www.parsevideo.com/
         description: 输入视频网址，轻松下载在线视频
         logo: parsevideo.com.svg
+      - title: Kdenlive
+        url: https://kdenlive.org/
+        description: 开源的视频编辑器
+        logo: kdenlive.org.png
 
 
   - name: 字体素材
