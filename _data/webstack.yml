@@ -531,6 +531,10 @@
         url: https://docsmall.com/
         description: 在线图片压缩工具
         logo: docsmall.com.png
+      - title: Compressor
+        url: https://compressor.io/
+        description: 无损压缩图片
+        logo: compressor.io.svg
       - title: remove.bg
         url: https://www.remove.bg/zh
         description: 图片背景消除工具
