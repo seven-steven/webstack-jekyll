@@ -683,6 +683,10 @@
         url: https://www.truenas.com/
         description: 开源免费 NAS 系统
         logo: truenas.com.png
+      - title: Molunerfinn/PicGo
+        url: https://github.com/Molunerfinn/PicGo
+        description: 兼容多种服务端的图床客户端
+        logo: picgo.png
       - title: NewFuture/DDNS
         url: https://github.com/NewFuture/DDNS
         description: 自动更新域名解析到本机 IP
