@@ -965,6 +965,11 @@
         url: https://github.com/pingfangushi/screw
         description: 简洁好用的数据库表结构文档生成工具
         logo: github.com.svg
+      - title: dbeaver
+        url: https://github.com/dbeaver/dbeaver
+#        url: https://dbeaver.io/
+        description: 一款开源的数据库客户端
+        logo: dbeaver.io.png
 
   - name: 服务运维
     links:
@@ -1008,10 +1013,10 @@
         url: http://billie66.github.io/TLCL/book/
         description: Linux 命令行系列教程
         logo: billie66.github.io.png
-        #      - title: 阮一峰的 Bash 教程
-        #        url: https://wangdoc.com/bash/
-        #        description: Bash 的基本用法和脚本编程
-        #        logo: bash.png
+#      - title: 阮一峰的 Bash 教程
+#        url: https://wangdoc.com/bash/
+#        description: Bash 的基本用法和脚本编程
+#        logo: bash.png
       - title: UbuntuManual
         url: https://wiki.ubuntu.org.cn/UbuntuManual
         description: Ubuntu 参考手册
@@ -1020,10 +1025,10 @@
         url: https://github.com/dutchcoders/transfer.sh
         description: 命令行文件上传神器
         logo: github.com.svg
-      - title: tmate
-        url: https://github.com/tmate-io/tmate
-        description: 分享自己的终端用以结对编程，使用此工具时要注意安全风险
-        logo: tmate.io.png
+#      - title: tmate
+#        url: https://github.com/tmate-io/tmate
+#        description: 分享自己的终端用以结对编程，使用此工具时要注意安全风险
+#        logo: tmate.io.png
       - title: SSL Configuration Generator
         url: https://ssl-config.mozilla.org/
         description: SSL 配置生成工具
