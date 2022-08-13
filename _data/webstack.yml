@@ -1005,6 +1005,11 @@
         url: https://fishshell.com/
         description: 另一款好用的命令行终端
         logo: fishshell.com.png
+      - title: starship
+#        url: https://starship.rs/
+        url: https://github.com/starship/starship
+        description: 终端状态显示
+        logo: starship.rs.png
       - title: unofficial-bash-strict-mode
         description: 如何更好地编写脚本文件
         url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
