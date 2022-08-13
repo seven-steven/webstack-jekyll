@@ -831,6 +831,10 @@
         url: https://javascript.info/
         description: 现代 JavaScript 教程
         logo: javascript.info.png
+      - title: Free Code Camp
+        url: https://www.freecodecamp.org/
+        description: 免费的编码训练营
+        logo: circle-blue.svg
       - title: Patterns.dev
         url: https://www.patterns.dev/
         description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
