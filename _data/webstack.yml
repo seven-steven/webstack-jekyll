@@ -847,6 +847,10 @@
         url: https://reactjs.org/
         description: 用于构建用户界面的 JavaScript 库
         logo: reactjs.org.svg
+      - title: Vue
+        url: https://vuejs.org/
+        description: 渐进式 JavaScript 框架
+        logo: vuejs.org.svg
       - title: Ant Design
         url: https://ant.design/
         description: 企业级产品设计体系，创造高效愉悦的工作体验
