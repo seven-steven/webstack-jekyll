@@ -847,6 +847,10 @@
         url: https://reactjs.org/
         description: 用于构建用户界面的 JavaScript 库
         logo: reactjs.org.svg
+      - title: React Docs Beta
+        url: https://beta.reactjs.org/
+        description: 官方重写的 React 文档
+        logo: reactjs.org.svg
       - title: Vue
         url: https://vuejs.org/
         description: 渐进式 JavaScript 框架
