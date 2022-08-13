@@ -827,6 +827,10 @@
         url: https://github.com/qianguyihao/Web
         description: 前端入门到进阶图文教程
         logo: github.com.svg
+      - title: JavaScript.INFO
+        url: https://javascript.info/
+        description: 现代 JavaScript 教程
+        logo: javascript.info.png
       - title: Patterns.dev
         url: https://www.patterns.dev/
         description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
