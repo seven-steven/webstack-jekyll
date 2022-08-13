@@ -1001,6 +1001,10 @@
         url: https://github.com/unixorn/awesome-zsh-plugins
         description: 好用的 zsh 插件推荐
         logo: github.com.svg
+      - title: fish shell
+        url: https://fishshell.com/
+        description: 另一款好用的命令行终端
+        logo: fishshell.com.png
       - title: unofficial-bash-strict-mode
         description: 如何更好地编写脚本文件
         url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
