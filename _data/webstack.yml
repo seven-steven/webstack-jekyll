@@ -1010,6 +1010,10 @@
         url: https://github.com/starship/starship
         description: 终端状态显示
         logo: starship.rs.png
+      - title: z.lua
+        url: https://github.com/skywind3000/z.lua
+        description: 一款高性能的目录跳转工具
+        logo: github.com.svg
       - title: unofficial-bash-strict-mode
         description: 如何更好地编写脚本文件
         url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
