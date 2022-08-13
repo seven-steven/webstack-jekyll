@@ -1020,6 +1020,10 @@
         url: https://github.com/dutchcoders/transfer.sh
         description: 命令行文件上传神器
         logo: github.com.svg
+      - title: tmate
+        url: https://github.com/tmate-io/tmate
+        description: 分享自己的终端用以结对编程，使用此工具时要注意安全风险
+        logo: tmate.io.png
       - title: SSL Configuration Generator
         url: https://ssl-config.mozilla.org/
         description: SSL 配置生成工具
