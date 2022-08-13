@@ -720,14 +720,6 @@
         url: https://www.apifox.cn/
         description: 全平台的接口文档、调试、Mock、自动化测试工具
         logo: apifox.cn.png
-      - title: PDManer
-        url: https://gitee.com/robergroup/pdmaner
-        description: 开源免费的跨平台关系型数据库建模工具
-        logo: pdmaner.png
-      - title: Another Redis Desktop Manager
-        url: https://github.com/qishibo/AnotherRedisDesktopManager
-        description: 一款全平台通用的 Redis 连接工具
-        logo: another-redis-desktop-manager.png
       - title: JSON 格式化
         url: https://www.json.cn/
         description: JSON 格式化工具
@@ -748,10 +740,6 @@
         url: https://i18ns.com/
         description: i18n 国际化翻译工具
         logo: i18ns.com.ico
-      - title: Nginx 配置
-        url: https://nginxconfig.io
-        description: 可视化生成 Nginx 配置
-        logo: nginxconfig.io.png
       - title: AnyProxy
         url: https://github.com/alibaba/anyproxy
         description: AnyProxy是一个基于NodeJS的，可供插件配置的HTTP/HTTPS代理服务器。
@@ -970,6 +958,14 @@
 #        url: https://dbeaver.io/
         description: 一款开源的数据库客户端
         logo: dbeaver.io.png
+      - title: PDManer
+        url: https://gitee.com/robergroup/pdmaner
+        description: 开源免费的跨平台关系型数据库建模工具
+        logo: pdmaner.png
+      - title: Another Redis Desktop Manager
+        url: https://github.com/qishibo/AnotherRedisDesktopManager
+        description: 一款全平台通用的 Redis 连接工具
+        logo: another-redis-desktop-manager.png
 
   - name: 服务运维
     links:
@@ -1029,6 +1025,10 @@
 #        url: https://github.com/tmate-io/tmate
 #        description: 分享自己的终端用以结对编程，使用此工具时要注意安全风险
 #        logo: tmate.io.png
+      - title: Nginx 配置
+        url: https://nginxconfig.io
+        description: 可视化生成 Nginx 配置
+        logo: nginxconfig.io.png
       - title: SSL Configuration Generator
         url: https://ssl-config.mozilla.org/
         description: SSL 配置生成工具
