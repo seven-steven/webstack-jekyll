@@ -993,6 +993,10 @@
         url: https://github.com/alebcay/awesome-shell
         description: 好用的命令行工具列表
         logo: github.com.svg
+      - title: zsh
+        url: https://www.zsh.org/
+        description: 非常好用的命令行终端
+        logo: zsh.org.png
       - title: unixorn/awesome-zsh-plugins
         url: https://github.com/unixorn/awesome-zsh-plugins
         description: 好用的 zsh 插件推荐
