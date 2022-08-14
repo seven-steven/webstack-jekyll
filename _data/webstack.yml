@@ -342,10 +342,6 @@
           url: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg
           description: 冻结暂时用不到的标签页，以便释放系统资源
           logo: chrome-extension-the-great-suspender.png
-        - title: 达达划词翻译
-          url: https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl
-          description: 划词翻译
-          logo: chrome-extension-dadda-translate.png
         - title: Video Speed Controller
           url: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
           description: 控制 HTML5 视频播放速度
