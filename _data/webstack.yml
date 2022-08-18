@@ -994,7 +994,7 @@
   - name: 服务运维
     links:
       - title: Docker 从入门到实践
-        url: https://doc.yonyoucloud.com/doc/docker_practice/index.html
+        url: https://yeasy.gitbook.io/docker_practice/
         description: Docker 教程
         logo: yeasy.gitbook.io.svg
       - title: Ansible 中文权威指南
