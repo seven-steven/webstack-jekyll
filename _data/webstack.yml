@@ -700,6 +700,11 @@
         url: https://replit.com/
         description: 支持几乎所有现代编程语言的在线 IDE
         logo: replit.com.png
+      - title: gerrit
+        url: https://www.gerritcodereview.com/
+        # url: https://github.com/GerritCodeReview/gerrit
+        description: code review 工具
+        logo: gerritcodereview.com.png
       - title: PlantUML
         url: https://plantuml.com/zh/
         description: 一款文本绘图工具
@@ -778,6 +783,7 @@
         logo: truenas.com.png
       - title: megaease/easegress
         url: https://github.com/megaease/easegress
+        # url: https://megaease.com/
         description: 全功能型的流量调度和编排系统
         logo: megaease.com.png
       - title: CompVis/stable-diffusion
