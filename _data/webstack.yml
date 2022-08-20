@@ -869,6 +869,10 @@
         url: https://github.com/bradtraversy/50projects50days
         description: 50 个 web 小 demo，用来学习再好不过了
         logo: github.com.svg
+      - title: 30-seconds/30-seconds-of-css
+        url: https://github.com/30-seconds/30-seconds-of-css
+        description: 一些 css 代码片段，可以拿来学习练手
+        logo: github.com.svg
       - title: Tailwind CSS
         url: https://tailwindcss.com/
         description: 一个功能类优先的 CSS 框架
