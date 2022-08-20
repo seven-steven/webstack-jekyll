@@ -865,6 +865,10 @@
         url: https://www.patterns.dev/
         description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
         logo: patterns.dev.png
+      - title: 50projects50days
+        url: https://github.com/bradtraversy/50projects50days
+        description: 50 个 web 小 demo，用来学习再好不过了
+        logo: github.com.svg
       - title: Tailwind CSS
         url: https://tailwindcss.com/
         description: 一个功能类优先的 CSS 框架
