@@ -891,6 +891,10 @@
         url: https://github.com/IanLunn/Hover
         description: 给你的网站添加 hover 动效
         logo: github.com.svg
+      - title: tobiasahlin/SpinKit
+        url: https://github.com/tobiasahlin/SpinKit
+        description: 有趣的页面加载动效
+        logo: github.com.svg
       - title: Bootstrap
         url: https://getbootstrap.com/
         description: 强大、可扩展、功能丰富的前端工具箱
