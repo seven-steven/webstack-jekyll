@@ -869,6 +869,11 @@
         url: https://tailwindcss.com/
         description: 一个功能类优先的 CSS 框架
         logo: tailwindcss.com.png
+      - title: animate.css
+        # url: https://github.com/animate-css/animate.css
+        url: https://animate.style/
+        description: css 动效库
+        logo: github.com.svg
       - title: Bootstrap
         url: https://getbootstrap.com/
         description: 强大、可扩展、功能丰富的前端工具箱
