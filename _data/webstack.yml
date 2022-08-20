@@ -883,13 +883,17 @@
         # url: https://github.com/jgthms/bulma
         description: 基于 Flexbox 的现代化响应式 css 框架
         logo: bulma.io.svg
+      - title: IanLunn/Hover
+        url: https://github.com/IanLunn/Hover
+        description: 给你的网站添加 hover 动效
+        logo: github.com.svg
       - title: Bootstrap
         url: https://getbootstrap.com/
         description: 强大、可扩展、功能丰富的前端工具箱
         logo: getbootstrap.com.svg
       - title: Bootstrap 中文网
         url: https://www.bootcss.com/
-        description: Bootstrap 中文网，网站也收集了非常多的中文文档
+        description: Bootstrap 中文网，网站也收集了非常多其他前端框架的中文文档
         logo: bootcss.com.png
       - title: React
         url: https://reactjs.org/
