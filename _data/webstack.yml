@@ -874,6 +874,10 @@
         url: https://animate.style/
         description: css 动效库
         logo: github.com.svg
+      - title: normalize.css
+        url: https://github.com/necolas/normalize.css
+        description: 让你的 HTML 默认样式保持跨浏览器的一致性
+        logo: github.com.svg
       - title: Bootstrap
         url: https://getbootstrap.com/
         description: 强大、可扩展、功能丰富的前端工具箱
