@@ -777,15 +777,19 @@
         logo: min.io.svg
         url: https://min.io/
         description: 一款开源的对象存储服务
-      - title: TrueNAS
-        url: https://www.truenas.com/
-        description: 开源免费 NAS 系统
-        logo: truenas.com.png
+      - title: alibaba/DataX
+        url: https://github.com/alibaba/DataX
+        description: 支持超多数据库的离线数据同步工具
+        logo: github.com.svg
       - title: megaease/easegress
         url: https://github.com/megaease/easegress
         # url: https://megaease.com/
         description: 全功能型的流量调度和编排系统
         logo: megaease.com.png
+      - title: TrueNAS
+        url: https://www.truenas.com/
+        description: 开源免费 NAS 系统
+        logo: truenas.com.png
       - title: CompVis/stable-diffusion
         url: https://github.com/CompVis/stable-diffusion
         description: 根据文本描述生成精美图片
