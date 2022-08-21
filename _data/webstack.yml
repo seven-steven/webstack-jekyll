@@ -761,10 +761,10 @@
         url: https://github.com/mzlogin/ding-tunnel
         description: 钉钉提供的内网穿透工具
         logo: github.com.svg
-      - title: 面包多
-        url: https://mianbaoduo.com/
-        description: 为创作者创收
-        logo: mianbaoduo.com.ico
+      #      - title: 面包多
+      #        url: https://mianbaoduo.com/
+      #        description: 为创作者创收
+      #        logo: mianbaoduo.com.ico
 
 
   - name: 开源项目
@@ -1302,10 +1302,10 @@
           url: https://markdown.com.cn/editor/
           description: Markdown 文件转微信排版的工具
           logo: markdown.com.cn-editor.svg
-        - title: OpenWrite
-          url: https://openwrite.cn/
+        - title: ArtiPub
+          url: https://github.com/crawlab-team/artipub
           description: 支持多个博客平台的一文多发工具
-          logo: openwrite.cn.png
+          logo: github.com.svg
 
 
     - name: 个人博客
