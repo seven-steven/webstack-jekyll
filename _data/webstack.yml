@@ -1102,10 +1102,14 @@
 #        url: https://wangdoc.com/bash/
 #        description: Bash 的基本用法和脚本编程
 #        logo: bash.png
-      - title: UbuntuManual
-        url: https://wiki.ubuntu.org.cn/UbuntuManual
-        description: Ubuntu 参考手册
-        logo: ubuntu.svg
+#      - title: UbuntuManual
+#        url: https://wiki.ubuntu.org.cn/UbuntuManual
+#        description: Ubuntu 参考手册
+#        logo: ubuntu.svg
+      - title: Arch Wiki
+        url: https://wiki.archlinux.org/
+        description: Linux 百科全书
+        logo: archlinux.org.svg
       - title: transfer.sh
         url: https://github.com/dutchcoders/transfer.sh
         description: 命令行文件上传神器
