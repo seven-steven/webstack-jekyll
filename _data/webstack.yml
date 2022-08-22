@@ -467,6 +467,14 @@
         url: https://www.iconfont.cn/
         description: 阿里巴巴矢量图标库
         logo: iconfont.cn.svg
+      - title: Pixabay
+        url: https://pixabay.com/
+        description: 免费图片、视频、音效
+        logo: pixabay.png
+      - title: Pexels
+        url: https://www.pexels.com/
+        description: Pexels 上的所有图片和视频均可免费下载和使用。
+        logo: pexels.com.svg
       - title: manypixels
         url: https://www.manypixels.co/gallery
         description: 无版权插画素材
@@ -479,10 +487,6 @@
         url: https://stocksnap.io/
         description: Beautiful free stock photos
         logo: stocksnap.io.png
-      - title: Pixabay
-        url: https://pixabay.com/
-        description: Stunning free images & royalty free stock
-        logo: pixabay.png
       - title: manypixels
         url: https://gallery.manypixels.co/
         description: 一个收集无版权插图的网站，提供 SVG / PNG 格式下载，并且允许更改颜色
@@ -578,10 +582,10 @@
 
   - name: 视频素材
     links:
-      - title: pexels
+      - title: Pexels
         url: https://www.pexels.com/videos/
-        description: 免费下载，但是要注意素材的版权
-        logo: plexels.ico
+        description: Pexels 上的所有图片和视频均可免费下载和使用。
+        logo: pexels.com.svg
       - title: Mixkit
         url: https://mixkit.co/free-stock-video/
         description: 所有内容免费可商用
@@ -634,22 +638,22 @@
 
   - name: 字体素材
     links:
-      - title: 字制区
-        url: https://www.fontqu.com/
-        description: 字体设计师交流分享，字体灵感，免费商用字体下载
-        logo: fontqu.com.ico
-#      - title: 字体仓库
-#        url: https://www.ziticangku.com/
-#        description: 免费下载无版权可商用字体
-#        logo: ziticangku.com.ico
       - title: 100font
         url: https://www.100font.com/
         description: 一个专门收集“免费商用”字体的网站
         logo: 100font.com.ico
+      - title: 字体天下
+        url: https://www.fonts.net.cn/
+        description: 提供各类字体的免费下载和在线预览服务
+        logo: fonts.net.cn.ico
       - title: 求字体网
         url: https://www.qiuziti.com/
         description: 字体下载、识别与搜索
         logo: qiuziti.com.ico
+#      - title: 字体仓库
+#        url: https://www.ziticangku.com/
+#        description: 免费下载无版权可商用字体
+#        logo: ziticangku.com.ico
       - title: Font Converter
         url: https://fontconverter.com/
         description: 字体格式转换
