@@ -413,6 +413,10 @@
           description: 连接你的局域网设备
           url: https://community.kde.org/KDEConnect
           logo: community.kde.org.png
+        - title: kodi
+          url: https://kodi.tv/
+          description: 你的家庭影视中心
+          logo: kodi.tv.svg
 
 - name: 设计素材
   icon: linecons-pencil
