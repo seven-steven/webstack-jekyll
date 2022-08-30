@@ -794,6 +794,10 @@
         url: https://www.truenas.com/
         description: 开源免费 NAS 系统
         logo: truenas.com.png
+      - title: Syncthing
+        url: https://syncthing.net/
+        description: 多端数据同步
+        logo: syncthing.net.png
       - title: CompVis/stable-diffusion
         url: https://github.com/CompVis/stable-diffusion
         description: 根据文本描述生成精美图片
