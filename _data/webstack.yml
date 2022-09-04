@@ -865,10 +865,14 @@
         url: https://developer.mozilla.org/
         description: 标准且详细的前端技术文档
         logo: developer.mozilla.org.png
-      - title: 千古前端图文教程
-        url: https://github.com/qianguyihao/Web
-        description: 前端入门到进阶图文教程
-        logo: github.com.svg
+#      - title: 千古前端图文教程
+#        url: https://github.com/qianguyihao/Web
+#        description: 前端入门到进阶图文教程
+#        logo: github.com.svg
+      - title: W3Schools
+        url: https://www.w3schools.cn/
+        description: 编程知识学习
+        logo: w3schools.cn.ico
       - title: JavaScript.INFO
         url: https://javascript.info/
         description: 现代 JavaScript 教程
