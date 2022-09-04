@@ -80,7 +80,11 @@
   icon: linecons-desktop
   sub: 
     - name: 在线工具
-      links: 
+      links:
+        - title: You.com
+          url: https://you.com/
+          description: 一个还不错的搜索引擎
+          logo: you.com.webp
         - title: 滴答清单
           url: https://dida365.com/
           description: 达成更多，用心生活
