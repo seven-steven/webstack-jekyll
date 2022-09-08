@@ -1201,6 +1201,10 @@
           url: https://www.nmpa.gov.cn/
           description: 药品查询
           logo: nmpa.gov.cn.png
+        - title: 酷家乐
+          url: https://www.kujiale.com/
+          description: 3D 设计平台
+          logo: kujiale.com.ico
 #        - title: 快递 100
 #          url: https://www.kuaidi100.com/
 #          description: 快递查询
