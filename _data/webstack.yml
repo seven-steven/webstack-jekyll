@@ -318,6 +318,10 @@
           url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
           description: 在 Chrome 中使用 Vim 插件
           logo: chrome-extension-vimium.png
+        - title: iTab新标签页
+          url: https://itab.link/
+          description: 一个让你不受广告干扰的个性化卡片式起始页插件
+          logo: itab.link.svg
         - title: Infinity 新标签页 (Pro)
           url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
           description: 美化你的新标签页
