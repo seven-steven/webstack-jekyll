@@ -425,6 +425,10 @@
           url: https://kodi.tv/
           description: 你的家庭影视中心
           logo: kodi.tv.svg
+        - title: VNET
+          url: https://www.vnet-tech.com/
+          description: 安卓抓包工具，无需 ROOT
+          logo: vnet-tech.com.png
 
 - name: 设计素材
   icon: linecons-pencil
