@@ -397,6 +397,11 @@
           url: https://qianjiapp.com/
           description: 发现记账的乐趣
           logo: qianjiapp.com.ico
+        - title: kodi
+          url: https://kodi.tv/
+          description: 你的家庭影视中心
+          logo: kodi.tv.svg
+
         - title: 夸克浏览器
           url: https://www.myquark.cn/
           description: 极速极简极致的移动端浏览器，配合夸克网盘看视频体验极佳
@@ -405,6 +410,11 @@
           url: https://viayoo.com/
           description: 极速极简、极尽所能的移动端浏览器
           logo: viayoo.com.png
+        - title: X浏览器
+          url: https://www.xbext.com/
+          description: 无新闻，无推送，无后台，小而强大，给你淋漓尽致的浏览体验。支持油猴。
+          logo: xbext.com.png
+
         - title: Termux
           url: https://github.com/termux/termux-app
           description: 安卓系统上的命令行终端神器
@@ -421,10 +431,6 @@
           description: 连接你的局域网设备
           url: https://community.kde.org/KDEConnect
           logo: community.kde.org.png
-        - title: kodi
-          url: https://kodi.tv/
-          description: 你的家庭影视中心
-          logo: kodi.tv.svg
         #        - title: HttpCanary
         #          url: https://apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary
         #          description: 最好用的安卓抓包工具
@@ -556,7 +562,6 @@
           description: 免费的二维码生成器
           logo: qrcode-monkey.com.png
 
-
     - name: 图片工具
       links:
         - title: Squoosh
@@ -619,7 +624,6 @@
           description: 免费的音乐素材网站
           logo: icons8.cn.png
 
-
     - name: 视频工具
       links:
         - title: 蜜蜂剪辑
@@ -655,7 +659,6 @@
           description: 开源的视频编辑器
           logo: kdenlive.org.png
 
-
     - name: 字体素材
       links:
         - title: 100font
@@ -682,7 +685,6 @@
 - name: 开发资源
   icon: linecons-params
   sub:
-
     - name: 编程通识
       links:
         - title: LeetCode
@@ -789,7 +791,6 @@
         #        url: https://mianbaoduo.com/
         #        description: 为创作者创收
         #        logo: mianbaoduo.com.ico
-
 
     - name: 开源项目
       links:
@@ -1171,7 +1172,6 @@
           description: 可以帮助你设计云，并制定云资源预算
           logo: cloudcraft.co.svg
 
-
 - name: 无忧生活
   icon: linecons-tv
   sub:
@@ -1328,7 +1328,6 @@
           description: VPS，服务器，主机测评
           logo: zhujiceping.com.png
 
-
 - name: 网络博客
   icon: linecons-note
   sub:
@@ -1350,7 +1349,6 @@
           url: https://github.com/crawlab-team/artipub
           description: 支持多个博客平台的一文多发工具
           logo: github.com.svg
-
 
     - name: 个人博客
       links:
