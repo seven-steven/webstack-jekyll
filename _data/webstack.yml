@@ -415,10 +415,6 @@
           description: 无新闻，无推送，无后台，小而强大，给你淋漓尽致的浏览体验。支持油猴。
           logo: xbext.com.png
 
-        - title: Termux
-          url: https://github.com/termux/termux-app
-          description: 安卓系统上的命令行终端神器
-          logo: termux.svg
         - title: Magisk
           url: https://github.com/topjohnwu/Magisk
           description: 获取 Android Root 权限
@@ -427,10 +423,19 @@
           url: https://github.com/LSPosed/LSPosed
           description: 你懂就好
           logo: lsposed.jpeg
+        # - title: ClashForAndroid
+        #   url: https://github.com/Kr328/ClashForAndroid/releases
+        #   description: 一款还不错的代理软件
+        #   logo: github-kr328-clash-for-android.png
+
         - title: KDEConnect
           description: 连接你的局域网设备
           url: https://community.kde.org/KDEConnect
           logo: community.kde.org.png
+        - title: Termux
+          url: https://github.com/termux/termux-app
+          description: 安卓系统上的命令行终端神器
+          logo: termux.svg
         #        - title: HttpCanary
         #          url: https://apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary
         #          description: 最好用的安卓抓包工具
