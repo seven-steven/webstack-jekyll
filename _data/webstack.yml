@@ -427,6 +427,10 @@
         #   url: https://github.com/Kr328/ClashForAndroid/releases
         #   description: 一款还不错的代理软件
         #   logo: github-kr328-clash-for-android.png
+        - title: V2rayNG
+          url: https://github.com/2dust/v2rayNG/releases
+          description: A V2Ray client for Android
+          logo: github-2dust-v2rayng.png
 
         - title: KDEConnect
           description: 连接你的局域网设备
