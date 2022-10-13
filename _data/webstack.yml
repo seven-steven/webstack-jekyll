@@ -1218,6 +1218,10 @@
           url: https://www.nmpa.gov.cn/
           description: 药品查询
           logo: nmpa.gov.cn.png
+        - title: 国家企业信用信息公示系统
+          url: https://www.gsxt.gov.cn/
+          description: 查询企业信用信息
+          logo: guohui.png
         - title: 酷家乐
           url: https://www.kujiale.com/
           description: 3D 设计平台
