@@ -965,6 +965,10 @@
           url: https://github.com/ckeditor/ckeditor5
           description: 富文本编辑器
           logo: github.com.svg
+        - title: codemirror5
+          url: https://github.com/codemirror/codemirror5
+          description: 支持多种语言的代码编辑器
+          logo: github.com.svg
         - title: Bootstrap
           url: https://getbootstrap.com/
           description: 强大、可扩展、功能丰富的前端工具箱
