@@ -957,6 +957,10 @@
           url: https://github.com/jsplumb/jsplumb
           description: 强大的可视化连接库
           logo: github.com.svg
+        - title: fancytree
+          url: https://github.com/mar10/fancytree
+          description: 一个强大的构建树形结构的组件
+          logo: github.com.svg
         - title: Bootstrap
           url: https://getbootstrap.com/
           description: 强大、可扩展、功能丰富的前端工具箱
