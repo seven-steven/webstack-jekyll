@@ -386,6 +386,10 @@
           url: https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
           description: 获取网盘文件真实下载地址
           logo: greasyfork.org.png
+        - title: 外链自动跳转
+          url: https://greasyfork.org/zh-CN/scripts/453403-%E5%A4%96%E9%93%BE%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC
+          description: 知乎、CSDN、OSChina 外链自动跳转
+          logo: greasyfork.org.png
 
     - name: 安卓软件
       links:
