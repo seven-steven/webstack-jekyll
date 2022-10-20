@@ -953,6 +953,10 @@
           url: https://github.com/tobiasahlin/SpinKit
           description: 有趣的页面加载动效
           logo: github.com.svg
+        - title: jsPlumb
+          url: https://github.com/jsplumb/jsplumb
+          description: 强大的可视化连接库
+          logo: github.com.svg
         - title: Bootstrap
           url: https://getbootstrap.com/
           description: 强大、可扩展、功能丰富的前端工具箱
