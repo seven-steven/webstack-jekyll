@@ -1373,6 +1373,10 @@
           url: https://blog.diqigan.cn
           description: 小柒的个人博客
           logo: blog.diqigan.cn.png
+        - title: Thoughtworks洞见
+          url: https://insights.thoughtworks.cn/
+          description: IT 从业者的指路明灯
+          logo: insights.thoughtworks.cn.png
         - title: 阮一峰的网络日志
           url: https://www.ruanyifeng.com/blog/
           description: 作者会分享很多网络见闻，是开拓视野的好去处
