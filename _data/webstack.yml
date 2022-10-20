@@ -298,26 +298,22 @@
 
     - name: Chrome插件
       links:
-        - title: Ghelper
-          url: https://ghelper.net/
-          description: 佛曰：不可说
-          logo: ghelper.net.png
-        - title: Proxy SwitchOmega
-          url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
-          description: 道曰：不可说
-          logo: chrome-extension-proxy-switch-omega.png
-        - title: Tampermonkey BETA
-          url: https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
-          description: 传说中的油猴插件，给你的浏览器添加各种超能力
-          logo: chrome-extension-tampermonkey-beta.png
-        - title: Greasy Fork
-          url: https://greasyfork.org/zh-CN/scripts
-          description: 油猴脚本资源列表
-          logo: greasyfork.org.png
         - title: Vimium
           url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
           description: 在 Chrome 中使用 Vim 插件
           logo: chrome-extension-vimium.png
+        - title: Adblock Plus
+          url: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+          description: 免费的广告拦截器
+          logo: chrome-extension-adblock-plus.png
+        - title: OneTab
+          url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+          description: 节省高达95％的内存，并减轻标签页混乱现象
+          logo: chrome-extension-one-tab.png
+        - title: Proxy SwitchOmega
+          url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+          description: 道曰：不可说
+          logo: chrome-extension-proxy-switch-omega.png
         - title: iTab新标签页
           url: https://itab.link/
           description: 一个让你不受广告干扰的个性化卡片式起始页插件
@@ -326,18 +322,10 @@
           url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
           description: 美化你的新标签页
           logo: chrome-extension-infinity-new-tab-pro.png
-        - title: Adblock Plus
-          url: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
-          description: 免费的广告拦截器
-          logo: chrome-extension-adblock-plus.png
         - title: Dark reader
           url: https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
           description: 为任何网站提供黑色主题
           logo: chrome-extension-dark-reader.png
-        - title: OneTab
-          url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
-          description: 节省高达95％的内存，并减轻标签页混乱现象
-          logo: chrome-extension-one-tab.png
         - title: 滴答清单
           url: https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod
           description: 滴答清单的 Chrome 扩展
@@ -386,6 +374,14 @@
           url: https://chrome.google.com/webstore/detail/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%E6%9F%A5%E8%AF%8D/cklfipcjofdnmdolnfngpmokdaejidim
           description: 不背单词查词
           logo: bbdc.cn.svg
+        - title: Tampermonkey BETA
+          url: https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
+          description: 传说中的油猴插件，给你的浏览器添加各种超能力
+          logo: chrome-extension-tampermonkey-beta.png
+        - title: Greasy Fork
+          url: https://greasyfork.org/zh-CN/scripts
+          description: 油猴脚本资源列表
+          logo: greasyfork.org.png
 
     - name: 安卓软件
       links:
