@@ -811,14 +811,18 @@
 
     - name: 开源项目
       links:
+        - title: hellogithub
+          url: https://raw.hellogithub.com/hosts
+          description: Github Host 列表
+          logo: github.com.svg
         - title: awesome-selfhosted/awesome-selfhosted
           url: https://github.com/awesome-selfhosted/awesome-selfhosted
-          logo: github.com.svg
           description: 可以自行免费部署的软件和 web 应用清单
+          logo: github.com.svg
         - title: MinIO
-          logo: min.io.svg
           url: https://min.io/
           description: 一款开源的对象存储服务
+          logo: min.io.svg
         - title: alibaba/DataX
           url: https://github.com/alibaba/DataX
           description: 支持超多数据库的离线数据同步工具
@@ -868,7 +872,7 @@
           url: https://github.com/kekingcn/kkFileView
           logo: kkfileview.keking.cn.ico
           description: 主流办公文档的在线预览解决方案
-        - title: Roverr/rtsp-stream
+        - title: Roverr/rtsp-streamH
           logo: github.com.svg
           url: https://github.com/Roverr/rtsp-stream
           description: 一款 rtsp 转 hls 的视频流服务
