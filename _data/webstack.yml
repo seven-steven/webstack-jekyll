@@ -1100,6 +1100,11 @@
           #        url: https://dbeaver.io/
           description: 一款开源的数据库客户端
           logo: dbeaver.io.png
+        - title: Beekeeper Studio
+          url: https://www.beekeeperstudio.io/
+          # url: https://github.com/beekeeper-studio/beekeeper-studio
+          description: 一款“还行”的开源跨平台数据客户端
+          logo: beekeeperstudio.io.svg
         - title: PDManer
           url: https://gitee.com/robergroup/pdmaner
           description: 开源免费的跨平台关系型数据库建模工具
