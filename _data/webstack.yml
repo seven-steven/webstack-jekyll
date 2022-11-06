@@ -1268,16 +1268,20 @@
       links:
         - title: 无名小站
           url: https://www.btnull.org/
-          logo: btnull.org.ico
           description: 满足你的影视需求
+          logo: btnull.org.ico
+        - title: 哔嘀影视
+          url: https://www.bdys01.com/
+          description: 热门影视在线观看
+          logo: bdys01.com.svg
         - title: 茶杯狐
           url: https://cupfox.app/
           description: 另一个刷剧网站
           logo: cupfox.app.png
-        - title: Anime Scene Search Engine
-          url: https://trace.moe/
-          description: 根据动漫图片查找动漫
-          logo: trace.moe.png
+        # - title: Anime Scene Search Engine
+        #   url: https://trace.moe/
+        #   description: 根据动漫图片查找动漫
+        #   logo: trace.moe.png
         - title: 懒人全网音乐下载
           url: https://www.eggvod.cn/music/
           description: 免费下载各大音乐网站的歌曲
