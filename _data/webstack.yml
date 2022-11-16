@@ -1213,6 +1213,13 @@
           url: https://www.cloudcraft.co/
           description: 可以帮助你设计云，并制定云资源预算
           logo: cloudcraft.co.svg
+    - name: VSCode 插件
+      links:
+        - title: Markdown Preview Enhanced
+          url: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+          # url: https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
+          description: Markdown 预览增强
+          logo: vs-code-extension-markdown-preview-enhanced.svg
 
 - name: 无忧生活
   icon: linecons-tv
