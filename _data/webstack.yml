@@ -1055,6 +1055,10 @@
           url: https://idea.diqigan.cn
           description: 详细讲解了 Intellij IDEA 的设置、能力、插件等最佳实践
           logo: idea.diqigan.cn.svg
+        - title: Java 全栈知识体系
+          url: https://pdai.tech/
+          description: Java 学习笔记
+          logo: pdai.tech.jpeg
         - title: Spring
           url: https://spring.io/
           description: 最最最最最最牛最全的 Java 开发框架
@@ -1193,6 +1197,10 @@
         #        url: https://github.com/tmate-io/tmate
         #        description: 分享自己的终端用以结对编程，使用此工具时要注意安全风险
         #        logo: tmate.io.png
+        - title: 金步国作品集
+          url: http://www.jinbuguo.com/
+          description: Linux 周边中文手册
+          logo: jinbuguo.com.ico
         - title: TunnelBroker
           url: https://www.tunnelbroker.net/
           description: 为纯 ipv4 主机添加 ipv6 支持
@@ -1213,6 +1221,7 @@
           url: https://www.cloudcraft.co/
           description: 可以帮助你设计云，并制定云资源预算
           logo: cloudcraft.co.svg
+
     - name: VSCode 插件
       links:
         - title: Markdown Preview Enhanced
