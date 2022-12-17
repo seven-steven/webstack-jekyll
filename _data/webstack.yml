@@ -89,10 +89,14 @@
           url: https://dida365.com/
           description: 达成更多，用心生活
           logo: dida365.png
-        - title: 幕布
-          url: https://mubu.com/inv/4650548
-          description: 极简大纲笔记 | 一键生成思维导图
-          logo: mubu.com.ico
+        - title: AmyMind
+          url: https://amymind.com/
+          description: 打开即用的思维导图和画板工具
+          logo: https://amymind.com/
+        # - title: 幕布
+        #   url: https://mubu.com/inv/4650548
+        #   description: 极简大纲笔记 | 一键生成思维导图
+        #   logo: mubu.com.ico
         - title: ProcessOn
           url: https://www.processon.com/i/55b83deee4b0e58e8454b67a
           description: 免费在线作图、实时协作
@@ -1309,14 +1313,18 @@
 
     - name: 电子书籍
       links:
-        - title: z-library
-          url: https://z-lib.org/
-          description: 世界上最大的数字图书馆
+        - title: Anna's Archive
+          url: https://annas-archive.org/
+          description: z-library 的镜像站
           logo: z-lib.org.png
-        #        - title: 熊猫搜书
-        #          url: https://xmsoushu.com/#/
-        #          description: 集成了多个搜书平台，可以当成导航网站来用
-        #          logo: xmsoushu.com.png
+        # - title: z-library
+        #   url: https://z-lib.org/
+        #   description: 世界上最大的数字图书馆
+        #   logo: z-lib.org.png
+        # - title: 熊猫搜书
+        #   url: https://xmsoushu.com/#/
+        #   description: 集成了多个搜书平台，可以当成导航网站来用
+        #   logo: xmsoushu.com.png
         - title: LoreFree
           url: https://ebook2.lorefree.com/
           description: 去中心化免费电子书共享社区
