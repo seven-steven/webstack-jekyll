@@ -671,10 +671,6 @@
           url: https://audiotrimmer.com/cn/
           description: 在线剪辑音频文件
           logo: audiotrimmer.com.png
-        - title: 在线视频解析
-          url: https://www.parsevideo.com/
-          description: 输入视频网址，轻松下载在线视频
-          logo: parsevideo.com.svg
         - title: youtube-dl
           url: https://github.com/ytdl-org/youtube-dl
           description: 视频下载工具
