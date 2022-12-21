@@ -326,6 +326,10 @@
           url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
           description: 美化你的新标签页
           logo: chrome-extension-infinity-new-tab-pro.png
+        - title: Header Editor
+          url: https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh/related
+          description: 修改浏览器请求和响应
+          logo: chrome-extension-header-editor.jpg
         - title: Dark reader
           url: https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
           description: 为任何网站提供黑色主题
