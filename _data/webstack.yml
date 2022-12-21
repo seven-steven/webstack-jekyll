@@ -927,6 +927,10 @@
           url: https://www.freecodecamp.org/
           description: 免费的编码训练营
           logo: circle-blue.svg
+        - title: CodePen
+          url: https://codepen.io/trending
+          description: 前端程序员交流社区
+          logo: codepan.io.svg
         - title: Patterns.dev
           url: https://www.patterns.dev/
           description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
