@@ -709,6 +709,10 @@
           url: https://webgradients.com/
           description: 漂亮的渐变色合集
           logo: webgradients.com.png
+        - title: Eva Design System
+          url: https://colors.eva.design/
+          description: AI 智能配色
+          logo: colors.eva.design.svg
         - title: Adobe Color
           url: https://color.adobe.com/
           description: Adobe 官方出品的配色工具
