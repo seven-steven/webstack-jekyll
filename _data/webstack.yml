@@ -1017,6 +1017,10 @@
           url: https://beta-pro.ant.design/
           description: 开箱即用的中台前端/设计解决方案
           logo: ant.design.svg
+        - title: TDesign
+          url: https://tdesign.tencent.com/
+          description: 企业级设计体系
+          logo: tdesign.tencent.com.svg
         - title: fingerprintjs
           url: https://github.com/fingerprintjs/fingerprintjs/
           # url: https://fingerprint.com/
