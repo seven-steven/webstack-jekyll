@@ -697,6 +697,10 @@
           url: https://webgradients.com/
           description: 漂亮的渐变色合集
           logo: webgradients.com.png
+        - title: Adobe Color
+          url: https://color.adobe.com/
+          description: Adobe 官方出品的配色工具
+          logo: color.adobe.com.png
         - title: Flat UI Colors
           url: https://flatuicolors.com/
           description: 扁平化设计调色板
