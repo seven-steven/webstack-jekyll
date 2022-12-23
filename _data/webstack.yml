@@ -705,6 +705,10 @@
           url: https://flatuicolors.com/
           description: 扁平化设计调色板
           logo: flatuicolors.com.ico
+        - title: 中国色
+          url: http://zhongguose.com/
+          description: 中国色合集
+          logo: zhongguose.com.ico
 
     - name: 字体素材
       links:
