@@ -697,6 +697,10 @@
           url: https://paletton.com/
           description: 智能配色工具
           logo: paletton.com.png
+        - title: ColorSupply
+          url: https://colorsupplyyy.com/
+          description: 来自世界各地设计师的色彩搭配方案
+          logo: colorsupplyyy.com.svg
         - title: WebGradients
           url: https://webgradients.com/
           description: 漂亮的渐变色合集
