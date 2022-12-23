@@ -511,11 +511,6 @@
           description: 图标、插图、照片、音乐和设计工具
           logo: igoutu.cn.png
 
-        - title: paletton
-          url: https://paletton.com/
-          description: 智能配色工具
-          logo: paletton.com.png
-
     - name: 图片素材
       links:
         - title: iconfont
@@ -691,6 +686,13 @@
           url: https://www.lalal.ai/
           description: 从曲目中分离人声和音乐
           logo: lalal.ai.png
+
+    - name: 颜色搭配
+      links:
+        - title: paletton
+          url: https://paletton.com/
+          description: 智能配色工具
+          logo: paletton.com.png
 
     - name: 字体素材
       links:
