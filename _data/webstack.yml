@@ -709,6 +709,11 @@
           url: http://zhongguose.com/
           description: 中国色合集
           logo: zhongguose.com.ico
+        - title: Material Palette
+          url: https://www.materialpalette.com/
+          description: 基于材质设计的调色板生成器
+          logo: materialpalette.com.ico
+
 
     - name: 字体素材
       links:
