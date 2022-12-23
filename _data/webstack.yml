@@ -693,6 +693,10 @@
           url: https://paletton.com/
           description: 智能配色工具
           logo: paletton.com.png
+        - title: Flat UI Colors
+          url: https://flatuicolors.com/
+          description: 扁平化设计调色板
+          logo: flatuicolors.com.ico
 
     - name: 字体素材
       links:
