@@ -713,6 +713,11 @@
           url: https://www.materialpalette.com/
           description: 基于材质设计的调色板生成器
           logo: materialpalette.com.ico
+        - title: Uigradients
+          url: https://uigradients.com/
+          description: 渐变色合集
+          logo: uigradients.com.png
+
 
 
     - name: 字体素材
