@@ -699,7 +699,7 @@
           logo: reeoo.com.ico
         - title: paletton
           url: https://paletton.com/
-          description: 智能配色工具
+          description: 根据指定基色完成智能配色
           logo: paletton.com.png
         - title: Happy Hues
           url: https://www.happyhues.co/
@@ -745,6 +745,10 @@
           url: https://uigradients.com/
           description: 渐变色合集
           logo: uigradients.com.png
+        - title: Open Color
+          url: https://yeun.github.io/open-color/
+          description: 13 种常用颜色
+          logo: yeun.github.io-open-color.png
         - title: BrandColors
           url: https://brandcolors.net/
           description: 最大的官方品牌颜色代码合集
