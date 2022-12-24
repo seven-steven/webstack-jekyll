@@ -713,6 +713,10 @@
           url: https://webgradients.com/
           description: 漂亮的渐变色合集
           logo: webgradients.com.png
+        - title: Colormind
+          url: http://colormind.io/
+          description: AI 配色，可以根据选定的配色生成网站预览样式
+          logo: colormind.io.gif
         - title: Eva Design System
           url: https://colors.eva.design/
           description: AI 智能配色
