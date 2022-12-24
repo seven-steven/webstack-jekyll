@@ -725,6 +725,10 @@
           url: https://flatuicolors.com/
           description: 扁平化设计调色板
           logo: flatuicolors.com.ico
+        - title: Hue Tools
+          url: https://hue.tools/
+          description: 一款开源的配色工具
+          logo: hue.tools.svg
         - title: 中国色
           url: http://zhongguose.com/
           description: 中国传统色
