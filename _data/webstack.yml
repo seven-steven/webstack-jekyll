@@ -469,7 +469,7 @@
           description: 安卓虚拟机
           logo: vmos.com.png
 
-- name: 设计素材
+- name: UI 设计
   icon: linecons-pencil
   sub:
     - name: 设计导航
@@ -703,7 +703,7 @@
           logo: paletton.com.png
         - title: Happy Hues
           url: https://www.happyhues.co/
-          description: 调色板灵感网站
+          description: 收集了十多种配色，说明了每种颜色的用途
           logo: happyhues.co.png
         - title: ColorSupply
           url: https://colorsupplyyy.com/
@@ -719,7 +719,7 @@
           logo: colormind.io.gif
         - title: Eva Design System
           url: https://colors.eva.design/
-          description: AI 智能配色
+          description: AI 智能配色，给一种品牌颜色生成多种语义颜色
           logo: colors.eva.design.svg
         - title: Adobe Color
           url: https://color.adobe.com/
