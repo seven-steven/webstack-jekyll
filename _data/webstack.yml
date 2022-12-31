@@ -40,7 +40,7 @@
       logo: duolingo.cn.png
     - title: English-level-up-tips
       url: https://github.com/byoungd/English-level-up-tips
-      description: 可能是让你受益匪浅的英语进阶指南。
+      description: 可能是让你受益匪浅的英语进阶指南
       logo: github.com.svg
     - title: 下厨房
       url: https://www.xiachufang.com/
@@ -770,8 +770,6 @@
           description: 德国设计师创建的配色参考网站
           logo: vanschneider.com.ico
 
-
-
     - name: 字体素材
       links:
         - title: 100font
@@ -1019,6 +1017,11 @@
           url: https://www.patterns.dev/
           description: 关于前端设计模式和组件模式的免费教程，帮助你更好地架构前端应用
           logo: patterns.dev.png
+        - title: CSS Layout
+          url: https://csslayout.io/
+          # url: https://github.com/phuocng/csslayout
+          description: 常见的 CSS 布局示例
+          logo: csslayout.io.png
         - title: 50projects50days
           url: https://github.com/bradtraversy/50projects50days
           description: 50 个 web 小 demo，用来学习再好不过了
