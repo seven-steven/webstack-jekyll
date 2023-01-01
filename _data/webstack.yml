@@ -1397,6 +1397,10 @@
 
     - name: 影音资源
       links:
+        - title: RARGB
+          url: https://rargb.to/
+          description: 高质量影音下载网站
+          logo: rargb.to.ico
         - title: 无名小站
           url: https://www.btnull.org/
           description: 满足你的影视需求
