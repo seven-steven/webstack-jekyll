@@ -1,5 +1,5 @@
 - name: 学习资源
-  icon: linecons-lightbulb
+  icon: ri-book-3-line
   links:
     - title: 网易公开课
       url: https://open.163.com/
@@ -13,11 +13,18 @@
       url: https://crashcourse.club/category/
       description: 涵盖了各个学科的科普视频，视频内容小而精，强烈推荐
       logo: crashcourse.club.png
-    - title: 数学乐
-      url: https://www.shuxuele.com/index.html
-      # url: https://www.mathsisfun.com/
+    - title: Math is Fun
+      url: https://www.mathsisfun.com/
       description: 生动形象的数学知识
       logo: mathsisfun.com.svg
+      icons:
+        status:
+          - icon: ri-english-input
+            title: English
+        info:
+          - icon: ri-translate
+            title: 数学乐
+            url: https://www.shuxuele.com/index.html
     - title: Coursera
       url: https://www.coursera.org/
       description: 无限制学习世界一流大学和公司的课程、专业证书和学位
@@ -34,6 +41,15 @@
       url: https://space.bilibili.com/88461692
       description: 深入浅出、直观明了地分享数学之美
       logo: 3blue1brown.com.png
+    - title: 全网漫游指南
+      url: https://tagly.notion.site/
+      description: 精选各类有趣的工具、网站和服务，与你共同探索浩瀚的数字海洋
+      logo: tagly.notion.site.png
+      icons:
+        info:
+          - icon: ri-book-2-line
+            title: 介绍
+            url: https://tagly.notion.site/3a0eaafbaa8343388c01f32e06c91597
     - title: 多邻国
       url: https://www.duolingo.cn/
       description: 有趣生动的语言学习网站
@@ -60,9 +76,13 @@
       logo: bilibili-wujinshaonv.jpg
     - title: Markdown 入门指南
       url: https://www.markdown.xyz/
-      # url: https://www.markdownguide.org/
       description: 学习快速、轻松地书写
       logo: markdownguide.org.svg
+      icons:
+        info:
+          - icon: ri-english-input
+            title: 官网
+            url: https://www.markdownguide.org/
     - title: oeasy 教程
       url: http://oeasy.org/
       description: 给想学没钱学的老百姓做的教程
@@ -77,7 +97,7 @@
       logo: cook.aiurs.co.svg
 
 - name: 效率办公
-  icon: linecons-desktop
+  icon: ri-computer-line
   sub:
     - name: 在线工具
       links:
@@ -89,6 +109,14 @@
           url: https://dida365.com/
           description: 达成更多，用心生活
           logo: dida365.png
+        - title: Tweek 日历
+          url: https://tweek.so/
+          description: 极简的待办事项和每周任务计划应用
+          logo: tweek.so.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: AmyMind
           url: https://amymind.com/
           description: 打开即用的思维导图和画板工具
@@ -125,6 +153,19 @@
           url: https://web.baimiaoapp.com/
           description: OCR 识别工具，支持图片转表格
           logo: web.baimiaoapp.com.png
+        - title: Tutanota
+          url: https://mail.tutanota.com/
+          description: 安全、绿色、无广告的邮箱服务
+          logo: mail.tutanota.com.png
+        - title: TEMP MAIL
+          url: https://tempmail.email/
+          description: 临时邮箱、十分钟邮箱
+          logo: tempmail.email.svg
+          icons:
+            info:
+              - icon: ri-exchange-line
+                title: 临时邮箱
+                url: https://www.linshi-email.com/
         - title: DeepL
           url: https://www.deepl.com/zh/translator
           description: 很好用的翻译工具
@@ -137,14 +178,190 @@
           url: https://www.ppzhilian.com/
           description: 安全便捷的电脑/手机互连，点对点文件传送、云剪贴板、屏幕共享、可视化交流工具
           logo: ppzhilian.com.png
-        - title: 奶牛快传
-          url: https://cowtransfer.com/
-          description: 不限速文件传输
-          logo: cowtransfer.com.png
         - title: 小码短连接
           url: https://xiaomark.com/
           description: 短链接生成器，拥有统计功能
           logo: xiaomark.com.png
+
+    - name: 人工智能
+      links:
+        - title: ChatGPT
+          url: https://chat.openai.com/
+          description: 基于大型语言模型 GPT-3.5 的最智能的聊天机器人
+          logo: chat.openai.com.jpeg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-exchange-line
+                title: Alternative
+                url: https://chat.theb.ai/#/chat/1002
+              - icon: ri-exchange-line
+                title: Alternative
+                url: https://chatforai.com/
+              - icon: ri-exchange-line
+                title: Alternative
+                url: https://freegpt.one/
+              - icon: ri-exchange-line
+                title: 镜像站点集合
+                url: https://github.com/xx025/carrot
+        - title: Perplexity
+          url: https://www.perplexity.ai/
+          description: AI 搜索引擎
+          logo: perplexity.ai.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+        - title: Copilot
+          url: https://github.com/features/copilot
+          description: AI 帮你写代码
+          logo: github.com.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+              - icon: ri-money-cny-circle-line
+                title: 收费
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://docs.github.com/en/copilot
+        - title: Midjourney
+          url: https://www.midjourney.com/
+          description: 高质量 AI 绘图
+          logo: midjourney.com.png
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 收费
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: midjourney.com.png
+        - title: DreamStudio
+          url: https://beta.dreamstudio.ai/
+          description: 高质量 AI 绘图
+          logo: beta.dreamstudio.ai.png
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 收费
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-book-2-line
+                title: FAQ
+                url: https://beta.dreamstudio.ai/faq
+        - title: Lexica
+          url: https://lexica.art/
+          description: AI 图像搜索引擎
+          logo: lexica.art.ico
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: 风声雨声
+          url: https://fsys.app/
+          description: 用 AI 帮助你高效双语阅读
+          logo: fsys.app.ico
+        - title: ChatPDF
+          url: https://www.chatpdf.com/
+          description: 帮你总结 PDF 信息，并且通过聊天问答的方式告诉你 PDF 的内容
+          logo: chatpdf.com.ico
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+        - title: Scribble Diffusion
+          url: https://scribblediffusion.com/
+          description: 根据草图绘制图片
+          logo: scribblediffusion.com.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/replicate/scribble-diffusion
+        - title: Astria
+          url: https://www.astria.ai/
+          description: 识别和再生成特定对象的图片
+          logo: astria.ai.png
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 收费
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-book-2-line
+                title: How-To
+                url: https://www.astria.ai/tips
+        - title: Luma AI
+          url: https://lumalabs.ai/
+          description: Capture the world in lifelike 3D
+          logo: lumalabs.ai.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: Tome
+          url: https://beta.tome.app/
+          description: AI 生成 KeyNote
+          logo: beta.tome.app.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: SOUNDRAW
+          url: https://soundraw.io/
+          description: AI 生成音乐
+          logo: soundraw.io.ico
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: Sonic Pi
+          url: https://sonic-pi.net/
+          description: 基于代码的音乐创作工具
+          logo: sonic-pi.net.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://sonic-pi.net/tutorial.html
+        - title: All Things Ai
+          url: https://allthingsai.com/
+          description: AI 工具和服务集合
+          logo: allthingsai.com.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: FuturePedia
+          url: https://www.futurepedia.io/
+          description: AI 工具库
+          logo: futurepedia.io.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+        - title: Ai 导航
+          url: https://www.ainavpro.com/
+          description: 一个专注于人工智能产品的导航站
+          logo: ainavpro.com.png
 
     - name: 在线文档
       links:
@@ -222,6 +439,10 @@
           url: https://www.google.com/intl/zh-CN/chrome/
           description: 最好用的浏览器，没有之一
           logo: chrome.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: uTools
           url: https://u.tools/
           description: 程序员的生产力工具集
@@ -231,7 +452,7 @@
           description: Windows 下的效率搜索与快捷启动工具
           logo: listary.com.png
         - title: Snipaste
-          url: https://zh.snipaste.com/
+          url: https://www.snipaste.com/
           description: 超级好用的截图 + 贴图工具
           logo: snipaste.com.svg
         - title: Xmind Zen
@@ -288,9 +509,29 @@
           logo: getquicker.net.ico
         - title: Synergy
           url: https://symless.com/synergy
-          # url: https://github.com/DEAKSoftware/Synergy-Binaries/releases
           description: 纯软件的跨电脑键鼠共享方案，代码开源，免费版本需要自己编译
           logo: synergy.svg
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/DEAKSoftware/Synergy-Binaries/releases
+        - title: Barrier
+          url: https://github.com/debauchee/barrier/
+          description: 基于 Synergy 开发的开源跨平台多终端键鼠共享软件
+          logo: barrier.svg
+        - title: Clash for Windows
+          url: https://github.com/Fndroid/clash_for_windows_pkg/releases/latest
+          description: Clash 的 Windows/macOS/Linux 图形客户端
+          logo: clash.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://docs.cfw.lbyczf.com/
+              - icon: ri-tools-line
+                title: 工具
+                url: https://v2rayse.com/
         - title: Awesome Windows
           url: https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
           description: Windows 精品软件清单
@@ -300,92 +541,214 @@
           description: Mac 精品软件清单
           logo: apple.svg
 
-    - name: Chrome插件
+    - name: Chrome
       links:
         - title: Vimium
           url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
           description: 在 Chrome 中使用 Vim 插件
           logo: chrome-extension-vimium.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Adblock Plus
           url: https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
           description: 免费的广告拦截器
           logo: chrome-extension-adblock-plus.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: OneTab
           url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
           description: 节省高达95％的内存，并减轻标签页混乱现象
           logo: chrome-extension-one-tab.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Proxy SwitchOmega
           url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
           description: 道曰：不可说
           logo: chrome-extension-proxy-switch-omega.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: iTab新标签页
-          url: https://itab.link/
+          url: https://chrome.google.com/webstore/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/mhloojimgilafopcmlcikiidgbbnelip
           description: 一个让你不受广告干扰的个性化卡片式起始页插件
           logo: itab.link.svg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+              - icon: ri-computer-line
+                title: 官网
+                url: https://itab.link/
         - title: Infinity 新标签页 (Pro)
           url: https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
           description: 美化你的新标签页
           logo: chrome-extension-infinity-new-tab-pro.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Header Editor
           url: https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh/related
           description: 修改浏览器请求和响应
           logo: chrome-extension-header-editor.jpg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+        - title: Aria2 for Chrome
+          url: https://chrome.google.com/webstore/detail/aria2-for-chrome/mpkodccbngfoacfalldjimigbofkhgjn/related
+          description: 自动拦截或手动添加下载任务到 Aria2 来完成网络资源下载
+          logo: chrome-extension-aria2-for-chrome.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://www.aria2e.ga/
+              - icon: ri-github-fill
+                title: Github
+                url: chrome-extension-aria2-for-chrome.png
         - title: Dark reader
           url: https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
           description: 为任何网站提供黑色主题
           logo: chrome-extension-dark-reader.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: 滴答清单
           url: https://chrome.google.com/webstore/detail/ticktick-todo-task-list/diankknpkndanachmlckaikddgcehkod
           description: 滴答清单的 Chrome 扩展
           logo: dida365.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: 番茄土豆
           url: https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf
           description: 番茄工作法插件
           logo: chrome-extension-pomotodo.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: The Great Suspender
           url: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg
           description: 冻结暂时用不到的标签页，以便释放系统资源
           logo: chrome-extension-the-great-suspender.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Video Speed Controller
           url: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
           description: 控制 HTML5 视频播放速度
           logo: chrome-extension-video-speed-controller.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Global Speed 视频速度控制
           url: https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff
           description: 全局视频速度控制
           logo: chrome-extension-global-speed.jpg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Web Scraper
           url: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
           description: 一个网页爬虫扩展
           logo: chrome-extension-web-scraper.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: 简悦
           url: https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll
           description: 沉浸式阅读插件
           logo: chrome-extension-simpread.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: ublacklist
           url: https://github.com/iorate/ublacklist
           description: 屏蔽谷歌搜索结果中的指定站点
           logo: chrome-extension-ublacklist.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: 自选基金助手
           url: https://chrome.google.com/webstore/detail/%E8%87%AA%E9%80%89%E5%9F%BA%E9%87%91%E5%8A%A9%E6%89%8B-%E5%AE%9E%E6%97%B6%E6%9F%A5%E7%9C%8B%E5%9F%BA%E9%87%91%E6%B6%A8%E8%B7%8C%E5%B9%85/dhdelcemeednchdmijiocipbjlknndff/related?hl=zh-CN
           description: 实时查看基金涨跌幅
           logo: chrome-extension-custom-fund-assistant.jpg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+        - title: 截图快手
+          url: https://chrome.google.com/webstore/detail/awesome-screenshot-tool-s/mfpiaehgjbbfednooihadalhehabhcjo/related?hl=zh-CN
+          description: 快捷的截屏助手
+          logo: chrome-extension-awesome-screenshot-tool-s.jpg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+              - icon: ri-computer-line
+                url: https://www.awesomescreenshot.com/
+                title: 官网
         - title: Screenity
           url: https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji
           description: 屏幕录像和标注工具
           logo: chrome-extension-screenity-screen-recorder.jpg
-        - title: 划词翻译(柯林斯词典)+扇贝生词本
-          url: https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91%E6%9F%AF%E6%9E%97%E6%96%AF%E8%AF%8D%E5%85%B8%20%E6%89%87%E8%B4%9D%E7%94%9F%E8%AF%8D%E6%9C%AC/mkohdjbfagmlcaclajmadgkojelkbbfj
-          description: 划词翻译(柯林斯词典)+扇贝生词本
-          logo: chrome-extension-kelinsi-shanbei.jpg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+        - title: 沉浸式翻译
+          url: https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh
+          description: 沉浸式双语网页翻译扩展
+          logo: chrome-extension-immersive-translate.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://immersive-translate.owenyoung.com/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/immersive-translate/immersive-translate
         - title: 不背单词查词
           url: https://chrome.google.com/webstore/detail/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%E6%9F%A5%E8%AF%8D/cklfipcjofdnmdolnfngpmokdaejidim
           description: 不背单词查词
           logo: bbdc.cn.svg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Tampermonkey BETA
           url: https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
           description: 传说中的油猴插件，给你的浏览器添加各种超能力
           logo: chrome-extension-tampermonkey-beta.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
         - title: Greasy Fork
           url: https://greasyfork.org/zh-CN/scripts
           description: 油猴脚本资源列表
@@ -405,6 +768,10 @@
 
     - name: 安卓软件
       links:
+        - title: APKPure
+          url: https://apkpure.com/
+          description: 快速、免费、安全地下载 apk 到安卓
+          logo: apkpure.com.webp
         - title: F-Droid
           url: https://f-droid.org/
           description: 下载你想要的安卓应用
@@ -452,6 +819,11 @@
           description: 连接你的局域网设备
           url: https://community.kde.org/KDEConnect
           logo: community.kde.org.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://userbase.kde.org/KDEConnect
         - title: Termux
           url: https://github.com/termux/termux-app
           description: 安卓系统上的命令行终端神器
@@ -470,7 +842,7 @@
           logo: vmos.com.png
 
 - name: UI 设计
-  icon: linecons-pencil
+  icon: ri-palette-line
   sub:
     - name: 设计导航
       links:
@@ -510,13 +882,14 @@
           url: https://igoutu.cn/
           description: 图标、插图、照片、音乐和设计工具
           logo: igoutu.cn.png
+          icons:
+            info:
+              - icon: icon-english
+                title: English
+                url: https://icons8.com/icons
 
     - name: 图片素材
       links:
-        - title: iconfont
-          url: https://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-          logo: iconfont.cn.svg
         - title: Pixabay
           url: https://pixabay.com/
           description: 免费图片、视频、音效
@@ -612,6 +985,10 @@
           url: https://www.magiceraser.io/
           description: 瞬间删除图像中不需要的部分
           logo: magiceraser.io.svg
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 部分收费
         - title: PIXLR
           url: https://pixlr.com/
           description: 在线 PS 工具，无需登录
@@ -690,6 +1067,140 @@
           url: https://www.lalal.ai/
           description: 从曲目中分离人声和音乐
           logo: lalal.ai.png
+
+    - name: 图标库
+      links:
+        - title: iconfont
+          url: https://www.iconfont.cn/
+          description: 海量用户贡献的海量图标库，可自主选择下载使用
+          logo: www.iconfont.cn.svg
+        - title: flaticon
+          url: https://www.flaticon.com/
+          description: Access 9.2M+ vector icons & stickers
+          logo: flaticon.com.png
+        - title: REMIX ICON
+          url: https://remixicon.com/
+          description: 开源免费图标库
+          logo: remixicon.com.ico
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md
+              - icon: ri-github-fill
+                url: https://github.com/Remix-Design/RemixIcon
+                title: Github
+        - title: CSS.GG
+          url: https://css.gg/
+          description: Open-source CSS, SVG and Figma UI Icons
+          logo: css.gg.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://github.com/astrit/css.gg#get-started
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/astrit/css.gg
+        - title: FontAwesome
+          url: https://fontawesome.com/
+          description: 字体图标库，部分免费
+          logo: fontawesome.com.svg
+          icons:
+            status:
+              - title: 部分收费
+                icon: ri-money-cny-circle-line
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/FortAwesome/Font-Awesome
+        - title: IconPark
+          url: https://iconpark.oceanengine.com/
+          description: 字节跳动巨量引擎出品的开源 SVG 图标库
+          logo: iconpark.oceanengine.com.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                name: 文档
+                url: https://bytedance.feishu.cn/wiki/wikcnrOVHCJQ4V3a7mDvmLjrePf#KNxVYO
+              - icon: ri-github-fill
+                name: github
+                url: iconpark.oceanengine.com.svg
+        - title: iconmonstr
+          url: https://iconmonstr.com/
+          description: 德国团队出品的完全免费的图标库
+          logo: iconmonstr.com.ico
+        - title: Material Design
+          url: https://fonts.google.com/icons
+          description: Google 设计团队出品
+          logo: fonts.google.com.svg
+        - title: fontello
+          url: https://fontello.com/
+          description: 把矢量图形打包成 webfonts，同时内置了大量图标，按需下载
+          logo: fontello.com.ico
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: wiki
+                url: https://github.com/fontello/fontello/wiki/Help
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/fontello/fontello
+        - title: heroicons
+          url: https://heroicons.com/
+          description: SVG 图标库，由 Tailwind CSS 团队制作
+          logo: heroicons.com.svg
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/tailwindlabs/heroicons
+        - title: Tabler ICONS
+          url: https://tabler-icons.io/
+          description: Free and open source pixel-perfect icons for web design
+          logo: tabler-icons.io.ico
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/tabler/tabler-icons
+        - title: LivIcons Evolution
+          url: https://livicons.com/
+          description: 动态图标库
+          logo: livicons.com.png
+        - title: ionicons
+          url: https://ionic.io/
+          description: 基于 js 的开源图标库
+          logo: ionic.io.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://ionic.io/ionicons/usage
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/ionic-team/ionicons
+        - title: lordicon
+          url: https://lordicon.com/icons
+          description: 动态图标库，部分收费
+          logo: lordicon.com.svg
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 部分收费
+                url: https://lordicon.com/pricing
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://lordicon.com/docs
+        - title: iconify.DESIGN
+          url: https://icon-sets.iconify.design/
+          description: 聚合了几乎所有开源免费图标库
+          logo: icon-sets.iconify.design.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: icon-sets.iconify.design.png
 
     - name: 颜色搭配
       links:
@@ -794,14 +1305,18 @@
           logo: fontconverter.com.svg
 
 - name: 开发资源
-  icon: linecons-params
+  icon: ri-code-box-line
   sub:
     - name: 编程通识
       links:
         - title: LeetCode
-          url: https://leetcode.com/problemset/all/
+          url: https://leetcode.cn/
           description: 算法学习 No.1
           logo: leetcode.com.png
+          icons:
+            info:
+              - icon: ri-english-input
+                url: https://leetcode.com/
         - title: REFACTORING GURU
           url: https://refactoringguru.cn/design-patterns
           description: 设计模式教程
@@ -810,6 +1325,10 @@
           url: https://learnxinyminutes.com/
           description: 在 Y 分钟内速成 X, 可以用来快速了解一门语言
           logo: learnxinyminutes.com.ico
+          icons:
+            info:
+              - icon: ri-github-fill
+                url: https://github.com/adambard/learnxinyminutes-docs
         - title: 极客时间
           url: https://time.geekbang.org/activity/getinvite?gk_ucode=09AFAB893C7CC9
           description: 轻松学习，高效学习
@@ -823,13 +1342,23 @@
           description: Git 使用手册
           logo: git.svg
         - title: 1on1-questions
-          url: https://github.com/VGraupera/1on1-questions
+          url: https://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
           description: 1:1 沟通问题列表
           logo: github.com.svg
+          icons:
+            info:
+              - icon: ri-github-fill
+                url: https://github.com/VGraupera/1on1-questions
         - title: EbookFoundation/free-programming-books
-          url: https://github.com/EbookFoundation/free-programming-books/
+          url: https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
           description: 分类列举了大量编程书籍和网络资源
           logo: github.com.svg
+          icons:
+            info:
+              - icon: ri-english-input
+                url: https://ebookfoundation.github.io/free-programming-books/
+              - icon: ri-github-fill
+                url: https://github.com/EbookFoundation/free-programming-books/
 
     - name: 辅助工具
       links:
@@ -839,9 +1368,12 @@
           logo: replit.com.png
         - title: gerrit
           url: https://www.gerritcodereview.com/
-          # url: https://github.com/GerritCodeReview/gerrit
           description: code review 工具
           logo: gerritcodereview.com.png
+          icons:
+            info:
+              - icon: ri-github-fill
+                url: https://github.com/GerritCodeReview/gerrit
         - title: PlantUML
           url: https://plantuml.com/zh/
           description: 一款文本绘图工具
@@ -850,6 +1382,35 @@
           url: https://app.diagrams.net/
           description: 非常好用的轻量级绘图工具
           logo: draw.io.png
+        - title: dbdiagram.io
+          url: https://dbdiagram.io/
+          description: 在线绘制数据库设计
+          logo: dbdiagram.io.ico
+          icons:
+            status:
+              - icon: ri-english-input
+                title: English
+              - icon: ri-money-cny-circle-line
+                title: 升级付费
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://dbdiagram.io/docs/
+        - title: dbdocs
+          url: https://dbdocs.io/
+          description: 用 DSL 语言生成在线数据库文档
+          logo: dbdocs.io.ico
+          icons:
+            status:
+              - icon: ri-english-input
+                title: English
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://dbdocs.io/docs
+              - icon: ri-computer-line
+                title: demo
+                url: https://dbdocs.io/Holistics/Ecommerce
         - title: carbon
           url: https://carbon.now.sh/
           description: 代码图片美化工具
@@ -858,10 +1419,6 @@
         #        url: https://codeimg.io/
         #        description: 代码图片美化工具，支持多种样式
         #        logo: codeimg.io.png
-        - title: 在线身份证号码生成器
-          url: https://www.suijidaquan.com/shenfenzheng
-          description: 在线身份证号码生成器，测试数据生成
-          logo: www.suijidaquan.com.jpeg
         - title: Apifox
           url: https://www.apifox.cn/
           description: 全平台的接口文档、调试、Mock、自动化测试工具
@@ -898,10 +1455,6 @@
           url: https://ipw.cn/
           description: 致力于普及 IPv6 ,推进 IPv6 规模部署和应用
           logo: ipw.cn.svg
-        #      - title: 面包多
-        #        url: https://mianbaoduo.com/
-        #        description: 为创作者创收
-        #        logo: mianbaoduo.com.ico
 
     - name: 开源项目
       links:
@@ -917,31 +1470,75 @@
           url: https://min.io/
           description: 一款开源的对象存储服务
           logo: min.io.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://min.io/docs/minio/kubernetes/upstream/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/minio/minio
+        - title: DBML
+          url: https://www.dbml.org/
+          description: Database Markup Language
+          logo: github.com.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: English
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/holistics/dbml
+              - icon: ri-book-2-line
+                title: Document
+                url: https://www.dbml.org/docs/
         - title: alibaba/DataX
           url: https://github.com/alibaba/DataX
           description: 支持超多数据库的离线数据同步工具
           logo: github.com.svg
-        - title: megaease/easegress
-          url: https://github.com/megaease/easegress
-          # url: https://megaease.com/
-          description: 全功能型的流量调度和编排系统
-          logo: megaease.com.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://github.com/alibaba/DataX/blob/master/userGuid.md
         - title: TrueNAS
           url: https://www.truenas.com/
           description: 开源免费 NAS 系统
           logo: truenas.com.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://www.truenas.com/docs/
         - title: Syncthing
           url: https://syncthing.net/
           description: 多端数据同步
           logo: syncthing.net.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://docs.syncthing.net/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/syncthing/syncthing
         - title: CompVis/stable-diffusion
           url: https://github.com/CompVis/stable-diffusion
           description: 根据文本描述生成精美图片
           logo: github.com.svg
         - title: Molunerfinn/PicGo
-          url: https://github.com/Molunerfinn/PicGo
+          url: https://molunerfinn.com/PicGo/
           description: 兼容多种服务端的图床客户端
           logo: picgo.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://picgo.github.io/PicGo-Doc/zh/guide/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/Molunerfinn/PicGo
         - title: NewFuture/DDNS
           url: https://github.com/NewFuture/DDNS
           description: 自动更新域名解析到本机 IP
@@ -954,18 +1551,26 @@
           url: https://github.com/cloudreve/Cloudreve
           logo: github.com.svg
           description: 支持多家云存储驱动的公有云文件系统
-        - title: Alist
-          url: https://alist-doc.nn.ci/
-          description: 一款支持多种存储的目录文件列表程序，简言之，网盘聚合
-          logo: alist-doc.nn.ci.svg
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/Molunerfinn/PicGo
         - title: fatedier/frp
           url: https://github.com/fatedier/frp
           description: 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议
           logo: github.com.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                url: https://gofrp.org/docs/
         - title: kkFileView
-          url: https://github.com/kekingcn/kkFileView
-          logo: kkfileview.keking.cn.ico
+          url: https://kkfileview.keking.cn/zh-cn/index.html
           description: 主流办公文档的在线预览解决方案
+          logo: kkfileview.keking.cn.ico
+          icons:
+            - icon: ri-github-fill
+              url: https://github.com/kekingcn/kkFileView
         - title: Roverr/rtsp-streamH
           logo: github.com.svg
           url: https://github.com/Roverr/rtsp-stream
@@ -986,6 +1591,40 @@
           url: https://github.com/budtmo/docker-android
           description: 在 Docker 中运行 android
           logo: github.com.svg
+        - title: Open Source Alternatives
+          url: https://www.btw.so/open-source-alternatives
+          description: 企业日常运营工具的开源替代方案
+          logo: btw.so.png
+
+    - name: 开源应用
+      links:
+        - title: Alist
+          url: https://alist.nn.ci/
+          description: 一款支持多种存储的目录文件列表程序，简言之，网盘聚合
+          logo: alist.nn.ci.svg
+          icons:
+            info:
+              - icon: ri-computer-line
+                title: Demo
+                url: https://al.nn.ci/
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://alist.nn.ci/zh/guide/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/alist-org/alist
+        - title: GreaterWMS
+          url: https://www.56yhz.com/
+          description: 完全开源的仓库管理生态系统
+          logo: 56yhz.com.ico
+          icons:
+            info:
+              - icon: ri-computer-line
+                title: Demo
+                url: https://production.56yhz.com/#/web/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/Singosgu/GreaterWMS
 
     - name: 前端开发
       links:
@@ -1019,9 +1658,13 @@
           logo: patterns.dev.png
         - title: CSS Layout
           url: https://csslayout.io/
-          # url: https://github.com/phuocng/csslayout
           description: 常见的 CSS 布局示例
           logo: csslayout.io.png
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/phuocng/csslayout
         - title: 50projects50days
           url: https://github.com/bradtraversy/50projects50days
           description: 50 个 web 小 demo，用来学习再好不过了
@@ -1034,20 +1677,59 @@
           url: https://tailwindcss.com/
           description: 一个功能类优先的 CSS 框架
           logo: tailwindcss.com.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://tailwindcss.com/docs/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/tailwindlabs/tailwindcss
         - title: animate.css
-          # url: https://github.com/animate-css/animate.css
           url: https://animate.style/
           description: css 动效库
-          logo: github.com.svg
+          logo: nimate.style.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://animate.style/#documentation
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/animate-css/animate.css
         - title: normalize.css
-          url: https://github.com/necolas/normalize.css
+          url: https://necolas.github.io/normalize.css/
           description: 让你的 HTML 默认样式保持跨浏览器的一致性
-          logo: github.com.svg
+          logo: necolas.github.io.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://jerryzou.com/posts/aboutNormalizeCss/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/necolas/normalize.css
+        - title: OPEN PROPS
+          url: https://open-props.style/
+          description: CSS custom properties to help accelerate adaptive and consistent design.
+          logo: open-props.style.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://open-props.style/#getting-started
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/argyleink/open-props
         - title: bulma
           url: https://bulma.io/
-          # url: https://github.com/jgthms/bulma
           description: 基于 Flexbox 的现代化响应式 css 框架
           logo: bulma.io.svg
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/jgthms/bulma
         - title: IanLunn/Hover
           url: https://github.com/IanLunn/Hover
           description: 给你的网站添加 hover 动效
@@ -1072,18 +1754,15 @@
           url: https://github.com/codemirror/codemirror5
           description: 支持多种语言的代码编辑器
           logo: github.com.svg
-        - title: FontAwesome
-          url: https://fontawesome.com/
-          description: 矢量图标库
-          logo: fontawesome.com.svg
         - title: Bootstrap
           url: https://getbootstrap.com/
           description: 强大、可扩展、功能丰富的前端工具箱
           logo: getbootstrap.com.svg
-        - title: Bootstrap 中文网
-          url: https://www.bootcss.com/
-          description: Bootstrap 中文网，网站也收集了非常多其他前端框架的中文文档
-          logo: bootcss.com.png
+          icons:
+            info:
+              - icon: ri-translate
+                title: Bootstrap 中文网，网站也收集了非常多其他前端框架的中文文档
+                url: https://www.bootcss.com/
         - title: React
           url: https://reactjs.org/
           description: 用于构建用户界面的 JavaScript 库
@@ -1092,6 +1771,10 @@
           url: https://beta.reactjs.org/
           description: 官方重写的 React 文档
           logo: reactjs.org.svg
+        - title: React Icons
+          url: https://react-icons.github.io/react-icons/
+          description: 适用于 React 的图标库
+          logo: react-icons.github.io.svg
         - title: Vue
           url: https://vuejs.org/
           description: 渐进式 JavaScript 框架
@@ -1104,20 +1787,38 @@
           url: https://beta-pro.ant.design/
           description: 开箱即用的中台前端/设计解决方案
           logo: ant.design.svg
+        - title: pnpm
+          url: https://pnpm.io/
+          description: 快速、节省磁盘空间的新一代包管理工具
+          logo: pnpm.io.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://pnpm.io/zh/installation
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/pnpm/pnpm
         - title: TDesign
           url: https://tdesign.tencent.com/
           description: 企业级设计体系
           logo: tdesign.tencent.com.svg
         - title: fingerprintjs
-          url: https://github.com/fingerprintjs/fingerprintjs/
-          # url: https://fingerprint.com/
+          url: https://fingerprint.com/
           description: 生成客户端唯一标识
           logo: fingerprint.com.ico
+          info:
+            - icon: ri-github-fill
+              title: Github
+              url: https://github.com/fingerprintjs/fingerprintjs/
         - title: rrweb-io/rrweb
-          url: https://github.com/rrweb-io/rrweb
-          # url: https://www.rrweb.io/
+          url: https://www.rrweb.io/
           description: 记录和回放用户在前端的操作，可用于故障重现
           logo: rrweb.io.png
+          info:
+            - icon: ri-github-fill
+              title: Github
+              url: https://github.com/rrweb-io/rrweb
         - title: Taro
           url: https://taro.jd.com/
           description: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发各种小程序、H5 和 RN 应用
@@ -1135,14 +1836,18 @@
           url: https://github.com/vuejs/vuepress
           description: 极简的静态网站生成器，支持 markdown，可用于生成项目文档
           logo: vuepress.vuejs.org.png
-        - title: hexo
-          url: https://hexo.io/
-          description: 快速、简洁且高效的纯静态博客框架
-          logo: hexo.io.png
         - title: Neumorphism
           url: https://neumorphism.io/
           description: 简单轻松地实现 CSS 新拟态效果
           logo: neumorphism.io.png
+        - title: Clippy
+          url: https://bennettfeely.com/clippy/
+          description: CSS clip-path maker
+          logo: benettfeely.com.png
+        - title: Get Waves
+          url: https://getwaves.io/
+          description: 波浪生成器
+          logo: getwaves.io.svg
         - title: Can I Use
           url: https://caniuse.com/
           description: 查询浏览器对 Web API 的兼容性
@@ -1211,15 +1916,21 @@
           description: 简洁好用的数据库表结构文档生成工具
           logo: github.com.svg
         - title: dbeaver
-          url: https://github.com/dbeaver/dbeaver
-          #        url: https://dbeaver.io/
+          url: https://dbeaver.io/
           description: 一款开源的数据库客户端
           logo: dbeaver.io.png
+          info:
+            - icon: ri-github-fill
+              title: Github
+              url: https://github.com/dbeaver/dbeaver
         - title: Beekeeper Studio
           url: https://www.beekeeperstudio.io/
-          # url: https://github.com/beekeeper-studio/beekeeper-studio
           description: 一款“还行”的开源跨平台数据客户端
           logo: beekeeperstudio.io.svg
+          info:
+            - icon: ri-github-fill
+              title: Github
+              url: https://github.com/beekeeper-studio/beekeeper-studio
         - title: PDManer
           url: https://gitee.com/robergroup/pdmaner
           description: 开源免费的跨平台关系型数据库建模工具
@@ -1228,6 +1939,15 @@
           url: https://github.com/qishibo/AnotherRedisDesktopManager
           description: 一款全平台通用的 Redis 连接工具
           logo: another-redis-desktop-manager.png
+        - title: ElasticView
+          url: http://www.elastic-view.cn/
+          description: 一款用来监控 ElasticSearch 状态和操作 ElasticSearch 索引的 web 可视化工具
+          logo: elastic-view.cn.png
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: elastic-view.cn.png
 
     - name: 服务运维
       links:
@@ -1268,10 +1988,13 @@
           description: 另一款好用的命令行终端
           logo: fishshell.com.png
         - title: starship
-          #        url: https://starship.rs/
-          url: https://github.com/starship/starship
+          url: https://starship.rs/
           description: 终端状态显示
           logo: starship.rs.png
+          info:
+            - icon: ri-github-fill
+              title: Github
+              url: https://github.com/starship/starship
         - title: z.lua
           url: https://github.com/skywind3000/z.lua
           description: 一款高性能的目录跳转工具
@@ -1337,16 +2060,59 @@
           description: 可以帮助你设计云，并制定云资源预算
           logo: cloudcraft.co.svg
 
-    - name: VSCode 插件
+    - name: VSCode
       links:
+        - title: Dev Containers
+          url: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+          description: 借助 Docker 构建开发环境
+          logo: vs-code-extension-dev-containers.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://code.visualstudio.com/docs/devcontainers/containers
         - title: Markdown Preview Enhanced
           url: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
-          # url: https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
           description: Markdown 预览增强
           logo: vs-code-extension-markdown-preview-enhanced.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
+
+    - name: 服务编排
+      links:
+        - title: pipedream
+          url: https://pipedream.com/
+          description: 组织、连接、编排 API, 自动化工作流程
+          logo: pipedream.com.png
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 专业收费
+            info:
+              - icon: ri-book-2-line
+                title: Document
+                url: https://pipedream.com/docs
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/PipedreamHQ/pipedream
+        - title: Easegress
+          url: https://megaease.com/zh/easegress/
+          description: 全功能型的流量调度和编排系统
+          logo: megaease.com.png
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://megaease.com/zh/docs/easegress/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/megaease/easegress
 
 - name: 无忧生活
-  icon: linecons-tv
+  icon: ri-cake-3-line
   sub:
     - name: 便民服务
       links:
@@ -1386,6 +2152,10 @@
           url: https://www.gsxt.gov.cn/
           description: 查询企业信用信息
           logo: guohui.png
+        - title: Bypass-分流抢票
+          url: https://www.bypass.cn/
+          description: 抢火车票神器
+          logo: www.bypass.cn.ico
         - title: 酷家乐
           url: https://www.kujiale.com/
           description: 3D 设计平台
@@ -1397,6 +2167,19 @@
 
     - name: 影音资源
       links:
+        - title: listen1
+          url: https://listen1.github.io/listen1/
+          description: 免费听全网音乐
+          logo: listen1.png
+          icons:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/listen1
+        - title: 哔嘀影视
+          url: https://www.bdys01.com/
+          description: 热门影视在线观看
+          logo: bdys01.com.svg
         - title: RARGB
           url: https://rargb.to/
           description: 高质量影音下载网站
@@ -1405,10 +2188,6 @@
           url: https://www.btnull.org/
           description: 满足你的影视需求
           logo: btnull.org.ico
-        - title: 哔嘀影视
-          url: https://www.bdys01.com/
-          description: 热门影视在线观看
-          logo: bdys01.com.svg
         - title: 茶杯狐
           url: https://cupfox.app/
           description: 另一个刷剧网站
@@ -1424,14 +2203,14 @@
 
     - name: 电子书籍
       links:
+        - title: z-library
+          url: https://singlelogin.me/
+          description: 世界上最大的数字图书馆
+          logo: z-lib.org.png
         - title: Anna's Archive
           url: https://annas-archive.org/
           description: z-library 的镜像站
           logo: z-lib.org.png
-        # - title: z-library
-        #   url: https://z-lib.org/
-        #   description: 世界上最大的数字图书馆
-        #   logo: z-lib.org.png
         # - title: 熊猫搜书
         #   url: https://xmsoushu.com/#/
         #   description: 集成了多个搜书平台，可以当成导航网站来用
@@ -1444,10 +2223,10 @@
           url: https://www.ituring.com.cn/book
           description: IT 领域书籍
           logo: ituring.com.cn.png
-        - title: 鸠摩搜索
-          url: https://www.jiumodiary.com/
-          description: 文档搜索引擎
-          logo: jiumodiary.com.png
+        # - title: 鸠摩搜索
+        #   url: https://www.jiumodiary.com/
+        #   description: 文档搜索引擎
+        #   logo: jiumodiary.com.png
 
     - name: 游戏资源
       links:
@@ -1522,7 +2301,7 @@
           logo: zhujiceping.com.png
 
 - name: 网络博客
-  icon: linecons-note
+  icon: ri-edit-2-line
   sub:
     - name: 博客工具
       links:
