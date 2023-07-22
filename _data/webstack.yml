@@ -1027,6 +1027,11 @@
           url: https://github.com/LSPosed/LSPosed
           description: 你懂就好
           logo: lsposed.svg
+          icons:
+            info:
+              - icon: ri-book-2-line
+                title: 插件
+                url: https://github.com/Xposed-Modules-Repo
         # - title: ClashForAndroid
         #   url: https://github.com/Kr328/ClashForAndroid/releases
         #   description: 一款还不错的代理软件
@@ -2420,6 +2425,9 @@
               - icon: ri-book-2-line
                 title: 文档
                 url: https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/shd101wyy/markdown-preview-enhanced
 
     - name: 服务编排
       links:
