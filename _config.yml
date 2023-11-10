@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -28,7 +28,7 @@ static:
   path:
     logo: /assets/images/logos/
 
-email: 903481591@qq.com
+email: seven@diqigan.cn
 
 # Build settings
 theme: minima
@@ -36,8 +36,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: Seven-Steven/webstack-jekyll
-
+  repo: seven-steven/webstack-jekyll
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
