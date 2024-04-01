@@ -407,6 +407,8 @@
                 title: 通义灵码
                 url: https://tongyi.aliyun.com/lingma/
               - icon: ri-exchange-line
+                title: AWS CodeWhisperer
+                url: https://aws.amazon.com/codewhisperer/
         - title: Midjourney
           url: https://www.midjourney.com/
           description: 高质量 AI 绘图
