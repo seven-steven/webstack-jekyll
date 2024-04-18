@@ -2334,6 +2334,9 @@
               - icon: ri-book-2-line
                 title: Document
                 url: https://tailwindcss.com/docs/
+              - icon: ri-book-2-line
+                title: 中文文档
+                url: https://tailwind.nodejs.cn/docs/installation
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/tailwindlabs/tailwindcss
