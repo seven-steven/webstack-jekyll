@@ -677,7 +677,7 @@
     - name: PPT 模板
       links:
         - title: ρρt超级市场
-          url: https://ppt.sotary.com/
+          url: https://www.pptsupermarket.com/
           description: 免费、优质、高效、安全的 PPT 模板下载网站
           logo: ppt.sotary.com.svg
         - title: 稻壳儿
@@ -696,10 +696,6 @@
           url: https://sc.chinaz.com/ppt/
           description: PPT 模板免费下载
           logo: sc.chinaz.com.svg
-        - title: 叮当设计
-          url: https://www.dingdangsheji.com/
-          description: 完全免费的优秀素材下载网站
-          logo: dingdangsheji.com.svg
         - title: 吾道
           url: https://www.woodo.cn/
           description: 专业演示文档制作工具，PPT模板，协同办公
@@ -1203,17 +1199,13 @@
           url: https://www.xbext.com/
           description: 无新闻，无推送，无后台，小而强大，给你淋漓尽致的浏览体验。支持油猴。
           logo: xbext.com.png
-
         - title: TVBox
-          url: https://vinswu.github.io/tvbox/
+          url: https://github.com/o0HalfLife0o/TVBoxOSC/releases
           description: 智能电视
           logo: vinsuw.github.io-tvbox.svg
           icons:
             status:
             info:
-              - icon: ri-sparkling-2-line
-                title: 下载地址
-                url: https://github.com/o0HalfLife0o/TVBoxOSC/releases
         - title: Magisk
           url: https://github.com/topjohnwu/Magisk
           description: 获取 Android Root 权限
@@ -1630,26 +1622,19 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/tabler/tabler-icons
-        - title: LivIcons Evolution
-          url: https://livicons.com/
-          description: 动态图标库
-          logo: livicons.com.png
+        - title: lordicon
+          url: https://lordicon.com/icons
+          description: 动态图标库，部分收费
+          logo: lordicon.com.svg
           icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 部分收费
+                url: https://lordicon.com/pricing
             info:
-              - icon: ri-exchange-line
-                title: lordicon
-                url: https://lordicon.com/icons
-                description: 动态图标库，部分收费
-                logo: lordicon.com.svg
-                icons:
-                  status:
-                    - icon: ri-money-cny-circle-line
-                      title: 部分收费
-                      url: https://lordicon.com/pricing
-                  info:
-                    - icon: ri-book-2-line
-                      title: Document
-                      url: https://lordicon.com/docs
+              - icon: ri-book-2-line
+                title: Document
+                url: https://lordicon.com/docs
         - title: ionicons
           url: https://ionic.io/
           description: 基于 js 的开源图标库
@@ -1716,10 +1701,6 @@
           url: https://yeun.github.io/open-color/
           description: 13 种常用颜色
           logo: yeun.github.io-open-color.svg
-        - title: ColorSupply
-          url: https://colorsupplyyy.com/
-          description: 来自世界各地设计师的色彩搭配方案
-          logo: colorsupplyyy.com.svg
         - title: WebGradients
           url: https://webgradients.com/
           description: 漂亮的渐变色合集
@@ -3183,8 +3164,8 @@
           url: https://www.bmpi.dev/
           description: 一位践行终身学习的全栈开发者
           logo: www.bmpi.dev.svg
-        - title: 思圆笔记
-          url: https://hintsnet.com/pimgeek/blog/
+        - title: pimgeek
+          url: https://pimgeek.com/blog/
           description: 一位百科知识爱好者和数字化知识管理研究者
           logo: hintsnet.com.jpg
         - title: 张理查的海拉鲁
