@@ -60,6 +60,15 @@
       logo: tagly.notion.site.png
       icons:
         info:
+    - title: 小报童排行榜
+      url: https://xiaobot.osguider.com/
+      description: 小报童排行榜，发现优秀专栏。
+      logo: xiaobot.net.png
+      icons:
+        status:
+          - icon: ri-money-cny-circle-line
+            title: 收费
+        info:
     - title: 多邻国
       url: https://www.duolingo.cn/
       description: 有趣生动的语言学习网站
