@@ -769,6 +769,13 @@
           url: https://www.huorong.cn/
           description: 如果一定要安装杀软，那就选择火绒吧
           logo: huorong.cn.png
+        - title: WO Mic
+          url: https://wolicheng.com/womic/
+          description: 让手机成为你电脑的麦克风
+          logo: wolicheng.com-womic.webp
+          icons:
+            status:
+            info:
         - title: everything
           url: https://www.voidtools.com/zh-cn/
           description: Windows 下的高效文件搜索工具
@@ -811,6 +818,16 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/rustdesk/rustdesk
+        - title: 影刀
+          url: https://www.yingdao.com/
+          description: 我们创造软件机器人，让人不需要像机器一样工作
+          logo: yingdao.com.png
+          icons:
+            status:
+            info:
+              - icon: ri-exchange-line
+                title: UiBot
+                url: https://www.uibot.com.cn/
         - title: 幕享
           url: https://letsview.com/zh/
           description: 免费的无线投屏工具
