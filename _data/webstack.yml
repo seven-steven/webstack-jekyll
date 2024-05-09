@@ -2526,6 +2526,13 @@
           url: https://webcode.tools/
           description: 前端代码生成器
           logo: circle-blue.svg
+        - title: Responsive Viewer
+          url: https://responsiveviewer.org/
+          description: 响应式网站多终端适配效果预览
+          logo: responsiveviewer.org.svg
+          icons:
+            status:
+            info:
 
     - name: 后端开发
       links:
