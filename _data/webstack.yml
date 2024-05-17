@@ -724,6 +724,10 @@
             status:
               - icon: ri-send-plane-fill
                 title: 国际互联网
+            info:
+              - icon: ri-sparkling-2-line
+                title: Windows 离线安装版
+                url: https://www.google.com/intl/zh-CN/chrome/?standalone=1
         - title: uTools
           url: https://u.tools/
           description: 程序员的生产力工具集
@@ -2650,6 +2654,16 @@
               - icon: ri-github-fill
                 title: Github
                 url: elastic-view.cn.svg
+        - title: Java Decompiler
+          url: https://java-decompiler.github.io/
+          description: Java 反编译工具
+          logo: java-decompiler.github.io.png
+          icons:
+            status:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/java-decompiler/jd-gui
 
     - name: 服务运维
       links:
