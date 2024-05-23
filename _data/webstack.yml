@@ -1342,6 +1342,27 @@
                 title: English
                 url: https://icons8.com/icons
 
+    - name: 设计工具
+      links:
+        - title: Figma
+          url: https://www.figma.com/
+          description: 协同界面设计工具
+          logo: figma.com.svg
+          icons:
+            status:
+            info:
+              - icon: ri-book-2-line
+                title: 非官方教程
+                url: https://shiftnudge.com/figma
+        - title: PIXLR
+          url: https://pixlr.com/
+          description: 在线 PS 工具，无需登录
+          logo: pixlr.com.png
+        - title: 稿定
+          url: https://ps.gaoding.com/#/
+          description: 在线 PS 工具
+          logo: ps.gaoding.com.ico
+
     - name: 图片素材
       links:
         - title: Pixabay
@@ -1453,14 +1474,6 @@
             status:
               - icon: ri-money-cny-circle-line
                 title: 部分收费
-        - title: PIXLR
-          url: https://pixlr.com/
-          description: 在线 PS 工具，无需登录
-          logo: pixlr.com.png
-        - title: 稿定
-          url: https://ps.gaoding.com/#/
-          description: 在线 PS 工具
-          logo: ps.gaoding.com.ico
         - title: Shots
           url: https://shots.so/
           description: Create Amazing Mockups
