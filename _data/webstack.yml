@@ -149,6 +149,13 @@
   sub:
     - name: 在线工具
       links:
+        - title: Bento
+          url: https://bento.me/
+          description: 个人链接聚合页，内容丰富，页面美观。
+          logo: bento.me.svg
+          icons:
+            status:
+            info:
         - title: You.com
           url: https://you.com/
           description: 一个还不错的搜索引擎
