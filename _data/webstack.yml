@@ -2815,6 +2815,66 @@
                 title: 英文
             info:
 
+    - name: 站长工具
+      links:
+        - title: Google PageSpeed Insights
+          url: https://pagespeed.web.dev/
+          description: 检测网页在移动设备和桌面设备上的用户体验，并提供改进建议。
+          logo: pagespeed.web.dev.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: Google Search Console
+          url: https://search.google.com/search-console
+          description: google 搜索引擎收录
+          logo: search.google.com_search-console.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: Google Analytics
+          url: https://analytics.google.com/
+          description: 网站访问量分析
+          logo: analystics.google.com.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: Google AdSense
+          url: https://www.google.com/adsense/
+          description: 谷歌广告
+          logo: google.com_adsense.ico
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: 百度搜索资源平台
+          url: https://ziyuan.baidu.com/
+          description: 百度搜索资源平台
+          logo: baidu.com.svg
+          icons:
+            status:
+            info:
+        - title: Bing Webmaster Tools
+          url: https://www.bing.com/webmasters/
+          description: 必应站长工具
+          logo: bing.com.png
+          icons:
+            status:
+            info:
+        - title: Yandex Webmaster
+          url: https://webmaster.yandex.com/
+          description: Yandex 站长工具
+          logo: webmaster.yandex.com.ico
+          icons:
+            status:
+            info:
+
     - name: VSCode
       links:
         - title: Dev Containers
