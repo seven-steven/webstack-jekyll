@@ -839,10 +839,18 @@
               - icon: ri-exchange-line
                 title: UiBot
                 url: https://www.uibot.com.cn/
-        - title: 幕享
-          url: https://letsview.com/zh/
-          description: 免费的无线投屏工具
-          logo: letsview.com.svg
+        - title: AirDroid
+          url: https://www.airdroid.cn/cast/
+          description: 高效便捷的投屏和控制工具
+          logo: airdroid.cn-cast.ico
+          icons:
+            status:
+            info:
+              - icon: ri-exchange-line
+                title: 幕享
+                url: https://letsview.com/zh/
+                description: 免费的无线投屏工具
+                logo: letsview.com.svg
         - title: PowerToys
           url: https://github.com/microsoft/PowerToys
           description: Windows 下的效率工具
