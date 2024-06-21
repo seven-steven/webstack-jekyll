@@ -440,6 +440,13 @@
               - icon: ri-exchange-line
                 title: AWS CodeWhisperer
                 url: https://aws.amazon.com/codewhisperer/
+        - title: Stable Diffusion 3
+          url: https://stablediffusion3.net/
+          description: 免费试用 Stable Diffusion 3 在线
+          logo: stablediffusion3.net.ico
+          icons:
+            status:
+            info:
         - title: Midjourney
           url: https://www.midjourney.com/
           description: 高质量 AI 绘图
