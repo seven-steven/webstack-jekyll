@@ -1841,10 +1841,13 @@
           url: https://www.qiuziti.com/
           description: 字体下载、识别与搜索
           logo: qiuziti.com.ico
-        #      - title: 字体仓库
-        #        url: https://www.ziticangku.com/
-        #        description: 免费下载无版权可商用字体
-        #        logo: ziticangku.com.svg
+        - title: 我的字体
+          url: https://cloud.myfont.bid/
+          description: 在线生成手写字体
+          logo: cloud.myfont.bid.ico
+          icons:
+            status:
+            info:
         - title: Font Converter
           url: https://fontconverter.com/
           description: 字体格式转换
@@ -2395,6 +2398,16 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/animate-css/animate.css
+        - title: Loadership
+          url: https://www.loadership.com/
+          description: CSS 加载动效生成器
+          logo: loadership.com.svg
+          icons:
+            status:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/ccc159/loadership
         - title: normalize.css
           url: https://necolas.github.io/normalize.css/
           description: 让你的 HTML 默认样式保持跨浏览器的一致性
