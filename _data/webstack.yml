@@ -1400,6 +1400,15 @@
           url: https://ps.gaoding.com/#/
           description: 在线 PS 工具
           logo: ps.gaoding.com.ico
+        - title: 唯象
+          url: https://www.weshop.com/
+          description: 专注电商需求的 AI 商拍工具
+          logo: weshop.com.svg
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 收费
+            info:
 
     - name: 图片素材
       links:
