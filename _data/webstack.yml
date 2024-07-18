@@ -1409,6 +1409,13 @@
               - icon: ri-money-cny-circle-line
                 title: 收费
             info:
+        - title: 羚珑
+          url: https://ling.jd.com/
+          description: 京东为商家提供的商品图片设计平台
+          logo: ling.jd.com.png
+          icons:
+            status:
+            info:
 
     - name: 图片素材
       links:
