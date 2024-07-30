@@ -2913,6 +2913,13 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+        - title: Microsoft Clarity
+          url: https://clarity.microsoft.com/
+          description: 热度地图、会话录制、访问统计
+          logo: clarity.microsoft.com.ico
+          icons:
+            status:
+            info:
         - title: 百度搜索资源平台
           url: https://ziyuan.baidu.com/
           description: 百度搜索资源平台
