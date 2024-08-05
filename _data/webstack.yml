@@ -835,6 +835,13 @@
           url: https://mathewsachin.github.io/Captura/
           description: 录制屏幕、声音、光标和按键
           logo: mathewsachin.github.io.svg
+        - title: keyviz
+          url: https://mularahul.github.io/keyviz/
+          description: 在屏幕上显示你正在操作的按键
+          logo: mularahul.github.io-keyviz.ico
+          icons:
+            status:
+            info:
         - title: Motrix
           url: https://motrix.app/
           description: 开源的高颜值下载工具
