@@ -842,6 +842,9 @@
           icons:
             status:
             info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/mulaRahul/keyviz
         - title: Motrix
           url: https://motrix.app/
           description: 开源的高颜值下载工具
