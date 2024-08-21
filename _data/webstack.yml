@@ -1323,14 +1323,10 @@
           url: https://github.com/termux/termux-app
           description: 安卓系统上的命令行终端神器
           logo: termux.svg
-        #        - title: HttpCanary
-        #          url: https://apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary
-        #          description: 最好用的安卓抓包工具
-        #          logo: httpcanary.svg
-        - title: VNET
-          url: https://www.vnet-tech.com/
-          description: 安卓抓包工具，无需 ROOT
-          logo: vnet-tech.com.svg
+        - title: HttpCanary
+          url: https://apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary
+          description: 最好用的安卓抓包工具
+          logo: httpcanary.svg
         - title: VMOS
           url: https://www.vmos.com/
           description: 安卓虚拟机
