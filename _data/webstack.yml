@@ -2880,6 +2880,15 @@
               - icon: ri-english-input
                 title: 英文
             info:
+        - title: ZeroSSL
+          url: https://zerossl.com/
+          description: 给你的 IP 签发 SSL 证书
+          logo: zerossl.com.png
+          icons:
+            status:
+              - icon: ri-money-cny-circle-line
+                title: 免费额度
+            info:
 
     - name: 站长工具
       links:
