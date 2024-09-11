@@ -2170,6 +2170,10 @@
                 title: 正则表达式在线测试
                 logo: c.runoob.com.svg
                 url: https://c.runoob.com/front-end/854/
+        - title: 清华大学开源软件镜像站
+          url: https://mirrors.tuna.tsinghua.edu.cn/help/
+          description: 软件开发加速器
+          logo: mirrors.tuna.tsinghua.edu.cn.png
 
     - name: 开源项目
       links:
