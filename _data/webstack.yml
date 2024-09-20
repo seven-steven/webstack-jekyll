@@ -3358,6 +3358,13 @@
           url: https://markdown.com.cn/editor/
           description: Markdown 文件转微信排版的工具
           logo: markdown.com.cn-editor.svg
+        - title: 深言达意
+          url: https://www.shenyandayi.com/
+          description: 输入想表达的意思，找到恰当用词
+          logo: shenyandayi.com.ico
+          icons:
+            status:
+            info:
 
     - name: 个人博客
       links:
