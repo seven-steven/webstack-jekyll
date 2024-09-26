@@ -2078,10 +2078,27 @@
             info:
               - icon: ri-github-fill
                 url: https://github.com/GerritCodeReview/gerrit
-        - title: PlantUML
-          url: https://plantuml.com/zh/
-          description: 一款文本绘图工具
-          logo: plantuml.com.svg
+        - title: Mermaid
+          url: https://mermaid.live/
+          description: 超简单的文本绘图工具
+          logo: mermaid.live.svg
+          icons:
+            status:
+            info:
+              - icon: ri-home-office-line
+                title: 官网
+                url: https://mermaid.js.org/
+              - icon: ri-book-2-line
+                title: Document
+                url: https://mermaid.js.org/intro/
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/mermaid-js/mermaid
+              - icon: ri-exchange-line
+                title: PlantUML
+                url: https://plantuml.com/zh/
+                description: 一款文本绘图工具
+                logo: plantuml.com.svg
         - title: draw.io
           url: https://app.diagrams.net/
           description: 非常好用的轻量级绘图工具
