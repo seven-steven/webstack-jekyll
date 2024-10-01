@@ -3223,15 +3223,21 @@
                 title: 网址发布页
                 url: https://ddys.site/
         - title: 哔嘀影视
-          url: https://www.bdys10.com/
+          url: https://www.52bdys.com/
           description: 热门影视在线观看
           logo: bdys01.com.svg
+          icons:
+            status:
+            info:
+              - icon: ri-exchange-line
+                title: 网址发布页
+                url: https://www.bdys.me/
         - title: RARGB
           url: https://rargb.to/
           description: 高质量影音下载网站
           logo: rargb.to.ico
-        - title: 无名小站
-          url: https://www.btnull.org/
+        - title: 观影 GYING
+          url: https://www.gying.net
           description: 满足你的影视需求
           logo: btnull.org.svg
         - title: 茶杯狐
@@ -3363,10 +3369,6 @@
   sub:
     - name: 博客工具
       links:
-        - title: Feeds Pub
-          url: https://feeds.pub/
-          description: 一个 RSS 聚合器，可以订阅自己喜欢的网站
-          logo: feeds.pub.svg
         - title: BlogHub
           url: https://bloghub.fun/
           description: 个人博客聚合网站
