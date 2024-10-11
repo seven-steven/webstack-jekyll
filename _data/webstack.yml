@@ -513,6 +513,9 @@
               - icon: ri-money-cny-circle-line
                 title: 免费方案
             info:
+              - icon: ri-book-2-line
+                title: Cursor Directory
+                url: https://cursor.directory/
         - title: Perplexity
           url: https://www.perplexity.ai/
           description: AI 搜索引擎
