@@ -3380,6 +3380,10 @@
           icons:
             status:
             info:
+        - title: WhoisMaking.Money
+          url: https://whoismaking.money/zh
+          description: 通过分析 Stripe 支付流量，发现谁正在赚钱
+          logo: whoismaking.money.svg
 
 - name: 网络博客
   icon: ri-edit-2-line
