@@ -1550,7 +1550,7 @@
         - title: Shots
           url: https://shots.so/
           description: Create Amazing Mockups
-          logo: shots.so.webp
+          logo: shots.so.png
           icons:
             status:
               - icon: ri-english-input
