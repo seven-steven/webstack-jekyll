@@ -1,0 +1,44 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build-and-deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:4.2.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+    - name: tar artifact
+      run: |
+        tar --transform='s|^_site/||' -czf artifact.tar _site/
+
+    - name: Deploy to Production
+      id: production
+      # @see: https://github.com/easingthemes/ssh-deploy
+      uses: easingthemes/ssh-deploy@v5.0.3
+      with:
+        ARGS: "-rlgoDzvc -i --delete"
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        SOURCE: "./artifact.tar"
+        REMOTE_HOST: ${{ secrets.SSH_REMOTE_HOST }}
+        REMOTE_PORT: ${{ secrets.SSH_REMOTE_PORT }}
+        REMOTE_USER: ${{ secrets.SSH_REMOTE_USER }}
+        TARGET: ${{ secrets.SSH_REMOTE_TARGET }}
+        SCRIPT_AFTER: |
+          cd "${{ secrets.SSH_REMOTE_TARGET }}" \
+          && mkdir temp \
+          && tar xf artifact.tar -C temp/ \
+          && rm -rf site \
+          && mv temp site \
+          && rm -rf artifact.tar temp
