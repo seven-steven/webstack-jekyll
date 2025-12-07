@@ -3324,7 +3324,7 @@
       links:
         - title: Zlibaray
           url: https://library-access.sk/#useful_link_tab
-          description: 世界上最大的数字图书馆 Zlibrary
+          description: 世界上最大的数字图书馆
           logo: z-library.svg
           icons:
             status:
