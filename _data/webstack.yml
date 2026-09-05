@@ -82,9 +82,10 @@
       description: 为键盘工作者设计的英语肌肉记忆练习工具
       logo: qwerty.kaiyi.cool.svg
       icons:
-        - icon: ri-exchange-line
-          title: Alternative
-          url: https://qwerty.kaiyi.cool/
+        info:
+          - icon: ri-exchange-line
+            title: Alternative
+            url: https://qwerty.kaiyi.cool/
     - title: 下厨房
       url: https://www.xiachufang.com/
       description: 实用菜谱做法与饮食知识
@@ -347,19 +348,15 @@
           url: https://paperswithcode.com/
           description: 最新的机器学习论文，包含代码
           logo: paperswithcode.com.svg
-        - title: Learning Prompt
-          url: https://learningprompt.wiki/
-          description: ChatGPT 和 Midjourney 教程
-          logo: learningprompt.wiki.ico
+        - title: OpenAI API 最佳实践
+          url: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+          description: OpenAI 官方 Prompt 工程指南
+          logo: help.openai.com.png
           icons:
             status:
+              - icon: ri-english-input
+                title: 英文
             info:
-              - icon: ri-exchange-line
-                title: OpenAI API 最佳实践
-                url: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
-              - icon: ri-github-fill
-                title: Github
-                url: https://github.com/thinkingjimmy/Learning-Prompt
         - title: Artificial Analysis
           url: https://artificialanalysis.ai/
           description: AI 大模型质量、速度与价格评测
@@ -368,13 +365,6 @@
             status:
               - icon: ri-english-input
                 title: 英文
-            info:
-        - title: Free AI Hunter
-          url: https://www.freeaihunter.com/cn
-          description: 免费 AI API 汇总
-          logo: www.freeaihunter.com.ico
-          icons:
-            status:
             info:
         - title: ChatGPT
           url: https://chat.openai.com/
@@ -1042,6 +1032,9 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/immersive-translate/immersive-translate
+              - icon: ri-exchange-line
+                title: Trancy
+                url: https://www.trancy.org/
         - title: 不背单词查词
           url: https://chrome.google.com/webstore/detail/%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%E6%9F%A5%E8%AF%8D/cklfipcjofdnmdolnfngpmokdaejidim
           description: 不背单词查词
@@ -2373,8 +2366,10 @@
           description: 主流办公文档的在线预览解决方案
           logo: kkfileview.keking.cn.svg
           icons:
-            - icon: ri-github-fill
-              url: https://github.com/kekingcn/kkFileView
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/kekingcn/kkFileView
         - title: Roverr/rtsp-streamH
           logo: github.com.svg
           url: https://github.com/Roverr/rtsp-stream
@@ -3203,6 +3198,108 @@
               - icon: ri-money-cny-circle-line
                 title: 免费方案
             info:
+
+- name: AI 编程
+  icon: ri-sparkling-2-line
+  sub:
+    - name: 编程工具
+      links:
+        - title: Claude Code
+          url: https://claude.com/product/claude-code
+          description: Anthropic 官方终端 AI 编程 Agent
+          logo: claude.ai.svg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://code.claude.com/docs
+        - title: Codex
+          url: https://openai.com/codex
+          description: OpenAI 官方编程 Agent，CLI 与云端写代码
+          logo: openai.com.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: pi
+          url: https://pi.dev
+          description: 极简可扩展的开源 AI 编程 agent
+          logo: pi.dev.svg
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/earendil-works/pi
+    - name: skills
+      links:
+        - title: Matt Pocock Skills
+          url: https://github.com/mattpocock/skills
+          description: Matt Pocock 的 AI 编程技能包，适用于 Claude Code 等 agent
+          logo: github-mattpocock-skills.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+        - title: BMAD-METHOD
+          url: https://github.com/bmad-code-org/BMAD-METHOD
+          description: AI 多智能体敏捷开发方法论框架
+          logo: github-bmad-code-org-bmad-method.png
+          icons:
+            status:
+              - icon: ri-english-input
+                title: 英文
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://docs.bmad-method.org
+    - name: CodingPlan
+      links:
+        - title: ChatGPT
+          url: https://chatgpt.com/pricing/
+          description: 订阅 Plus/Pro，解锁 Codex 编程
+          logo: chat.openai.com.svg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: Claude
+          url: https://claude.com/pricing
+          description: 订阅 Pro/Max，即可使用 Claude Code
+          logo: claude.ai.svg
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+        - title: GLM Coding Plan
+          url: https://bigmodel.cn/claude-code
+          description: 低价订阅 GLM，直连 Claude Code 编程
+          logo: chatglm.cn.png
+          icons:
+            status:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://docs.bigmodel.cn/cn/coding-plan/overview
+        - title: DeepSeek API
+          url: https://platform.deepseek.com
+          description: 按量计费的便宜 API，可接入编程工具
+          logo: chat.deepseek.com.png
+          icons:
+            status:
+            info:
+              - icon: ri-book-2-line
+                title: 文档
+                url: https://api-docs.deepseek.com/zh-cn/quick_start/pricing
 
 - name: 无忧生活
   icon: ri-cake-3-line
